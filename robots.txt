@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://haoran4036.github.io/sitemap.xml
