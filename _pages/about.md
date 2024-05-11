@@ -4,9 +4,6 @@ title: about
 permalink: /
 subtitle: 我的数学、文学与艺术之旅
 
-
-
-
 profile:
   align: right
   image: profile.png
@@ -22,6 +19,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+<blockquote> test
+</blockquote>
 
 
 Hi! welcome to Haoran <b> Liang</b>'s (<b> 梁 </b> 浩然) home page. This website trys to record some beautiful scenery along his journey in mathematics, literature, and art.
