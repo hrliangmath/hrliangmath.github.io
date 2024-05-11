@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 我的数学、文学与艺术之旅
+subtitle: `我的数学、文学与艺术之旅`
 
 profile:
   align: right
