@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.png
   image_circular: false # crops the image to make it circular
   address: >
     <p>555 your office number</p>
@@ -18,6 +18,18 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+
+Hi! I am Haoran Liang (梁 浩然), a PhD student at King’s College London. My advisors are Professor Payman Kassaei and Professor Fred Diamond. Previously, I completed my Master’s degree at ETH Zürich and Bachelor‘s degree at Xi’an Jiaotong University. I am a big fan of number theory with broad interests in its intersecting areas. Currently, I find the following topics very appealing
+
+(p-Adic) Automorphic forms;
+
+Rational points on varieties;
+
+Iwasawa theory, in particular p-adic L-functions;
+
+Cohomological topics in number theory.
+
+Outside mathematics, I enjoy reading, playing badminton, and music, etc. You will surely find me at various kinds of museums. Before the triumph of AI, I loved playing Go very much (I am trying to understand the art of Go after AI).
 
 Write your biography here please. Test tell the world about yourself please. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
