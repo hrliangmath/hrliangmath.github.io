@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi! I am Haoran <b Liang> (梁 浩然), a PhD student at King’s College London under the supervision of [Payman Kassaei](https://www.mathgenealogy.org/id.php?id=37022) and [Fred Diamond](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=49401). Previously, I obtained my Master’s degree at ETH Zürich and Bachelor‘s degree at Xi’an Jiaotong University. 
 
-I am a big fan of number theory with broad interests in its intersecting areas. Currently, I find the following topics very appealing
+I am a big fan of number theory with broad interests in its intersecting areas. Currently, the following topics very appealing to me
 
 (p-adic) automorphic forms;
 
@@ -31,6 +31,6 @@ Iwasawa theory, in particular p-adic L-functions;
 
 cohomological topics in number theory.
 
-Outside mathematics, I enjoy reading, playing badminton, and music, etc. You will surely find me at various kinds of museums. Before the triumph of AI, I loved playing Go very much (I am trying to understand the art of Go after AI).
+When not studying mathematics, I can usually be found reading, playing badminton, or wandering various exhibits at museums with a good audioguide. Before the triumph of AI, I loved playing Go very much (I am trying to understand the art of Go in this post-AI era).
 
 <form method="post" action="https://forms.un-static.com/forms/90aa8fa89b2329b6d6676144e37688c2ef689cf1">
