@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: `我的数学、文学与艺术之旅`
+subtitle: <font color="blue"> 我的数学、文学与艺术之旅 </font>
 
 profile:
   align: right
@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! welcome to Haoran <b> Liang's </b> (<b> 梁 </b> 浩然) homepage. He is now a PhD student at King’s College London under the supervision of [Payman Kassaei](https://www.mathgenealogy.org/id.php?id=37022) and [Fred Diamond](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=49401). Previously, he obtained Master’s degree at ETH Zürich and Bachelor‘s degree at Xi’an Jiaotong University. 
+Hi! welcome to Haoran <b> Liang</b>'s (<b> 梁 </b> 浩然) homepage. He is now a PhD student at King’s College London under the supervision of [Payman Kassaei](https://www.mathgenealogy.org/id.php?id=37022) and [Fred Diamond](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=49401). Previously, he obtained Master’s degree at ETH Zürich and Bachelor‘s degree at Xi’an Jiaotong University. 
 
 He is a big fan of number theory with broad interests in its intersecting areas. Currently, the following topics very appealing to him
 
