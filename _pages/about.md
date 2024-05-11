@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I am Haoran <b Liang> (梁 浩然), a PhD student at King’s College London under the supervision of [Payman Kassaei](https://www.mathgenealogy.org/id.php?id=37022) and [Fred Diamond](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=49401). Previously, I obtained my Master’s degree at ETH Zürich and Bachelor‘s degree at Xi’an Jiaotong University. 
+Hi! I am Haoran <b> Liang </b> (梁 浩然), a PhD student at King’s College London under the supervision of [Payman Kassaei](https://www.mathgenealogy.org/id.php?id=37022) and [Fred Diamond](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=49401). Previously, I obtained my Master’s degree at ETH Zürich and Bachelor‘s degree at Xi’an Jiaotong University. 
 
 I am a big fan of number theory with broad interests in its intersecting areas. Currently, the following topics very appealing to me
 
