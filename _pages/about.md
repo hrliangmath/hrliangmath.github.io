@@ -19,7 +19,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I am Haoran `Liang` (`梁` 浩然), a PhD student at King’s College London. My advisors are Professor [Payman Kassaei](https://www.mathgenealogy.org/id.php?id=37022) and Professor [Fred Diamond](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=49401). Previously, I completed my Master’s degree at ETH Zürich and Bachelor‘s degree at Xi’an Jiaotong University. I am a big fan of number theory with broad interests in its intersecting areas. Currently, I find the following topics very appealing
+Hi! I am Haoran `Liang` (`梁` 浩然), a PhD student at King’s College London under the supervision of [Payman Kassaei](https://www.mathgenealogy.org/id.php?id=37022) and [Fred Diamond](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=49401). Previously, I obtained my Master’s degree at ETH Zürich and Bachelor‘s degree at Xi’an Jiaotong University. 
+
+I am a big fan of number theory with broad interests in its intersecting areas. Currently, I find the following topics very appealing
 
 (p-adic) automorphic forms;
 
