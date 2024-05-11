@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <font color="blue"> 我的数学、文学与艺术之旅 </font>
+subtitle: 我的数学、文学与艺术之旅
 
 profile:
   align: right
