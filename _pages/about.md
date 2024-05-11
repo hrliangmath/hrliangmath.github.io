@@ -12,16 +12,11 @@ profile:
     <p>555 your office number</p>
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
-
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
-
-<blockquote> test
-</blockquote>
-
 
 Hi! welcome to Haoran <b> Liang</b>'s (<b> 梁 </b> 浩然) home page. This website trys to record some beautiful scenery along his journey in mathematics, literature, and art.
 
