@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I am Haoran Liang (梁 浩然), a PhD student at King’s College London. My advisors are Professor [Payman Kassaei](https://www.mathgenealogy.org/id.php?id=37022) and Professor [Fred Diamond](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=49401). Previously, I completed my Master’s degree at ETH Zürich and Bachelor‘s degree at Xi’an Jiaotong University. I am a big fan of number theory with broad interests in its intersecting areas. Currently, I find the following topics very appealing
+Hi! I am Haoran `Liang` (`梁` 浩然), a PhD student at King’s College London. My advisors are Professor [Payman Kassaei](https://www.mathgenealogy.org/id.php?id=37022) and Professor [Fred Diamond](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=49401). Previously, I completed my Master’s degree at ETH Zürich and Bachelor‘s degree at Xi’an Jiaotong University. I am a big fan of number theory with broad interests in its intersecting areas. Currently, I find the following topics very appealing
 
 (p-adic) automorphic forms;
 
@@ -30,11 +30,5 @@ Iwasawa theory, in particular p-adic L-functions;
 cohomological topics in number theory.
 
 Outside mathematics, I enjoy reading, playing badminton, and music, etc. You will surely find me at various kinds of museums. Before the triumph of AI, I loved playing Go very much (I am trying to understand the art of Go after AI).
-
-# Write your biography here please. Test tell the world about yourself please. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-# Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 
 <form method="post" action="https://forms.un-static.com/forms/90aa8fa89b2329b6d6676144e37688c2ef689cf1">
