@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hi! welcome to Haoran <b> Liang</b>'s (<b> 梁 </b> 浩然) home page. This website trys to record some beautiful scenery along his journey in mathematics, literature, and art.
+Hi! welcome to Haoran <b> Liang</b>'s (<b> 梁 </b> 浩然) home page. This website trys to record some beautiful scenery along his journey in mathematics, literature, and art. His old page can be found [here]()
 
 He jointed King’s College London from Summer 2024 as a PhD student under the supervision of [Payman Kassaei](https://www.mathgenealogy.org/id.php?id=37022) and [Fred Diamond](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=49401). Previously, he completed his Master’s at ETH Zürich and Bachelor‘s at Xi’an Jiaotong University. 
 
@@ -32,7 +32,7 @@ Iwasawa theory, in particular p-adic L-functions;
 
 cohomological methods in number theory.
 
-When not struglling with mathematics, he can usually be found reading, playing badminton, or wandering various exhibits at museums with a good audioguide. Before the triumph of AI, he enjoyed playing Go very much (he is now struggling to appreciate the art of Go in the post-AI era).
+When not struggling with mathematics, he can usually be found reading, playing badminton, or wandering various exhibits at museums with a good audioguide. Before the triumph of AI, he enjoyed playing Go very much (he is now struggling to appreciate the art of Go in the post-AI era).
 
 
 `UNDER CONSTRUCTION`
