@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hi! welcome to Haoran <b> Liang</b>'s (<b> 梁 </b> 浩然) home page. This website trys to record some beautiful scenery along his journey in mathematics, literature, and art. His old page can be found [here]()
+Hi! welcome to Haoran <b> Liang</b>'s (<b> 梁 </b> 浩然) home page. This website trys to record some beautiful scenery along his journey in mathematics, literature, and art. His old page can be found [here](https://hrliangmath.wordpress.com).
 
 He jointed King’s College London from Summer 2024 as a PhD student under the supervision of [Payman Kassaei](https://www.mathgenealogy.org/id.php?id=37022) and [Fred Diamond](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=49401). Previously, he completed his Master’s at ETH Zürich and Bachelor‘s at Xi’an Jiaotong University. 
 
