@@ -18,15 +18,15 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hi! welcome to Haoran <b> Liang</b>'s (<b> 梁 </b> 浩然) home page. This website trys to record some beautiful scenery along his journey in mathematics, literature, and art. His old page can be found [here](https://hrliangmath.wordpress.com).
+Hi! welcome to Haoran <b> Liang</b>'s (<b> 梁 </b> 浩然) home page. This website trys to record some beautiful scenery along his journey in mathematics, literature, and arts. His old webpage can be found [here](https://hrliangmath.wordpress.com).
 
 He jointed King’s College London from Summer 2024 as a PhD student under the supervision of [Payman Kassaei](https://www.mathgenealogy.org/id.php?id=37022) and [Fred Diamond](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=49401). Previously, he completed his Master’s at ETH Zürich and Bachelor‘s at Xi’an Jiaotong University. 
 
-He is a big fan of number theory with broad interests in its intersecting areas. He regards himself as an apprentice of ``applying mathematics'', i.e., learning to borrow whatever tools possible to attack number-theoretical problems. Currently, the following topics are very appealing to him
+He is a big fan of number theory with broad interests in its intersecting areas. He regards himself as an apprentice of ``applying mathematics'', i.e., borrowing whatever tools possible to attack number-theoretical problems. Currently, the following topics are very appealing to him
 
 automorphic forms;
 
-mod p Galois representations;
+(mod p) Galois representations;
 
 Iwasawa theory, in particular p-adic L-functions;
 
