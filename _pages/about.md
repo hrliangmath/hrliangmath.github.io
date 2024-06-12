@@ -24,13 +24,12 @@ He jointed King’s College London from Summer 2024 as a PhD student under the s
 
 He is a big fan of number theory with broad interests in its intersecting areas. He regards himself as an apprentice of ``applying mathematics'', i.e., borrowing whatever tools possible to attack number-theoretical problems. Currently, the following topics are very appealing to him
 
-automorphic forms;
-
-(mod p) Galois representations;
-
-Iwasawa theory, in particular p-adic L-functions;
-
-cohomological methods in number theory.
+<ul>
+    <li>automorphic forms;</li>
+    <li>(mod p) Galois representations;</li>
+    <li>Iwasawa theory, in particular p-adic L-functions;</li>
+    <li>cohomological methods in number theory.</li>
+</ul>
 
 When not struggling with mathematics, he can usually be found reading, playing badminton, or wandering various exhibits at museums with a good audioguide. Before the triumph of AI, he enjoyed playing Go very much (he is now struggling to appreciate the art of Go in the post-AI era).
 
