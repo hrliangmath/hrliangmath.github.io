@@ -9,7 +9,7 @@ profile:
   image: profile.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>S5.13</p>
+    <p>S5.13 (presumably)</p>
     <p>Strand Campus</p>
     <p>London, WC2R 2LS</p>
 news: true  # includes a list of news items
