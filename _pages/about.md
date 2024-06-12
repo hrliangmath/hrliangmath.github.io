@@ -9,9 +9,9 @@ profile:
   image: profile.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>S5.13</p>
+    <p>Strand Campus</p>
+    <p>London, WC2R 2LS</p>
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
