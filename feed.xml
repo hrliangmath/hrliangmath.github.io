@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en, cn"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://hrliangmath.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://hrliangmath.github.io/" rel="alternate" type="text/html" hreflang="en, cn" /><updated>2024-06-12T21:42:13+00:00</updated><id>https://hrliangmath.github.io/feed.xml</id><title type="html">远眺</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en, cn"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://hrliangmath.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://hrliangmath.github.io/" rel="alternate" type="text/html" hreflang="en, cn" /><updated>2024-06-12T21:43:25+00:00</updated><id>https://hrliangmath.github.io/feed.xml</id><title type="html">远眺</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 </subtitle><entry><title type="html">a post with audios</title><link href="https://hrliangmath.github.io/blog/2023/audios/" rel="alternate" type="text/html" title="a post with audios" /><published>2023-04-25T10:25:00+00:00</published><updated>2023-04-25T10:25:00+00:00</updated><id>https://hrliangmath.github.io/blog/2023/audios</id><content type="html" xml:base="https://hrliangmath.github.io/blog/2023/audios/"><![CDATA[<p>This is an example post with audios. It supports local audio files.</p>
 
 <div class="row mt-3">
@@ -21,7 +21,20 @@
 </div>
 <div class="caption">
     A simple, elegant caption looks good between video rows, after each row, or doesn't have to be there at all.
-</div>]]></content><author><name></name></author><category term="sample-posts" /><category term="including" /><category term="audios" /><summary type="html"><![CDATA[this is what included audios could look like]]></summary></entry><entry><title type="html">Professor Will Merry at ETH Zürich passed away</title><link href="https://hrliangmath.github.io/blog/2022/merry/" rel="alternate" type="text/html" title="Professor Will Merry at ETH Zürich passed away" /><published>2022-09-20T00:00:00+00:00</published><updated>2022-09-20T00:00:00+00:00</updated><id>https://hrliangmath.github.io/blog/2022/merry</id><content type="html" xml:base="https://hrliangmath.github.io/blog/2022/merry/"><![CDATA[<p>I learned today that Professor <a href="https://www2.math.ethz.ch/will-merry/index.html">Will Merry</a> has passed way, and it feels so sudden and unreal.</p>
+</div>]]></content><author><name></name></author><category term="sample-posts" /><category term="including" /><category term="audios" /><summary type="html"><![CDATA[this is what included audios could look like]]></summary></entry><entry><title type="html">Comments on “Galois Groups and Fundamental Groups” by Tamás Szamuely – Jeremy Feusi</title><link href="https://hrliangmath.github.io/blog/2023/comments/" rel="alternate" type="text/html" title="Comments on “Galois Groups and Fundamental Groups” by Tamás Szamuely – Jeremy Feusi" /><published>2023-02-11T00:00:00+00:00</published><updated>2023-02-11T00:00:00+00:00</updated><id>https://hrliangmath.github.io/blog/2023/comments</id><content type="html" xml:base="https://hrliangmath.github.io/blog/2023/comments/"><![CDATA[<p>The book “Galois Groups and Fundamental Groups” by Tamás Szamuely is an expository text which was written so as to give an overview of the many different contexts in which Galois groups and fundamental groups occur. It uses the overarching theme of exploring the relationship between these two types of groups to introduce many classical and modern concepts which in my opinion both gives it a coherent storyline and makes it enjoyable to read. I read chapters 1,2,3 and parts of
+chapter 5 and solved many of the exercises provided at the end of each chapter.</p>
+
+<p>Chapter 1 gives a review of the Galois theory of fields with a focus on the more advanced/abstract parts such as infinitary Galois theory and Grothendieck’s version of the fundamental theorem of Galois theory. This chapter is suitable for anyone who already has some experience with basic field theory but is probably not ideal as a textbook for learning Galois theory from scratch. Namely, most of the proofs of the more basic results are omitted and only the first approximately 10 pages are dedicated to finitary Galois theory.</p>
+
+<p>Chapter 2 discusses covering spaces and the fundamental group. I believe once again that this chapter is most likely not particularly useful as a first introduction into covering theory. In particular, I find the way in which the universal cover is presented to be rather unenlightening if one is not already familiar with this construction. Moreover, there are no pictures contained in the book which makes it hard to visualize the new concepts if one does not already have some kind of mental image. On the other hand I highly recommend reading this if you have a bit of a background in covering theory: Much of the theory presented has a rather category theoretical spin to it which offers an alternative view on the more classical definitions. Moreover, Tamás Szamuely takes care to formulate the results and definitions so as to highlight the structural similarity with the previous chapter whenever possible. I skipped sections 2.6 and 2.7 since I was not planning on learning about differential equations at the time though the introduction to sheaves preceding these two sections should not be skipped as it will become essential later on.</p>
+
+<p>Chapter 3 then links chapters 1 and 2 by discussing the theory of Riemann surfaces. On the one hand, it explores the topological properties of Riemann surfaces and how they relate to covering theory and on the other hand, the meromorphic function field is introduced which allows one to apply the results from chapter 1. Thereafter, some applications are discussed and in particular the absolute Galois group of C(t) is described. All in all I found this chapter to be very elegant and interesting and at the same time an accessible introduction into the theory of Riemann surfaces, assuming only basic complex analysis.</p>
+
+<p>Finally, chapter 5 introduces schemes and finite étale covers of schemes. I ignored the warning at the beginning of this chapter and read it with no prior knowledge on schemes and modern algebraic geometry. I found that it was nevertheless possible to follow the arguments but as the introduction to schemes is rather short, proceeding in this way will most likely leave you with only the intuition or general idea of most of the proofs while more knowledge must be obtained from a different source such as “The rising sea” or EGA in order to get a better understanding.</p>
+
+<p>All in all, I found this book to be quite entertaining and informative and in a pinch it can also serve as a reference for both basic algebraic geometry and topology. I decided to skip chapter 4, which discusses algebraic curves, as I am mainly interested in schemes anyways and half way through this chapter I was kind of put off by the sheer amount of definitions appearing (many of the concepts will have a lot of adjectives attached to them). However, in a way this also provides a motivation for the introduction of schemes as the greater generality seems to make the concepts clearer. The exercises at the end of each chapter are very helpful and I think that solving a significant portion of them is indispensable for understanding the book.</p>
+
+<p>Note however that some of them do contain errors: A collection of all currently known errata can be found on the author’s <a href="https://pagine.dm.unipi.it/tamas/erratafg.pdf">homepage</a>.</p>]]></content><author><name></name></author><category term="mathematics" /><category term="textbook" /><summary type="html"><![CDATA[Book comments]]></summary></entry><entry><title type="html">Professor Will Merry at ETH Zürich passed away</title><link href="https://hrliangmath.github.io/blog/2022/merry/" rel="alternate" type="text/html" title="Professor Will Merry at ETH Zürich passed away" /><published>2022-09-20T00:00:00+00:00</published><updated>2022-09-20T00:00:00+00:00</updated><id>https://hrliangmath.github.io/blog/2022/merry</id><content type="html" xml:base="https://hrliangmath.github.io/blog/2022/merry/"><![CDATA[<p>I learned today that Professor <a href="https://www2.math.ethz.ch/will-merry/index.html">Will Merry</a> has passed way, and it feels so sudden and unreal.</p>
 
 <p>I still remember clearly his last algebraic topology Ⅰ lecture, as if it were held yesterday – He stopped by introducing the cup product in cohomology and bid us farewells, with great emotion in his voice. I thought it was because he did not get a tenure-track position to stay longer at ETH Zürich. I was so frustrated by the fact that he would not continue to be the instructor of the algebraic topology Ⅱ course the next semester.</p>
 
@@ -295,104 +308,4 @@ Simply add <code class="language-plaintext highlighter-rouge">data-zoomable</cod
     —Anais Nin
 </blockquote>
 
-<p>Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.</p>]]></content><author><name></name></author><category term="sample-posts" /><category term="formatting" /><category term="links" /><summary type="html"><![CDATA[march & april, looking forward to summer]]></summary></entry><entry><title type="html">a post with custom blockquotes</title><link href="https://hrliangmath.github.io/blog/2013/custom-blockquotes-copy/" rel="alternate" type="text/html" title="a post with custom blockquotes" /><published>2013-05-12T00:00:00+00:00</published><updated>2013-05-12T00:00:00+00:00</updated><id>https://hrliangmath.github.io/blog/2013/custom-blockquotes%20copy</id><content type="html" xml:base="https://hrliangmath.github.io/blog/2013/custom-blockquotes-copy/"><![CDATA[<p>This post shows how to add custom styles for blockquotes. Based on <a href="https://github.com/sighingnow/jekyll-gitbook">jekyll-gitbook</a> implementation.</p>
-
-<p>We decided to support the same custom blockquotes as in <a href="https://sighingnow.github.io/jekyll-gitbook/jekyll/2022-06-30-tips_warnings_dangers.html">jekyll-gitbook</a>, which are also found in a lot of other sites’ styles. The styles definitions can be found on the <a href="https://github.com/alshedivat/al-folio/blob/master/_sass/_base.scss">_base.scss</a> file, more specifically:</p>
-
-<div class="language-scss highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="cm">/* Tips, warnings, and dangers */</span>
-<span class="nc">.post</span> <span class="nc">.post-content</span> <span class="nt">blockquote</span> <span class="p">{</span>
-    <span class="k">&amp;</span><span class="nc">.block-tip</span> <span class="p">{</span>
-    <span class="nl">border-color</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">global-tip-block</span><span class="p">);</span>
-    <span class="nl">background-color</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">global-tip-block-bg</span><span class="p">);</span>
-
-    <span class="nt">p</span> <span class="p">{</span>
-      <span class="nl">color</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">global-tip-block-text</span><span class="p">);</span>
-    <span class="p">}</span>
-
-    <span class="nt">h1</span><span class="o">,</span> <span class="nt">h2</span><span class="o">,</span> <span class="nt">h3</span><span class="o">,</span> <span class="nt">h4</span><span class="o">,</span> <span class="nt">h5</span><span class="o">,</span> <span class="nt">h6</span> <span class="p">{</span>
-      <span class="nl">color</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">global-tip-block-title</span><span class="p">);</span>
-    <span class="p">}</span>
-  <span class="p">}</span>
-
-  <span class="k">&amp;</span><span class="nc">.block-warning</span> <span class="p">{</span>
-    <span class="nl">border-color</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">global-warning-block</span><span class="p">);</span>
-    <span class="nl">background-color</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">global-warning-block-bg</span><span class="p">);</span>
-
-    <span class="nt">p</span> <span class="p">{</span>
-      <span class="nl">color</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">global-warning-block-text</span><span class="p">);</span>
-    <span class="p">}</span>
-
-    <span class="nt">h1</span><span class="o">,</span> <span class="nt">h2</span><span class="o">,</span> <span class="nt">h3</span><span class="o">,</span> <span class="nt">h4</span><span class="o">,</span> <span class="nt">h5</span><span class="o">,</span> <span class="nt">h6</span> <span class="p">{</span>
-      <span class="nl">color</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">global-warning-block-title</span><span class="p">);</span>
-    <span class="p">}</span>
-  <span class="p">}</span>
-
-  <span class="k">&amp;</span><span class="nc">.block-danger</span> <span class="p">{</span>
-    <span class="nl">border-color</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">global-danger-block</span><span class="p">);</span>
-    <span class="nl">background-color</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">global-danger-block-bg</span><span class="p">);</span>
-
-    <span class="nt">p</span> <span class="p">{</span>
-      <span class="nl">color</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">global-danger-block-text</span><span class="p">);</span>
-    <span class="p">}</span>
-
-    <span class="nt">h1</span><span class="o">,</span> <span class="nt">h2</span><span class="o">,</span> <span class="nt">h3</span><span class="o">,</span> <span class="nt">h4</span><span class="o">,</span> <span class="nt">h5</span><span class="o">,</span> <span class="nt">h6</span> <span class="p">{</span>
-      <span class="nl">color</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">global-danger-block-title</span><span class="p">);</span>
-    <span class="p">}</span>
-  <span class="p">}</span>
-<span class="p">}</span>
-</code></pre></div></div>
-
-<p>A regular blockquote can be used as following:</p>
-
-<div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="gt">&gt; This is a regular blockquote</span>
-<span class="gt">&gt; and it can be used as usual</span>
-</code></pre></div></div>
-
-<blockquote>
-  <p>This is a regular blockquote
-and it can be used as usual</p>
-</blockquote>
-
-<p>These custom styles can be used by adding the specific class to the blockquote, as follows:</p>
-
-<div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="gt">&gt; ##### TIP</span>
-<span class="gt">&gt;</span>
-<span class="gt">&gt; A tip can be used when you want to give advice</span>
-<span class="gt">&gt; related to a certain content.</span>
-{: .block-tip }
-</code></pre></div></div>
-
-<blockquote class="block-tip">
-  <h5 id="tip">TIP</h5>
-
-  <p>A tip can be used when you want to give advice
-related to a certain content.</p>
-</blockquote>
-
-<div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="gt">&gt; ##### WARNING</span>
-<span class="gt">&gt;</span>
-<span class="gt">&gt; This is a warning, and thus should</span>
-<span class="gt">&gt; be used when you want to warn the user</span>
-{: .block-warning }
-</code></pre></div></div>
-
-<blockquote class="block-warning">
-  <h5 id="warning">WARNING</h5>
-
-  <p>This is a warning, and thus should
-be used when you want to warn the user</p>
-</blockquote>
-
-<div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="gt">&gt; ##### DANGER</span>
-<span class="gt">&gt;</span>
-<span class="gt">&gt; This is a danger zone, and thus should</span>
-<span class="gt">&gt; be used carefully</span>
-{: .block-danger }
-</code></pre></div></div>
-
-<blockquote class="block-danger">
-  <h5 id="danger">DANGER</h5>
-
-  <p>This is a danger zone, and thus should
-be used carefully</p>
-</blockquote>]]></content><author><name></name></author><category term="sample-posts" /><category term="blockquotes" /><summary type="html"><![CDATA[an example of a blog post with custom blockquotes]]></summary></entry></feed>
+<p>Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.</p>]]></content><author><name></name></author><category term="sample-posts" /><category term="formatting" /><category term="links" /><summary type="html"><![CDATA[march & april, looking forward to summer]]></summary></entry></feed>
