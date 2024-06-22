@@ -28,7 +28,8 @@ He is a big fan of number theory with broad interests in its intersecting areas.
     <li>automorphic forms;</li>
     <li>(mod p) Galois representations;</li>
     <li>Iwasawa theory, in particular p-adic L-functions;</li>
-    <li>cohomological methods in number theory.</li>
+    <li>Shimura varieties;</li>
+    <li>······</li>
 </ul>
 
 When not struggling with mathematics, he can usually be found reading, playing badminton, or wandering various exhibits at museums with a good audioguide. Before the triumph of AI, he enjoyed playing Go very much (he is now struggling to appreciate the art of Go in the post-AI era).
