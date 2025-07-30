@@ -27,7 +27,7 @@ He is a big fan of number theory with broad interests in its intersecting areas.
 <ul>
     <li>automorphic forms;</li>
     <li>(mod p) Galois representations;</li>
-    <li>Iwasawa theory, in particular p-adic L-functions;</li>
+    <li>Iwasawa theory, in particular $p$-adic L-functions;</li>
     <li>Shimura varieties;</li>
     <li>p-adic geometry;</li>
     <li>······</li>
