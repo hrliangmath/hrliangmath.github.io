@@ -30,7 +30,7 @@ He is a big fan of number theory with broad interests in its intersecting areas.
     <li> <i> p </i> -adic automorphic forms and eiegnvarieties;</li>
     <li>mod <i> p </i> and <i> p </i> -adic Galois representations;</li>
     <li>Iwasawa theory, especially <i> p </i> -adic <i> L </i> -functions;</li>
-    <li>geometry of Shimura varieties;</li>
+    <li>the geometry of Shimura varieties;</li>
     <li>non-Archimedean geometry;</li>
     <li>······</li>
 </ul>
