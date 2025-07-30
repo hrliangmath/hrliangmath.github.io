@@ -27,10 +27,10 @@ He jointed King’s College London in Summer 2024 as a PhD student under the sup
 He is a big fan of number theory with broad interests in its intersecting areas. He considers himself as an apprentice in the art of ``applying mathematics'' -- that is, borrowing any tools available to tackle number-theoretical problems. Currently, he is particularly drawn to the following topics
 
 <ul>
-    <li> <i> p </i> -adic automorphic forms and eiegnvarieties;</li>
-    <li>mod <i> p </i> and <i> p </i> -adic Galois representations;</li>
-    <li>Iwasawa theory, especially <i> p </i> -adic <i> L </i> -functions;</li>
-    <li>the geometry of Shimura varieties;</li>
+    <li> <i>p</i>-adic automorphic forms and eiegnvarieties;</li>
+    <li>mod <i>p</i> and <i>p</i>-adic Galois representations;</li>
+    <li>Iwasawa theory, especially <i> p</i>-adic <i>L</i>-functions;</li>
+    <li>geometry of Shimura varieties;</li>
     <li>non-Archimedean geometry;</li>
     <li>······</li>
 </ul>
