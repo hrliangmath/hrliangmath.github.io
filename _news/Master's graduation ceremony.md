@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Yay, I attended my Master's Graduation Ceremony at ETH Züirch!
+Yay, the Master's Graduation Ceremony 2024 D-MATH at ETH Zürich was so fun :)
