@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Wenhan and I are organizing a study group on Iwasawa theory. Join us!
+I've had Coates and Sujatha's classic on Iwasawa theory on my reading list for a long time. So, Wenhan and I are organizing a study group to go through it :)
