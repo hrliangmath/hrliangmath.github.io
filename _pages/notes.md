@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Notes and Write-ups
+title: notes and write-ups
 permalink: /notes/
 description: Three passions, simple but overwhelmingly strong, have governed my life: the longing for love, the search for knowledge, and unbearable pity for the suffering of mankind. -- Bertrand Russell
 nav: true
