@@ -46,6 +46,21 @@
         - midnight bathroom trips aren't complete without grabbing a sip of cold chocolate milk
         - group mini project on discrete dynamics (Excellence)
 
+- title: Conferences & Workshops
+  type: list
+  contents:
+    - (2025.09) Young Researchers in Algebraic Number Theory VII, University of Nottingham
+    - (2025.03) Arizona Winter School 2025 - Representation of p-adic Groups, University of Arizona, Tucson
+    - (2024.09) School on Hodge Theory and Shimura Varieties, University of Duisburg-Essen
+    - (2024.08) Young Researchers in Algebraic Number Theory VI, University of Oxford
+    - (2024.04) Jinling Number Theory and arithmetic Geometry Conference, Nanjing University
+    - (2023.11) Langlands Correspondence, Automorphic Representations, and Related Topics, Wuhan University
+    - (2023.06) Workshop on Arithmetic Statistics in Automorphic Forms and Analytic Number Theory, EPF Lausanne
+    - (2023.05) Summer School on High-dimensional Expanders, Ghent University
+    - (2022.08) Modular Forms in Number Theory and Beyond, Bielefeld University
+    - (2021.07) Number Theory Summer School, Xi’an Jiaotong University
+    - (2020.08) [Summer School on Differential Geometry](https://bicmr.pku.edu.cn/cn/content/show/17-2326.html), Peking University
+
 - title: Honors and Awards
   type: time_table
   contents:
@@ -58,7 +73,7 @@
     - year: 2022
       items: 
         - ETH Scholarship for academic year 2022/23
-    - year: 2020, 2019, 2018
+    - year: 2018-2020
       items: 
         - Second Prize of Zhufeng Scholarship (XJTU)
         - Outstanding Student (XJTU)
