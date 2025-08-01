@@ -4,7 +4,7 @@ title: o-minimality and diophantine applications
 description: taught by Professor Emmanuel Kowalski (autumn 2022)
 img: assets/img/12.jpg
 importance: 1
-category: course notes
+category: Course notes
 ---
 
 Every project has a beautiful feature showcase page.
