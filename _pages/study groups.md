@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /study groups/
+permalink: /study-groups/
 title: study groups
 nav: true
 nav_order: 5
