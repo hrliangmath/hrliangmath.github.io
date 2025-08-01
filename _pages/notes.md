@@ -2,10 +2,10 @@
 layout: page
 title: Notes and Write-ups
 permalink: /notes/
-description: A growing collection of your cool projects.
+description: Three passions, simple but overwhelmingly strong, have governed my life: the longing for love, the search for knowledge, and unbearable pity for the suffering of mankind. -- Bertrand Russell
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [Course notes, Write-ups]
 horizontal: false
 ---
 
