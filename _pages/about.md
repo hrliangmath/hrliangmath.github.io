@@ -38,6 +38,6 @@ He is a big fan of number theory with broad interests in its intersecting areas.
 When not struggling with mathematics, he can usually be found reading, playing badminton, or exploring museum exhibits (ideally with a good audioguide). Before the rise of AI, he greatly enjoyed playing Go; nowadays, he is learning to appreciate its artistry in the post-AI era.
 
 
-`UNDER CONSTRUCTION`
+
 
 <form method="post" action="https://forms.un-static.com/forms/90aa8fa89b2329b6d6676144e37688c2ef689cf1">
