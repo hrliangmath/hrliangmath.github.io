@@ -1,7 +1,7 @@
 ---
 layout: page
 title: notes and write-ups
-permalink: /notes/
+permalink: /notes and write-ups/
 description: Three passions, simple but overwhelmingly strong, have governed my life: the longing for love, the search for knowledge, and unbearable pity for the suffering of mankind. -- Bertrand Russell
 nav: true
 nav_order: 2
