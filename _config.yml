@@ -173,7 +173,7 @@ collections:
     output: true
     permalink: /news/:path/
     output: true
-    permalink: /notes-and-write-ups/:path/
+    permalink: /notes/:path/
 
 announcements:
   enabled: true
