@@ -6,7 +6,7 @@ subtitle: 我的数学、文学与艺术之旅
 
 profile:
   align: right
-  image: profile.png
+  image: profile.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>S5.13 (presumably)</p>
