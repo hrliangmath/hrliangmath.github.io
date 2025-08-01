@@ -123,6 +123,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: 远眺 # blog_name will be displayed in your blog page
+blog_description: 那不是点，是理想。
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
 permalink: /blog/:year/:title/
 
