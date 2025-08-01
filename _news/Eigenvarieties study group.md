@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Learning from people is of so much fun. So, one more (online) study group: eigenvarieties. 
+Learning from people is of so much fun. So, I'm organizing one more (online) study group: eigenvarieties. 
