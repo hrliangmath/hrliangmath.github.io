@@ -9,7 +9,11 @@ display_categories: [Course notes, Write-ups]
 horizontal: false
 ---
 
-Three passions, simple but overwhelmingly strong, have governed my life: the longing for love, the search for knowledge, and unbearable pity for the suffering of mankind. -- Bertrand Russell
+<blockquote> <p> Three passions, simple but overwhelmingly strong, have governed my life: the longing for love, the search for knowledge, and unbearable pity for the suffering of mankind.
+
+<div style="text-align:right"> —— Bertrand Russell </div> </p>
+
+</blockquote>
 
 <!-- pages/projects.md -->
 <div class="projects">
