@@ -11,3 +11,15 @@ nav_order: 5
 <div style="text-align:right"> — Martin Buber </div> </p>
 
 </blockquote>
+
+Eigenvarieties
+
+Iwasawa theory
+
+Automorphic forms
+
+Fargues--Fontaine Curve [TBD]
+
+Higher Coleman theory [TBD]
+
+`UNDER CONSTRUCTION`
