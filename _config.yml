@@ -172,7 +172,7 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
-  notes and write-ups:
+  notes-and-write-ups:
     output: true
     permalink: /notes-and-write-ups/:path/
 

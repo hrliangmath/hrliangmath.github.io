@@ -9,5 +9,5 @@ children:
       permalink: /publications/
     - title: divider
     - title: notes and write-ups
-      permalink: /notes and write-ups/
+      permalink: /notes-and-write-ups/
 ---
