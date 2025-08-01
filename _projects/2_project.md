@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
+title: Elliptic Functions and Elliptic Curves 
+description: taught by Dr. Markus Schwagenscheidt (Spring 2022)
 img: assets/img/3.jpg
 importance: 2
 category: Course notes

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: The eigencurve at classical weight one points
+description: first year LSGNT mini project jointly with Lucie Gatzmaga, supervised by Dr. George Boxer
 img:
 importance: 3
 category: Write-ups

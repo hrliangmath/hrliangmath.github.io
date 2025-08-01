@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
+title: The class number formula and beyond
+description: write-up for a semester project at ETH Zürich, supervised by Professor Claire Burrin
 img:
 importance: 4
 category: Write-ups
