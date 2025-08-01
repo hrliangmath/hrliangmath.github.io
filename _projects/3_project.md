@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Algebraic Topology I
+title: Algebraic Topology
 description: taught by Professor Will Merry, Autumn 2021
 img: assets/img/7.jpg
 redirect: https://unsplash.com
