@@ -1,7 +1,7 @@
 ---
 layout: page
 title: notes and write-ups
-permalink: /notes and write-ups/
+permalink: /notes-and-write-ups/
 description: 
 nav: true
 nav_order: 2

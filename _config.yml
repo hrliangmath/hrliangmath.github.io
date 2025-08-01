@@ -174,7 +174,7 @@ collections:
     permalink: /news/:path/
   notes and write-ups:
     output: true
-    permalink: /notes and write-ups/:path/
+    permalink: /notes-and-write-ups/:path/
 
 announcements:
   enabled: true
