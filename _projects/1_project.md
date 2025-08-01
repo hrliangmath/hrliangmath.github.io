@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: o-minimality and diophantine applications
+description: taught by Professor Emmanuel Kowalski (autumn 2022)
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: course notes
 ---
 
 Every project has a beautiful feature showcase page.
