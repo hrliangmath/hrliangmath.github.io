@@ -3,7 +3,7 @@ layout: page
 permalink: /arts/
 title: arts
 nav: true
-nav_order: 5
+nav_order: 8
 ---
 
 <blockquote> <p> Poetry, beauty, romance, love, these are what we stay alive for.
