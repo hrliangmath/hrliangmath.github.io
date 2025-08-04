@@ -175,6 +175,8 @@ collections:
     output: true
   projects:
     permalink: /projects/:path/
+  seminar:
+    output: true
 
 announcements:
   enabled: true
