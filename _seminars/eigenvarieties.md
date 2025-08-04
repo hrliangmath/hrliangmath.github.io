@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Eigenvarieties Study Group
-permalink: /eigenvarieties/
+permalink: /study-groups/eigenvarieties/
 ---
 
 123
