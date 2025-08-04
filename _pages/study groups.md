@@ -12,7 +12,8 @@ nav_order: 5
 
 </blockquote>
 
-Eigenvarieties
+[Eigenvarieties](/eigenvarities/)
+
 
 Iwasawa theory
 
