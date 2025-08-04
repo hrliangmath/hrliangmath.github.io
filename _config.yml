@@ -177,6 +177,7 @@ collections:
     permalink: /projects/:path/
   seminar:
     output: true
+    permalink: /study-groups/:name/
 
 announcements:
   enabled: true
