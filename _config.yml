@@ -178,7 +178,7 @@ collections:
   seminar:
     output: true
 
-    
+
 announcements:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
@@ -207,7 +207,7 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ['_pages']
+include: ['_pages', '_study-groups']
 exclude:
   - bin
   - Gemfile
