@@ -4,9 +4,9 @@ title: Eigenvarieties Study Group
 permalink: /study-groups/eigenvarieties/
 ---
 
-Program: see [here](_layouts/eigenvarieties_program.html). 
+Program: see href=" Eigenvarieties.pdf"> here. 
 
-Main references: [HLV24] Hellmann, J. Ludwig, and O. Venjakob, ed., \normalem{\em Non-Archimedean Geometry and Eigenvarieties}. EMS Press, 2024.
+Main references: [HLV24] Hellmann, J. Ludwig, and O. Venjakob, ed.,  Non-Archimedean Geometry and Eigenvarieties . EMS Press, 2024.
 
 <style>
 .table-sg {
@@ -33,15 +33,15 @@ Main references: [HLV24] Hellmann, J. Ludwig, and O. Venjakob, ed., \normalem{\e
       <th>Time</th>
       <th>Content</th>
       <th>Speaker</th>
-      <th>Chapter (of [Ge75])</th>
+      <th>Notes </th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Apr.14</td>
-      <td>The Classical Theory</td>
-      <td>Ziqian</td>
-      <td>Chapter 1</td>
+      <td>Jul. 21 </td>
+      <td>Introduction </td>
+      <td>Haoran</td>
+      <td>Notes  </td>
     </tr>
     <tr>
       <td>Apr.21</td>
