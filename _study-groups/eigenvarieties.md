@@ -63,7 +63,7 @@ Main references: [[HLV24](https://ems.press/books/mlm/297)] E. Hellmann, J. Ludw
       <td>pdf </td>
     </tr>
     <tr>
-      <td>May.12</td>
+      <td>TBD</td>
       <td>The eigenvariety machine I: toolkit from functional analysis. </td>
       <td>Zhenghang </td>
       <td>pdf </td>
