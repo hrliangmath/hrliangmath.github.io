@@ -4,7 +4,7 @@ title: Eigenvarieties Study Group
 permalink: /study-groups/eigenvarieties/
 ---
 
-Program: see <a href="Eigenvarieties.pdf"> here</a>. 
+Program: see <a href="assets/pdf/Eigenvarieties.pdf"> here</a>. 
 
 Main reference: [[HLV24](https://ems.press/books/mlm/297)] E. Hellmann, J. Ludwig, and O. Venjakob, ed.,  Non-Archimedean Geometry and Eigenvarieties . EMS Press, 2024.
 
