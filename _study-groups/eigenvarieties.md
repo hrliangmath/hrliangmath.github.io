@@ -39,71 +39,34 @@ Main references: [[HLV24](https://ems.press/books/mlm/297)] E. Hellmann, J. Ludw
   <tbody>
     <tr>
       <td>Jul. 21 </td>
-      <td>Introduction </td>
+      <td>From congruences between modular forms to eigenvarieties </td>
       <td>Haoran</td>
-      <td>Notes  </td>
+      <td>pdf  </td>
     </tr>
     <tr>
-      <td>Apr.21</td>
-      <td>Automorphic Forms and Decomposition of 
-        \(L^2(\Gamma\backslash SL(2,\mathbb R))\)
+      <td>Jul. 29</td>
+      <td>Adic Spaces I
       </td>
-      <td>Alan</td>
-      <td>Chapter 2</td>
+      <td>Lichang</td>
+      <td>pdf </td>
     </tr>
     <tr>
-      <td>Apr.28</td>
-      <td>Automorphic Forms on Adele group of GL(2)</td>
-      <td>Haoran.L, Yuzheng</td>
-      <td>Chapter 3</td>
+      <td>Aug. 04</td>
+      <td>Adic Spaces II</td>
+      <td>Julia</td>
+      <td>pdf </td>
     </tr>
     <tr>
-      <td>May.05</td>
-      <td>Representations of GL(2), local and global</td>
-      <td>Yu</td>
-      <td>Chapter 4</td>
+      <td>Aug.11</td>
+      <td>Digression: perfectoid spaces</td>
+      <td>Ho Leung</td>
+      <td>pdf </td>
     </tr>
     <tr>
       <td>May.12</td>
       <td>Cusp Forms and Representations of GL(2)</td>
       <td>Yuzheng</td>
       <td>Chapter 5</td>
-    </tr>
-    <tr class="emph">
-      <td>May.19</td>
-      <td>Hecke Theory for GL(2) — Part I</td>
-      <td>Xinran</td>
-      <td>Chapter 6</td>
-    </tr>
-    <tr class="emph">
-      <td>May.26</td>
-      <td>Hecke Theory for GL(2) — Part II</td>
-      <td>Haoran.L</td>
-      <td>Chapter 6</td>
-    </tr>
-    <tr>
-      <td>Jun.04</td>
-      <td>Construction of Some Automorphic Forms</td>
-      <td>Xinran</td>
-      <td>Chapter 7</td>
-    </tr>
-    <tr>
-      <td>Aug.03</td>
-      <td>Eisenstein Series and the Continuous Spectrum</td>
-      <td>Alan</td>
-      <td>Chapter 8</td>
-    </tr>
-    <tr class="emph">
-      <td>TBA</td>
-      <td>Trace Formula for GL(2)</td>
-      <td>—</td>
-      <td>Chapter 9</td>
-    </tr>
-    <tr>
-      <td>TBA</td>
-      <td>Automorphic Forms on Quaternion Algebra</td>
-      <td>Haoran.L</td>
-      <td>Chapter 10</td>
     </tr>
   </tbody>
 </table>
