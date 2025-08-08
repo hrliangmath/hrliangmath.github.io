@@ -4,7 +4,7 @@ title: Eigenvarieties Study Group
 permalink: /study-groups/eigenvarieties/
 ---
 
-Program: see <href="Eigenvarieties.pdf"> here. 
+Program: see <a href="Eigenvarieties.pdf"> here</a>. 
 
 Main references: [[HLV24](https://ems.press/books/mlm/297)] E. Hellmann, J. Ludwig, and O. Venjakob, ed.,  Non-Archimedean Geometry and Eigenvarieties . EMS Press, 2024.
 
@@ -64,9 +64,9 @@ Main references: [[HLV24](https://ems.press/books/mlm/297)] E. Hellmann, J. Ludw
     </tr>
     <tr>
       <td>May.12</td>
-      <td>Cusp Forms and Representations of GL(2)</td>
-      <td>Yuzheng</td>
-      <td>Chapter 5</td>
+      <td>The eigenvariety machine I: toolkit from functional analysis. </td>
+      <td>Zhenghang </td>
+      <td>pdf </td>
     </tr>
   </tbody>
 </table>
