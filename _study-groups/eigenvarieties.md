@@ -14,13 +14,14 @@ Main reference: [[HLV24](https://ems.press/books/mlm/297)] E. Hellmann, J. Ludwi
   border-collapse: collapse;
   margin: 0.3rem 0;
   font-size: 0.75rem;
-  border: 1.2px solid #000;
+  border: 1.5px solid #000;
   max-width: 683px;
 }
 .table-sg th, .table-sg td {
-  border: 1.2px solid #000 !important; /* 粗边框 */
+  border: 1.5px solid #000 !important; /* 粗边框 */
   padding: 3px 5px;
   vertical-align: top;
+  line-height: 1.2;
 }
 .table-sg th {
   font-weight: 700;
