@@ -19,7 +19,7 @@ Main reference: [[HLV24](https://ems.press/books/mlm/297)] E. Hellmann, J. Ludwi
 }
 .table-sg th, .table-sg td {
   border: 2px solid #000 !important; /* 粗边框 */
-  padding: 6px 8px;
+  padding: 4px 6px;
   vertical-align: top;
 }
 .table-sg th {
