@@ -10,14 +10,14 @@ Main reference: [[HLV24](https://ems.press/books/mlm/297)] E. Hellmann, J. Ludwi
 
 <style>
 .table-sg {
-  width: 80%;
+  width: 60%;
   border-collapse: collapse;
   margin: 1rem 0;
   font-size: 0.98rem;
   border: 2px solid #000;
 }
 .table-sg th, .table-sg td {
-  border: 2px solid #000; /* 粗边框 */
+  border: 2px solid #000 !important; /* 粗边框 */
   padding: 8px 10px;
   vertical-align: top;
 }
