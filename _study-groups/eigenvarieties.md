@@ -22,10 +22,10 @@ Main reference: [[HLV24](https://ems.press/books/mlm/297)] E. Hellmann, J. Ludwi
   vertical-align: top;
 }
 .table-sg th {
-  font-weight: 700;
+  font-weight: 600;
   text-align: left;
 }
-.table-sg .emph { font-weight: 700; } /* 加粗行 */
+.table-sg .emph { font-weight: 600; } /* 加粗行 */
 </style>
 
 <table class="table-sg">
