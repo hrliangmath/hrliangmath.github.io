@@ -12,14 +12,13 @@ nav_order: 5
 
 </blockquote>
 
-[Eigenvarieties](/study-groups/eigenvarieties/)
-
-
 Iwasawa theory
 
-Automorphic forms
+[Eigenvarieties](/study-groups/eigenvarieties/)
 
-Fargues--Fontaine Curve [TBD]
+[Automorphic forms](https://axhou.github.io/gel2025.html)
+
+Fargues--Fontaine Curve [Coming Autumn 2025!]
 
 Higher Coleman theory [TBD]
 

@@ -44,20 +44,20 @@ Main reference: [[HLV24](https://ems.press/books/mlm/297)] E. Hellmann, J. Ludwi
       <td>Jul. 21 </td>
       <td>From congruences between modular forms to eigenvarieties </td>
       <td>Haoran</td>
-      <td>pdf  </td>
+      <td><a href="/assets/pdf/Talk 0, Haoran Liang.pdf" target="_blank"> pdf </a>  </td>
     </tr>
     <tr>
       <td>Jul. 29</td>
       <td>Adic Spaces I
       </td>
       <td>Lichang</td>
-      <td>pdf </td>
+      <td><a href="/assets/pdf/Talk 1,Lichang Zhang.pdf" target="_blank"> pdf </a> </td>
     </tr>
     <tr>
       <td>Aug. 04</td>
       <td>Adic Spaces II</td>
       <td>Julia</td>
-      <td>pdf </td>
+      <td><a href="/assets/pdf/Talk 2, Julia Meng.pdf" target="_blank"> pdf </a> </td>
     </tr>
     <tr>
       <td>Aug.11</td>
