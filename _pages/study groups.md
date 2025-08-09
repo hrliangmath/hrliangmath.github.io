@@ -12,7 +12,7 @@ nav_order: 5
 
 </blockquote>
 
-Iwasawa theory
+<a href="/assets/pdf/Iwasawa.pdf" target="_blank"> Iwasawa theory </a> (so far, we've only managed to achieve the first goal of the study group, namely, to understand the proof of the Main Conjecture using Euler systems.)
 
 [Eigenvarieties](/study-groups/eigenvarieties/)
 
