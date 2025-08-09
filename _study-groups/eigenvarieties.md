@@ -51,7 +51,7 @@ Main reference: [[HLV24](https://ems.press/books/mlm/297)] E. Hellmann, J. Ludwi
       <td>Adic Spaces I
       </td>
       <td>Lichang</td>
-      <td><a href="/assets/pdf/Talk 1,Lichang Zhang.pdf" target="_blank"> pdf </a> </td>
+      <td><a href="/assets/pdf/Talk 1, Lichang Zhang.pdf" target="_blank"> pdf </a> </td>
     </tr>
     <tr>
       <td>Aug. 04</td>
