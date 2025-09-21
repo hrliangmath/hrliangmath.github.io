@@ -80,14 +80,26 @@ Main reference: [[HLV24](https://ems.press/books/mlm/297)] E. Hellmann, J. Ludwi
     <tr>
       <td>Sep. 10 </td>
       <td>The eigenvariety machine II: construction and geometric properties </td>
-      <td>Julia </td>
+      <td>Haoran </td>
       <td><a href="/assets/pdf/Talk 6, Haoran Liang.pdf" target="_blank"> pdf </a> </td>
     </tr>
     <tr>
       <td>Sep. 18 </td>
       <td>The Coleman--Mazur eigencurve I: automorphic side </td>
-      <td>Julia </td>
+      <td>Haoran </td>
       <td><a href="/assets/pdf/Talk 7, Haoran Liang.pdf" target="_blank"> pdf </a> </td>
+    </tr>
+    <tr>
+      <td>Sep. 18 </td>
+      <td>The Coleman--Mazur eigencurve I: automorphic side </td>
+      <td>Haoran </td>
+      <td><a href="/assets/pdf/Talk 7, Haoran Liang.pdf" target="_blank"> pdf </a> </td>
+    </tr>
+    <tr>
+      <td>Sep. 29 </td>
+      <td>The Coleman--Mazur eigencurve II: Galois side </td>
+      <td>Yicheng </td>
+      <td> </td>
     </tr>
   </tbody>
 </table>
