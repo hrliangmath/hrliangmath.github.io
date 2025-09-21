@@ -18,7 +18,7 @@ nav_order: 5
 
 [Automorphic forms](https://axhou.github.io/gel2025.html)
 
-Fargues--Fontaine Curve [Coming Autumn 2025!]
+Fargues--Fontaine Curve [Postponed]
 
 Higher Coleman theory [TBD]
 

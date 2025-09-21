@@ -60,16 +60,34 @@ Main reference: [[HLV24](https://ems.press/books/mlm/297)] E. Hellmann, J. Ludwi
       <td><a href="/assets/pdf/Talk 2, Julia Meng.pdf" target="_blank"> pdf </a> </td>
     </tr>
     <tr>
-      <td>Aug.11</td>
+      <td>Aug. 11</td>
       <td>Digression: perfectoid spaces</td>
       <td>Ho Leung</td>
-      <td>pdf </td>
+      <td><a href="/assets/pdf/Talk 3, Ho Leung Fong.pdf" target="_blank"> pdf </a> </td>
     </tr>
     <tr>
-      <td>TBD</td>
+      <td>Aug. 27 </td>
       <td>The eigenvariety machine I: toolkit from functional analysis. </td>
       <td>Zhenghang </td>
-      <td>pdf </td>
+      <td><a href="/assets/pdf/Talk 4, Zhenghang Du.pdf" target="_blank"> pdf </a> </td>
+    </tr>
+    <tr>
+      <td>Sep. 03 </td>
+      <td>Adic Spaces III </td>
+      <td>Julia </td>
+      <td><a href="/assets/pdf/Talk 5, Julia Meng.pdf" target="_blank"> pdf </a> </td>
+    </tr>
+    <tr>
+      <td>Sep. 10 </td>
+      <td>The eigenvariety machine II: construction and geometric properties </td>
+      <td>Julia </td>
+      <td><a href="/assets/pdf/Talk 6, Haoran Liang.pdf" target="_blank"> pdf </a> </td>
+    </tr>
+    <tr>
+      <td>Sep. 18 </td>
+      <td>The Coleman--Mazur eigencurve I: automorphic side </td>
+      <td>Julia </td>
+      <td><a href="/assets/pdf/Talk 7, Haoran Liang.pdf" target="_blank"> pdf </a> </td>
     </tr>
   </tbody>
 </table>
