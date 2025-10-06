@@ -24,7 +24,7 @@ Main reference: [[HLV24](https://ems.press/books/mlm/297)] E. Hellmann, J. Ludwi
   line-height: 1.2;
 }
 .table-sg th {
-  font-weight: 700;
+  font-weight: 750;
   text-align: left;
 }
 .table-sg .emph { font-weight: 700; } /* 加粗行 */

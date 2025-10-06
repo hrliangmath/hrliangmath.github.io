@@ -4,6 +4,7 @@ permalink: /arts/
 title: arts
 nav: true
 nav_order: 8
+toc: true
 ---
 
 <blockquote> <p> Poetry, beauty, romance, love, these are what we stay alive for.
@@ -17,6 +18,8 @@ Welcome to this little “e-museum” — a personal gallery of snapshots featur
 The “exhibits” here range from paintings and ceramics to sculptures and beyond — basically, anything that blew my mind during visits to museums. You might also stumble upon some of my own photography, when I felt inspired (or just lucky with the lighting 😎).
 
 If you’re also a fellow art & history enthusiast, I’d be thrilled to hear about what’s captivated you too — feel free to share!
+
+# Arts in Stillness
 
 `UNDER CONSTRUCTION`
 
@@ -57,3 +60,6 @@ Museo Nazionale Scienzae Tecnologia Leonardo da Vinci (达·芬奇国家科学�
 Musées Royaux des Beaux-Arts de Belgique (比利时皇家美术馆); Museum voor Schone Kunsten Gent (根特美术馆)
 
 Albertina Museum Wien (阿尔贝蒂娜博物馆); Kunsthistorisches Museum Wien (维也纳自然史博物馆); Möbelmuseum Wien (帝王家具展); Musikverein Wien (金色大厅); Naturhistorisches Museum Wien (维也纳艺术史博物馆); Österreichische Nationalbibliothek (奥地利国家图书馆); Schloss Belvedere (美景宫); Schloss Schönbrunn (美泉宫); Sisi Museum (茜茜博物馆)
+
+# Arts in Motion
+

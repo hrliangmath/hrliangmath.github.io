@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Automorphic forms on adele groups
-description: my (unfinished) Master's thesis - not proofread, enjoy the chaos!
+description: my Master's thesis - to be improved and proofread...
 img: assets/img/1.jpg
 importance: 3
 category: Write-ups
