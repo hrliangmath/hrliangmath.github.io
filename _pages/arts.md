@@ -23,6 +23,12 @@ If you’re also a fellow art & history enthusiast, I’d be thrilled to hear ab
 
 `UNDER CONSTRUCTION`
 
+### - Fine Art - 
+
+### - Cultural Relic - 
+
+### - miscellany - 
+
 For now, let me just list the museums I've visited so far
 
 碑林博物馆；秦兵马俑博物馆；陕西省历史博物馆；西安博物院；西安事变纪念馆
@@ -63,7 +69,7 @@ Albertina Museum Wien (阿尔贝蒂娜博物馆); Kunsthistorisches Museum Wien 
 
 ## Arts in Motion - post-memories of the 1990's
 
-### Movies
+### - Movies -
 
 - Edward Scissorhands (剪刀手爱德华) 1990
 - Scent of a Woman (闻香识女人) 1992
@@ -78,13 +84,14 @@ Albertina Museum Wien (阿尔贝蒂娜博物馆); Kunsthistorisches Museum Wien 
 - Eyes Wide Shut (大开眼戒) 1999
 - Fight Club (搏击俱乐部) 1999
 
-### TV Shows
+### - TV Shows -
 
 - シティーハンター (城市猎人) manga series 1985-1991; TV show 1987
 - 编辑部的故事 1992
 - 过把瘾 1994
+- Friends (老友记) 1994-2004
 
-### (Rock) Music
+### - (Rock) Music - 
 - California Dreamin’ The Mamas & the Papas 1965
 - 21st Century Schizoid Man, Epitaph; King Crimson "In the Court of the Crimson King" 1969
 - Candy Says, What Goes On, Pale Blue Eyes...; The Velvet Undergound "The Velvet Underground" 1969
