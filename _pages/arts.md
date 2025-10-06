@@ -92,7 +92,7 @@ Albertina Museum Wien (阿尔贝蒂娜博物馆); Kunsthistorisches Museum Wien 
 - Friends (老友记) 1994-2004
 
 ### - (Rock) Music - 
-- California Dreamin’ The Mamas & the Papas 1965
+- California Dreamin’; The Mamas & the Papas 1965
 - 21st Century Schizoid Man, Epitaph; King Crimson "In the Court of the Crimson King" 1969
 - Candy Says, What Goes On, Pale Blue Eyes...; The Velvet Undergound "The Velvet Underground" 1969
 - Long Long Time; Linda Ronstadt "Silk Purse" 1970
