@@ -8,3 +8,6 @@ giscus_comments: true
 related_posts: true
 ---
 
+受到梁永祺教授的启发，在这里我记录一些令人眼前一亮的数学：
+
+- 
