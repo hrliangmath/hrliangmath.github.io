@@ -20,6 +20,6 @@ nav_order: 5
 
 Fargues--Fontaine Curve [Postponed]
 
-Higher Coleman theory [TBD]
+[Higher Coleman theory](/study-groups/higher-Coleman/)
 
 `UNDER CONSTRUCTION`
