@@ -4,7 +4,7 @@ title: Eigenvarieties Study Group
 permalink: /study-groups/eigenvarieties/
 ---
 
-Program: see <a href="/assets/pdf/Eigenvarieties.pdf" target="_blank"> here</a> (ps: we added one more talk on adic spaces).
+Program: see <a href="/assets/pdf/Eigenvarieties.pdf" target="_blank"> here</a> (ps: we added one more talk on adic spaces). The modular symbol approach, as well as the last part on Emerton's completed cohomology, has been postponed. We hope to resume soon.
 
 Main reference: [[HLV24](https://ems.press/books/mlm/297)] E. Hellmann, J. Ludwig, and O. Venjakob, ed.,  Non-Archimedean Geometry and Eigenvarieties . EMS Press, 2024.
 
@@ -99,7 +99,13 @@ Main reference: [[HLV24](https://ems.press/books/mlm/297)] E. Hellmann, J. Ludwi
       <td>Sep. 29 </td>
       <td>The Coleman--Mazur eigencurve II: Galois side </td>
       <td>Yicheng </td>
-      <td> </td>
+      <td> On request  </td>
+    </tr>
+      <tr>
+      <td>Oct. 12 </td>
+      <td>Eigencurves for definite quaternion algebras </td>
+      <td>Benchao </td>
+      <td> On request </td>
     </tr>
   </tbody>
 </table>
