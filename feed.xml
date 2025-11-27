@@ -1,14 +1,35 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en, cn"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://hrliangmath.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://hrliangmath.github.io/" rel="alternate" type="text/html" hreflang="en, cn" /><updated>2025-11-27T07:39:04+00:00</updated><id>https://hrliangmath.github.io/feed.xml</id><title type="html">远眺</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-</subtitle><entry><title type="html">令人（我）眼前一亮的数学</title><link href="https://hrliangmath.github.io/blog/2025/beautiful-math/" rel="alternate" type="text/html" title="令人（我）眼前一亮的数学" /><published>2025-11-16T00:00:00+00:00</published><updated>2025-11-16T00:00:00+00:00</updated><id>https://hrliangmath.github.io/blog/2025/beautiful-math</id><content type="html" xml:base="https://hrliangmath.github.io/blog/2025/beautiful-math/"><![CDATA[<p>受到梁永祺老师的启发，在这里我记录一些令人眼前一亮的数学：</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en, cn"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://hrliangmath.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://hrliangmath.github.io/" rel="alternate" type="text/html" hreflang="en, cn" /><updated>2025-11-27T08:09:47+00:00</updated><id>https://hrliangmath.github.io/feed.xml</id><title type="html">远眺</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+</subtitle><entry><title type="html">令人（我）眼前一亮的数学</title><link href="https://hrliangmath.github.io/blog/2025/beautiful-math/" rel="alternate" type="text/html" title="令人（我）眼前一亮的数学" /><published>2025-11-16T00:00:00+00:00</published><updated>2025-11-16T00:00:00+00:00</updated><id>https://hrliangmath.github.io/blog/2025/beautiful-math</id><content type="html" xml:base="https://hrliangmath.github.io/blog/2025/beautiful-math/"><![CDATA[<p>受到梁永祺老师的启发，在这里记录一些令人(我)眼前一亮的数学：</p>
 
 <ul>
   <li>
-    <p>当$n$趋于无穷时, 数列$a_n = 6^n$的首项系数(记为$l(a_n)$)为$k$的概率为$\log_k (k+1)$. 更准确地说, 
+    <p>(动力系统) 当\(n\)趋于无穷时, 数列\(a_n = 6^n\)的首项系数(记为\(l(a_n)\))为$k$的概率为\(\log_k (k+1)\). 更准确地说, 
   \(\lim_{n \to \infty} \frac{\# \{ n :l(a_n) = k \} }{n} = \log_k k+1.\)
-更一般地, Birkhoff遍历理论的基本思想 ``空间概率 = 频率概率‘’</p>
+这个问题可以转化为单位圆周上的线性动力系统问题, 而上述等式蕴涵了Birkhoff遍历理论的基本思想, 即遍历系统中``空间概率 = 频率概率‘’.</p>
   </li>
   <li>
-    <p>闭测地线定理:</p>
+    <p>(复分析) Cousin第一、第二问题: 给定零点与极点(位置与重数)的亚纯函数的存在性(复平面上的结论是Mittag-Leffler定理和Weierstrass定理), 及其上同调刻画.</p>
+  </li>
+  <li>
+    <p>(Galois理论) 化圆为方、三等分角的不可能性、一元高次方程不存在求根公式.</p>
+  </li>
+  <li>
+    <p>(模型论) 关于超乘积(ultraproduct)的Łoś定理:</p>
+  </li>
+  <li>
+    <p>(算术几何) 椭圆曲线的模空间是代数曲线, 模问题的可表性与栈(stack)的构造想法 …</p>
+  </li>
+  <li>
+    <p>(黎曼曲面) Belyi定理, Grothendieck的``Dessins d’Enfants’’:</p>
+  </li>
+  <li>
+    <p>(谱理论) 听音辨股问题、Weyl定律、紧双曲曲面的闭测地线定理:</p>
+  </li>
+  <li>
+    <p>(图论) 哥尼斯堡七桥问题、四色定理</p>
+  </li>
+  <li>
+    <p>(自守表示)</p>
   </li>
 </ul>]]></content><author><name></name></author><category term="essay" /><summary type="html"><![CDATA[Eye-opening mathematics]]></summary></entry><entry><title type="html">Comments on “Galois Groups and Fundamental Groups” by Tamás Szamuely – Jeremy Feusi</title><link href="https://hrliangmath.github.io/blog/2023/comments/" rel="alternate" type="text/html" title="Comments on “Galois Groups and Fundamental Groups” by Tamás Szamuely – Jeremy Feusi" /><published>2023-02-11T00:00:00+00:00</published><updated>2023-02-11T00:00:00+00:00</updated><id>https://hrliangmath.github.io/blog/2023/comments</id><content type="html" xml:base="https://hrliangmath.github.io/blog/2023/comments/"><![CDATA[<p>The book “Galois Groups and Fundamental Groups” by Tamás Szamuely is an expository text which was written so as to give an overview of the many different contexts in which Galois groups and fundamental groups occur. It uses the overarching theme of exploring the relationship between these two types of groups to introduce many classical and modern concepts which in my opinion both gives it a coherent storyline and makes it enjoyable to read. I read chapters 1,2,3 and parts of
 chapter 5 and solved many of the exercises provided at the end of each chapter.</p>
