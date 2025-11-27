@@ -34,6 +34,8 @@ related_posts: true
 
 - (博弈论) Arrow不可能定理
 
+- (动力系统) 照明问题: 房间中的每个点都能被光源照亮吗? 
+
 - (模型论) 关于超乘积(ultraproduct)的Łoś定理: 
 
 - (黎曼曲面) Belyi定理, Grothendieck的``Dessins d’Enfants'':
