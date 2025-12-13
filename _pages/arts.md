@@ -33,12 +33,17 @@ If you’re also a fellow art & history enthusiast, I’d be thrilled to hear ab
 </figure>
 
 <figure align="center">
+  <img src="/assets/img/Buevur.jpg" alt="The Absinthe Drinker, by Pablo Picasso" width="200">
+  <figcaption>The Absinthe Drinker (1901), Pablo Picasso</figcaption>
+</figure>
+
+<figure align="center">
   <img src="/assets/img/L'ellipse.jpg" alt="The Ellipsis, by René Magritte" width="300">
   <figcaption>The Ellipsis (1948), René Magritte</figcaption>
 </figure>
 
 <figure align="center">
-  <img src="/assets/img/zhaobi.jpg" alt="照壁, 吴冠中" width="300">
+  <img src="/assets/img/zhaobi.jpg" alt="照壁, 吴冠中" width="400">
   <figcaption>照壁 (1997), 吴冠中</figcaption>
 </figure>
 
