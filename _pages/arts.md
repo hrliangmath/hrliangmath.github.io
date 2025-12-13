@@ -33,7 +33,7 @@ If you’re also a fellow art & history enthusiast, I’d be thrilled to hear ab
 </figure>
 
 <figure align="center">
-  <img src="/assets/img/Buevur.jpg" alt="The Absinthe Drinker, by Pablo Picasso" width="200">
+  <img src="/assets/img/Buveur.jpg" alt="The Absinthe Drinker, by Pablo Picasso" width="200">
   <figcaption>The Absinthe Drinker (1901), Pablo Picasso</figcaption>
 </figure>
 
