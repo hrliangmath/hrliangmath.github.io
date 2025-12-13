@@ -33,8 +33,13 @@ If you’re also a fellow art & history enthusiast, I’d be thrilled to hear ab
 </figure>
 
 <figure align="center">
-  <img src="/assets/img/L'ellipse.jpg" alt="The Goldfinch, by Carel Fabritius" width="200">
+  <img src="/assets/img/L'ellipse.jpg" alt="The Goldfinch, by Carel Fabritius" width="300">
   <figcaption>The Ellipsis (1948), René Magritte</figcaption>
+</figure>
+
+<figure align="center">
+  <img src="/assets/img/L'ellipse.jpg" alt="The Goldfinch, by Carel Fabritius" width="300">
+  <figcaption>照壁 (1997), 吴冠中</figcaption>
 </figure>
 
 ### - Cultural Relic - 
