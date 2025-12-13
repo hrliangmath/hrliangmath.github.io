@@ -19,15 +19,21 @@ The “exhibits” here range from paintings and ceramics to sculptures and beyo
 
 If you’re also a fellow art & history enthusiast, I’d be thrilled to hear about what’s captivated you too — feel free to share!
 
-## Arts in Stillness - Adrift in Time and Land
-
 `UNDER CONSTRUCTION`
+
+## Arts in Stillness - Adrift in Time and Land
 
 ### - Fine Art - 
 
+
+
+<p align="center">
+  <img src="Carel Fabritius - The Goldfinch.jpg" alt="The Goldfinch, by Carel Fabritius" width="600">
+</p>
+
 ### - Cultural Relic - 
 
-### - miscellany - 
+### - Miscellany - 
 
 For now, let me just list the museums I've visited so far
 
@@ -53,7 +59,9 @@ For now, let me just list the museums I've visited so far
 
 碑林博物馆；秦兵马俑博物馆；陕西大剧院；陕西省历史博物馆；西安博物院；西安事变纪念馆
 
-Ashmolean Museum; British Museum; Bristol City Museum & Art Gallery; Tate Britain; Victoria and Albert Museum
+香港故宫文化博物馆
+
+Ashmolean Museum; British Museum; Bristol City Museum & Art Gallery; Tate Britain; The National Gallery; Victoria and Albert Museum
 
 Landesmuseum Zürich (瑞士国立博物馆); Kunsthaus Zürich (苏黎世美术馆); Zoologisches Museum (苏黎世动物标本博物馆); Opernhaus Zürich (苏黎世歌剧院);
 
