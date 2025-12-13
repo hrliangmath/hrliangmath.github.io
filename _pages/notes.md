@@ -4,7 +4,7 @@ title: notes and write-ups
 permalink: /notes/
 description: 
 nav: true
-nav_order: 2
+nav_order: 4
 display_categories: [Course notes, Write-ups]
 horizontal: false
 ---
