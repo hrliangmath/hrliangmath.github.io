@@ -28,7 +28,9 @@ If you’re also a fellow art & history enthusiast, I’d be thrilled to hear ab
 
 
 <p align="center">
-  <img src="Carel Fabritius - The Goldfinch.jpg" alt="The Goldfinch, by Carel Fabritius" width="600">
+  <img src="assets/img/Carel Fabritius - The Goldfinch.jpg"
+       alt="The Goldfinch, by Carel Fabritius"
+       width="400">
 </p>
 
 ### - Cultural Relic - 
