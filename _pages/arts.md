@@ -103,7 +103,7 @@ Koninklijke Musea voor Schone Kunsten van België (布鲁塞尔皇家博物馆&�
   <figcaption>看万山红遍 (2001), 李津</figcaption>
 </figure>
 
-中华艺术宫, 参观于2024年4月; 图片源自网络
+Ashmolean Museum, visited in Aug 2024; picture borrowed from museum website
 
 <br>
 
