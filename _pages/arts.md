@@ -31,25 +31,59 @@ If you’re also a fellow art & history enthusiast, I’d be thrilled to hear ab
   <figcaption>The Goldfinch (1654), Carel Fabritius</figcaption>
 </figure>
 
+Mauritshuis (莫瑞泰斯皇家美术馆), Sep 2022
+
 <figure align="center">
   <img src="/assets/img/sower.jpeg" alt="Sower with Setting Sun, by Vincent von Gogh" width="300">
   <figcaption>Sower with Setting Sun (1888), Vincent van Gogh</figcaption>
 </figure>
+
+British National Gallery, Oct 2024
+
+
+<figure align="center">
+  <img src="/assets/img/Madonna.jpg.jpeg" alt="Madonna, by Edvard Munch" width="200">
+  <figcaption>Madonna (around 1895-1902), Edvard Munch</figcaption>
+</figure>
+
+Albertina Museum Wien, Feb 2023
+
 
 <figure align="center">
   <img src="/assets/img/Buveur.jpg" alt="The Absinthe Drinker, by Pablo Picasso" width="200">
   <figcaption>The Absinthe Drinker (1901), Pablo Picasso</figcaption>
 </figure>
 
+*Госуда́рственный Эрмита́ж (圣彼得堡冬宫博物馆), Dec 2025
+
+
+<figure align="center">
+  <img src="/assets/img/Buveur.jpg" alt="Variation on Peggy, by Walter Sickert" width="300">
+  <figcaption>Variation on Peggy (1934-5), Walter Sickert</figcaption>
+</figure>
+
+
+<figure align="center">
+  <img src="/assets/img/Buveur.jpg" alt="Metamorphosis I, by Maurits Escher" width="600">
+  <figcaption>Metamorphosis I (1937), Maurits Escher</figcaption>
+</figure>
+
+Museum Escher in Het Paleis (埃舍尔博物馆) 
+
+
 <figure align="center">
   <img src="/assets/img/L'ellipse.jpg" alt="The Ellipsis, by René Magritte" width="300">
   <figcaption>The Ellipsis (1948), René Magritte</figcaption>
 </figure>
 
+Koninklijke Musea voor Schone Kunsten van België (布鲁塞尔皇家博物馆&美术馆), 参观于2023年5月
+
 <figure align="center">
-  <img src="/assets/img/zhaobi.jpg" alt="照壁, 吴冠中" width="400">
+  <img src="/assets/img/zhaobi.jpg" alt="照壁, 吴冠中" width="450">
   <figcaption>照壁 (1997), 吴冠中</figcaption>
 </figure>
+
+中华艺术宫, 2024年4月参观
 
 ### - Cultural Relic - 
 
