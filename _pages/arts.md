@@ -116,7 +116,7 @@ Koninklijke Musea voor Schone Kunsten van België (布鲁塞尔皇家博物馆&�
 <br>
 
 <figure align="center">
-  <img src="/assets/img/Dancing.jpg" alt="Dancing Girl" width="200">
+  <img src="/assets/img/Dancing.jpg" alt="Dancing Girl" width="240">
   <figcaption>Dancing girl</figcaption>
 </figure>
 
@@ -148,6 +148,15 @@ Koninklijke Musea voor Schone Kunsten van België (布鲁塞尔皇家博物馆&�
 </figure>
 
 Probably made by Sabah Ragab, Rames Wissa Wassef Art Center, Egypt; Bristol City Museum & Art Gallery, visited in May 2024; picture borrowed from [here](https://www.britishmuseum.org/collection/object/E_2010-2004-1)
+
+<br>
+
+<figure align="center">
+  <img src="/assets/img/dragon.jpg" alt="Double-headed serpent mosaic" width="200">
+  <figcaption>Double-headed serpent mosaic</figcaption>
+</figure>
+
+From Mexico (1400s-1500s), an icon of Aztec art; British National Museum, visited in Jun 2025
 
 <br>
 
@@ -187,12 +196,56 @@ Probably made by Sabah Ragab, Rames Wissa Wassef Art Center, Egypt; Bristol City
 <br>
 
 <figure align="center">
-  <img src="/assets/img/Minicity.jpg" alt="Mini model of the industrial heritage site" width="200">
-  <figcaption>Mini model of the industrial heritage site</figcaption>
+  <img src="/assets/img/changbai.jpg" alt="长白山" width="300">
+  <figcaption>长白山</figcaption>
+</figure>
+
+抓拍于长白山摆渡车上, 2017年7月
+
+<br>
+
+<figure align="center">
+  <img src="/assets/img/Sunset.jpg" alt="落日" width="300">
+  <figcaption>落日</figcaption>
+</figure>
+
+抓拍于一次从洛桑回苏黎世的列车上, 2023年6月
+
+<br>
+
+<figure align="center">
+  <img src="/assets/img/Untitled.jpg" alt="Untitled" width="300">
+  <figcaption>无题</figcaption>
+</figure>
+
+中国美术馆藏, 朱宪民摄; 参观于2023年12月
+
+<br>
+
+<figure align="center">
+  <img src="/assets/img/Roots.jpg" alt="Math Graffiti" width="300">
+  <figcaption>Math Graffiti</figcaption>
+</figure>
+
+King's College London, Jul 2024
+
+<br>
+
+<figure align="center">
+  <img src="/assets/img/Minicity.jpg" alt="Mini model of the industrial heritage site" width="300">
+  <figcaption>Mini Model of The Ruhr Industrial Heritage Site</figcaption>
 </figure>
 
 Zollverein, visited during a conference at Universität Duisburg-Essen in Sep 2024; photo by Benchao Su
 
+<br>
+
+<figure align="center">
+  <img src="/assets/img/Arizona.jpg" alt="Saguaro National Park" width="200">
+  <figcaption>The Saguaro National Park</figcaption>
+</figure>
+
+Tucson, Arizona, visited during the Arizona Winter School 2025 in March 2025
 
 <br>
 
