@@ -125,10 +125,16 @@ Koninklijke Musea voor Schone Kunsten van België (布鲁塞尔皇家博物馆&�
 
 巴巴多斯总理2007年赠礼; 中央礼品文物管理中心藏, 参观于2025年7月
 
+<br>
 
+<figure align="center">
+  <img src="/assets/img/Tapestry.webp" alt="Tapestry" width="200">
+  <figcaption>Tapestry</figcaption>
+</figure>
 
+Probably made by Sabah Ragab, Rames Wissa Wassef Art Center, Egypt; Bristol City Museum & Art Gallery, visited in May 2024; picture borrowed from [here](https://www.britishmuseum.org/collection/object/E_2010-2004-1)
 
-
+<br>
 
 ### - Miscellany - 
 
