@@ -33,6 +33,8 @@ If you’re also a fellow art & history enthusiast, I’d be thrilled to hear ab
 
 Mauritshuis (莫瑞泰斯皇家美术馆), Sep 2022; picture borrowed from museum website
 
+<br>
+<br>
 
 <figure align="center">
   <img src="/assets/img/sower.jpeg" alt="Sower with Setting Sun, by Vincent von Gogh" width="300">
@@ -41,6 +43,8 @@ Mauritshuis (莫瑞泰斯皇家美术馆), Sep 2022; picture borrowed from museu
 
 British National Gallery, Dec 2024; picture borrowed from [here](https://www.artway.eu/posts/vincent-van-gogh-sower-with-setting-sun)
 
+<br>
+<br>
 
 <figure align="center">
   <img src="/assets/img/Madonna.jpg.jpeg" alt="Madonna, by Edvard Munch" width="200">
@@ -49,14 +53,18 @@ British National Gallery, Dec 2024; picture borrowed from [here](https://www.art
 
 Albertina Museum Wien, Feb 2023; picture borrowed from Wikipedia
 
+<br>
+<br>
 
 <figure align="center">
   <img src="/assets/img/Buveur.jpg" alt="The Absinthe Drinker, by Pablo Picasso" width="200">
   <figcaption>The Absinthe Drinker (1901), Pablo Picasso</figcaption>
 </figure>
 
-*Госуда́рственный Эрмита́ж (圣彼得堡冬宫博物馆), Dec 2025; picture borrowed from [here](https://www.pablo-ruiz-picasso.net/work-2.php)
+*seen from an art book; Госуда́рственный Эрмита́ж (圣彼得堡冬宫博物馆), Dec 2025; picture borrowed from [here](https://www.pablo-ruiz-picasso.net/work-2.php)
 
+<br>
+<br>
 
 <figure align="center">
   <img src="/assets/img/Peggy.jpg" alt="Variation on Peggy, by Walter Sickert" width="300">
@@ -65,6 +73,8 @@ Albertina Museum Wien, Feb 2023; picture borrowed from Wikipedia
 
 Tate British, Oct 2024; picture borrowed from museum website
 
+<br>
+<br>
 
 <figure align="center">
   <img src="/assets/img/Metamorphsis.jpg.jpg" alt="Metamorphosis I, by Maurits Escher" width="600">
@@ -73,6 +83,8 @@ Tate British, Oct 2024; picture borrowed from museum website
 
 Museum Escher in Het Paleis (埃舍尔博物馆), Dec 2022; picture borrowed from museum website
 
+<br>
+<br>
 
 <figure align="center">
   <img src="/assets/img/L'ellipse.jpg" alt="The Ellipsis, by René Magritte" width="300">
@@ -81,6 +93,8 @@ Museum Escher in Het Paleis (埃舍尔博物馆), Dec 2022; picture borrowed fro
 
 Koninklijke Musea voor Schone Kunsten van België (布鲁塞尔皇家博物馆&美术馆), 参观于2023年5月; 图片源自网络
 
+<br>
+<br>
 
 <figure align="center">
   <img src="/assets/img/zhaobi.jpg" alt="照壁, 吴冠中" width="450">
