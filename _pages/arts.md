@@ -21,7 +21,7 @@ If you’re also a fellow art & history enthusiast, I’d be thrilled to hear ab
 
 `UNDER CONSTRUCTION`
 
-## Arts in Stillness - Adrift in Time and Land
+## Arts in Stillness - Adrift in Time and Land 
 
 ### - Fine Art - 
 
@@ -31,14 +31,15 @@ If you’re also a fellow art & history enthusiast, I’d be thrilled to hear ab
   <figcaption>The Goldfinch (1654), Carel Fabritius</figcaption>
 </figure>
 
-Mauritshuis (莫瑞泰斯皇家美术馆), Sep 2022
+Mauritshuis (莫瑞泰斯皇家美术馆), Sep 2022; picture borrowed from museum website
+
 
 <figure align="center">
   <img src="/assets/img/sower.jpeg" alt="Sower with Setting Sun, by Vincent von Gogh" width="300">
   <figcaption>Sower with Setting Sun (1888), Vincent van Gogh</figcaption>
 </figure>
 
-British National Gallery, Oct 2024
+British National Gallery, Dec 2024; picture borrowed from [here](https://www.artway.eu/posts/vincent-van-gogh-sower-with-setting-sun)
 
 
 <figure align="center">
@@ -46,7 +47,7 @@ British National Gallery, Oct 2024
   <figcaption>Madonna (around 1895-1902), Edvard Munch</figcaption>
 </figure>
 
-Albertina Museum Wien, Feb 2023
+Albertina Museum Wien, Feb 2023; picture borrowed from Wikipedia
 
 
 <figure align="center">
@@ -54,21 +55,23 @@ Albertina Museum Wien, Feb 2023
   <figcaption>The Absinthe Drinker (1901), Pablo Picasso</figcaption>
 </figure>
 
-*Госуда́рственный Эрмита́ж (圣彼得堡冬宫博物馆), Dec 2025
+*Госуда́рственный Эрмита́ж (圣彼得堡冬宫博物馆), Dec 2025; picture borrowed from [here](https://www.pablo-ruiz-picasso.net/work-2.php)
 
 
 <figure align="center">
-  <img src="/assets/img/Buveur.jpg" alt="Variation on Peggy, by Walter Sickert" width="300">
+  <img src="/assets/img/Peggy.jpg" alt="Variation on Peggy, by Walter Sickert" width="300">
   <figcaption>Variation on Peggy (1934-5), Walter Sickert</figcaption>
 </figure>
 
+Tate British, Oct 2024; picture borrowed from museum website
+
 
 <figure align="center">
-  <img src="/assets/img/Buveur.jpg" alt="Metamorphosis I, by Maurits Escher" width="600">
+  <img src="/assets/img/Metamorphsis.jpg.jpg" alt="Metamorphosis I, by Maurits Escher" width="600">
   <figcaption>Metamorphosis I (1937), Maurits Escher</figcaption>
 </figure>
 
-Museum Escher in Het Paleis (埃舍尔博物馆) 
+Museum Escher in Het Paleis (埃舍尔博物馆), Dec 2022; picture borrowed from museum website
 
 
 <figure align="center">
@@ -76,16 +79,46 @@ Museum Escher in Het Paleis (埃舍尔博物馆)
   <figcaption>The Ellipsis (1948), René Magritte</figcaption>
 </figure>
 
-Koninklijke Musea voor Schone Kunsten van België (布鲁塞尔皇家博物馆&美术馆), 参观于2023年5月
+Koninklijke Musea voor Schone Kunsten van België (布鲁塞尔皇家博物馆&美术馆), 参观于2023年5月; 图片源自网络
+
 
 <figure align="center">
   <img src="/assets/img/zhaobi.jpg" alt="照壁, 吴冠中" width="450">
   <figcaption>照壁 (1997), 吴冠中</figcaption>
 </figure>
 
-中华艺术宫, 2024年4月参观
+中华艺术宫, 2024年4月参观; 图片源自网络
+
 
 ### - Cultural Relic - 
+
+<figure align="center">
+  <img src="/assets/img/Yue.jpg" alt="亚醜钺" width="450">
+  <figcaption>亚醜钺</figcaption>
+</figure>
+
+商代青铜仪仗兵器; 山东博物馆藏, 2025年7月参观; 图片源自网络
+
+
+<figure align="center">
+  <img src="/assets/img/fu.jpg" alt="亚醜钺" width="450">
+  <figcaption>双蝙洗</figcaption>
+</figure>
+
+香港故宫文化博物馆藏; 2025年8月参观
+
+
+<figure align="center">
+  <img src="/assets/img/Barbados.jpg.webp" alt="木雕" width="450">
+  <figcaption>木雕</figcaption>
+</figure>
+
+巴巴多斯总理2007年赠礼; 中央礼品文物管理中心藏; 2025年7月参观
+
+
+
+
+
 
 ### - Miscellany - 
 
