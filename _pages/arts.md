@@ -214,7 +214,7 @@ From Mexico (1400s-1500s), an icon of Aztec art; British National Museum, visite
 <br>
 
 <figure align="center">
-  <img src="/assets/img/Mausoleum.jpg.jpg" alt="Ming Xiaoling Mausoleum" width="360">
+  <img src="/assets/img/Mausoleum.jpg" alt="Ming Xiaoling Mausoleum" width="360">
   <figcaption>南京明孝陵</figcaption>
 </figure>
 
