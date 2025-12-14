@@ -61,7 +61,7 @@ Albertina Museum Wien, Feb 2023; picture borrowed from Wikipedia
   <figcaption>The Absinthe Drinker (1901), Pablo Picasso</figcaption>
 </figure>
 
-*seen from an art book; Госуда́рственный Эрмита́ж (圣彼得堡冬宫博物馆), Dec 2025; picture borrowed from [here](https://www.pablo-ruiz-picasso.net/work-2.php)
+*Госуда́рственный Эрмита́ж (圣彼得堡冬宫博物馆), Dec 2025; picture borrowed from [here](https://www.pablo-ruiz-picasso.net/work-2.php)
 
 <br>
 <br>
