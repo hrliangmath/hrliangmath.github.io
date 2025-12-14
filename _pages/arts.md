@@ -205,7 +205,7 @@ From Mexico (1400s-1500s), an icon of Aztec art; British National Museum, visite
 <br>
 
 <figure align="center">
-  <img src="/assets/img/Sunset.jpg" alt="落日" width="300">
+  <img src="/assets/img/Sunset.jpg" alt="落日" width="360">
   <figcaption>落日</figcaption>
 </figure>
 
@@ -223,7 +223,7 @@ From Mexico (1400s-1500s), an icon of Aztec art; British National Museum, visite
 <br>
 
 <figure align="center">
-  <img src="/assets/img/Roots.jpg" alt="Math Graffiti" width="300">
+  <img src="/assets/img/Roots.jpg" alt="Math Graffiti" width="200">
   <figcaption>Math Graffiti</figcaption>
 </figure>
 
