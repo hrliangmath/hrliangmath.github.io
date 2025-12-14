@@ -191,7 +191,7 @@ Probably made by Sabah Ragab, Rames Wissa Wassef Art Center, Egypt; Bristol City
   <figcaption>Mini model of the industrial heritage site</figcaption>
 </figure>
 
-Zollverein, visited during a conference at Universität Duisburg-Essen in Sep 2024
+Zollverein, visited during a conference at Universität Duisburg-Essen in Sep 2024; photo by Benchao Su
 
 
 <br>
