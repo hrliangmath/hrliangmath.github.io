@@ -47,7 +47,7 @@ British National Gallery, Dec 2024; picture borrowed from [here](https://www.art
 <br>
 
 <figure align="center">
-  <img src="/assets/img/Madonna.jpg.jpeg" alt="Madonna, by Edvard Munch" width="200">
+  <img src="/assets/img/Madonna.jpg" alt="Madonna, by Edvard Munch" width="200">
   <figcaption>Madonna (around 1895-1902), Edvard Munch</figcaption>
 </figure>
 
@@ -77,7 +77,7 @@ Tate British, Oct 2024; picture borrowed from museum website
 <br>
 
 <figure align="center">
-  <img src="/assets/img/Metamorphsis.jpg.jpg" alt="Metamorphosis I, by Maurits Escher" width="600">
+  <img src="/assets/img/Metamorphsis.jpg" alt="Metamorphosis I, by Maurits Escher" width="600">
   <figcaption>Metamorphosis I (1937), Maurits Escher</figcaption>
 </figure>
 
@@ -107,7 +107,7 @@ Koninklijke Musea voor Schone Kunsten van België (布鲁塞尔皇家博物馆&�
 ### - Cultural Relic - 
 
 <figure align="center">
-  <img src="/assets/img/Yue.jpg" alt="亚醜钺" width="450">
+  <img src="/assets/img/Yue.jpg" alt="亚醜钺" width="220">
   <figcaption>亚醜钺</figcaption>
 </figure>
 
@@ -115,7 +115,7 @@ Koninklijke Musea voor Schone Kunsten van België (布鲁塞尔皇家博物馆&�
 
 
 <figure align="center">
-  <img src="/assets/img/fu.jpg" alt="亚醜钺" width="450">
+  <img src="/assets/img/fu.jpg" alt="亚醜钺" width="300">
   <figcaption>双蝙洗</figcaption>
 </figure>
 
@@ -123,7 +123,7 @@ Koninklijke Musea voor Schone Kunsten van België (布鲁塞尔皇家博物馆&�
 
 
 <figure align="center">
-  <img src="/assets/img/Barbados.jpg.webp" alt="木雕" width="450">
+  <img src="/assets/img/Barbados.jpg" alt="木雕" width="200">
   <figcaption>木雕</figcaption>
 </figure>
 
