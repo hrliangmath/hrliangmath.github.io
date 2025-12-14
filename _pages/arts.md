@@ -19,7 +19,7 @@ The “exhibits” here range from paintings and ceramics to sculptures and beyo
 
 If you’re also a fellow art & history enthusiast, I’d be thrilled to hear about what’s captivated you too — feel free to share!
 
-`UNDER CONSTRUCTION`
+`展厅布置中 / Exhibition Hall Under Preparation`
 
 ## Arts in Stillness - Adrift in Time and Land 
 
@@ -67,7 +67,7 @@ Albertina Museum Wien, visited in Feb 2023; picture borrowed from Wikipedia
   <figcaption>Variation on Peggy (1934-5), Walter Sickert</figcaption>
 </figure>
 
-Tate British, visited in Oct 2024; picture borrowed from museum website
+Tate Britain, visited in Oct 2024; picture borrowed from museum website
 
 <br>
 
