@@ -218,7 +218,7 @@ From Mexico (1400s-1500s), an icon of Aztec art; British National Museum, visite
   <figcaption>南京明孝陵</figcaption>
 </figure>
 
-景区入口不远处, 2020年11月
+摄于南京明孝陵景区入口不远处, 2020年11月
 
 <br>
 
