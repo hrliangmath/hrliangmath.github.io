@@ -70,7 +70,6 @@ Albertina Museum Wien, visited in Feb 2023; picture borrowed from Wikipedia
 Tate British, visited in Oct 2024; picture borrowed from museum website
 
 <br>
-<br>
 
 <figure align="center">
   <img src="/assets/img/Metamorphsis.jpg" alt="Metamorphosis I, by Maurits Escher" width="600">
@@ -97,6 +96,7 @@ Koninklijke Musea voor Schone Kunsten van België (布鲁塞尔皇家博物馆&�
 
 中华艺术宫, 参观于2024年4月; 图片源自网络
 
+<br>
 
 ### - Cultural Relic - 
 
