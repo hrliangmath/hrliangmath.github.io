@@ -129,7 +129,7 @@ Koninklijke Musea voor Schone Kunsten van België (布鲁塞尔皇家博物馆&�
 
 <figure align="center">
   <img src="/assets/img/Tapestry.webp" alt="The Mathematician as Shepherds" width="200">
-  <figcaption>The Mathematician as Shepherds</figcaption>
+  <figcaption>Tapestry</figcaption>
 </figure>
 
 Probably made by Sabah Ragab, Rames Wissa Wassef Art Center, Egypt; Bristol City Museum & Art Gallery, visited in May 2024; picture borrowed from [here](https://www.britishmuseum.org/collection/object/E_2010-2004-1)
@@ -138,7 +138,7 @@ Probably made by Sabah Ragab, Rames Wissa Wassef Art Center, Egypt; Bristol City
 
 <figure align="center">
   <img src="/assets/img/Grothendieck.jpg" alt="Tapestry" width="200">
-  <figcaption>Tapestry</figcaption>
+  <figcaption>The Mathematician as Shepherds</figcaption>
 </figure>
 
 IHES, visited during a conference in Oct 2025
