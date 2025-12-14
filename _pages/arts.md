@@ -26,10 +26,14 @@ If you’re also a fellow art & history enthusiast, I’d be thrilled to hear ab
 ### - Fine Art - 
 
 
-
 <figure align="center">
   <img src="/assets/img/Goldfinch.jpg" alt="The Goldfinch, by Carel Fabritius" width="200">
   <figcaption>The Goldfinch (1654), Carel Fabritius</figcaption>
+</figure>
+
+<figure align="center">
+  <img src="/assets/img/sower.jpeg" alt="Sower with Setting Sun, by Vincent von Gogh" width="300">
+  <figcaption>Sower with Setting Sun (1888), Vincent van Gogh</figcaption>
 </figure>
 
 <figure align="center">
