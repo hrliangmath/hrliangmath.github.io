@@ -276,7 +276,7 @@ IHES, visited during a conference in Oct 2025
 
 <br>
 
-For now, let me just list the museums I've visited so far
+Let me also list below the museums I've enjoyed so far
 
 碑林博物馆；秦兵马俑博物馆；陕西省历史博物馆；西安博物院；西安事变纪念馆
 
@@ -316,7 +316,11 @@ Musées Royaux des Beaux-Arts de Belgique (比利时皇家美术馆); Museum voo
 
 Albertina Museum Wien (阿尔贝蒂娜博物馆); Kunsthistorisches Museum Wien (维也纳自然史博物馆); Möbelmuseum Wien (帝王家具展); Musikverein Wien (金色大厅); Naturhistorisches Museum Wien (维也纳艺术史博物馆); Österreichische Nationalbibliothek (奥地利国家图书馆); Schloss Belvedere (美景宫); Schloss Schönbrunn (美泉宫); Sisi Museum (茜茜博物馆)
 
+<br>
+
 ## Arts in Motion - My Post-memories of the 1990's
+
+<br>
 
 ### - Movies -
 
@@ -333,12 +337,16 @@ Albertina Museum Wien (阿尔贝蒂娜博物馆); Kunsthistorisches Museum Wien 
 - Eyes Wide Shut (大开眼戒) 1999
 - Fight Club (搏击俱乐部) 1999
 
+<br>
+
 ### - TV Shows -
 
 - シティーハンター (城市猎人) manga series 1985-1991; TV show 1987
 - 编辑部的故事 1992
 - 过把瘾 1994
 - Friends (老友记) 1994-2004
+
+<br>
 
 ### - (Rock) Music - 
 - California Dreamin’, The Mamas & the Papas 1965

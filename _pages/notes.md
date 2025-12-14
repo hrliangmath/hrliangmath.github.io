@@ -35,7 +35,7 @@ horizontal: false
 - Basics of hyperbolic geometry
 - A journey through combinatorics
 
-<dr>
+<br>
 
 ## Notes
 
@@ -54,7 +54,7 @@ Some of my notes are available below (upon request, as the handwritten ones are 
 - Notes on Complex Analysis (MATH 205B) Spring 2020 by Prof. Dan-Virgil Voiculescu
 - Functional Analysis Fall 2019 by Prof. 杨家青 (Jiaqing Yang)
 
-<dr>
+<br>
 
 ## Other documents
 
