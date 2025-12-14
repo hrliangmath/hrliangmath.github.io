@@ -98,6 +98,15 @@ Koninklijke Musea voor Schone Kunsten van België (布鲁塞尔皇家博物馆&�
 
 <br>
 
+<figure align="center">
+  <img src="/assets/img/look.jpg" alt="看万山红遍, 李津" width="360">
+  <figcaption>看万山红遍 (2001), 李津</figcaption>
+</figure>
+
+中华艺术宫, 参观于2024年4月; 图片源自网络
+
+<br>
+
 
 
 ### - Cultural Relic - 
@@ -152,7 +161,7 @@ Probably made by Sabah Ragab, Rames Wissa Wassef Art Center, Egypt; Bristol City
 <br>
 
 <figure align="center">
-  <img src="/assets/img/dragon.jpg" alt="Double-headed serpent mosaic" width="200">
+  <img src="/assets/img/dragon.jpg" alt="Double-headed serpent mosaic" width="400">
   <figcaption>Double-headed serpent mosaic</figcaption>
 </figure>
 
@@ -201,6 +210,15 @@ From Mexico (1400s-1500s), an icon of Aztec art; British National Museum, visite
 </figure>
 
 抓拍于长白山摆渡车上, 2017年7月
+
+<br>
+
+<figure align="center">
+  <img src="/assets/img/Sunset.jpg" alt="Ming Xiaoling Mausoleum" width="360">
+  <figcaption>南京明孝陵</figcaption>
+</figure>
+
+景区入口不远处, 2020年11月
 
 <br>
 
