@@ -85,7 +85,7 @@ Museum Escher in Het Paleis (埃舍尔博物馆), visited in Dec 2022; picture b
   <figcaption>The Ellipsis (1948), René Magritte</figcaption>
 </figure>
 
-Koninklijke Musea voor Schone Kunsten van België (布鲁塞尔皇家博物馆&美术馆), 参观于2023年5月; 图片源自网络
+Koninklijke Musea voor Schone Kunsten van België (布鲁塞尔皇家博物馆&美术馆), visited in May 2024; picture borrowed from [here](https://www.theguardian.com/artanddesign/gallery/2011/jun/19/magritte-tate-liverpool-in-pictures)
 
 <br>
 
@@ -128,11 +128,23 @@ Koninklijke Musea voor Schone Kunsten van België (布鲁塞尔皇家博物馆&�
 <br>
 
 <figure align="center">
-  <img src="/assets/img/Tapestry.webp" alt="Tapestry" width="200">
+  <img src="/assets/img/Tapestry.webp" alt="The Mathematician as Shepherds" width="200">
+  <figcaption>The Mathematician as Shepherds</figcaption>
+</figure>
+
+IHES, visited during a conference in Oct 2025
+
+<br>
+
+<figure align="center">
+  <img src="/assets/img/Grothendieck.jpg" alt="Tapestry" width="200">
   <figcaption>Tapestry</figcaption>
 </figure>
 
 Probably made by Sabah Ragab, Rames Wissa Wassef Art Center, Egypt; Bristol City Museum & Art Gallery, visited in May 2024; picture borrowed from [here](https://www.britishmuseum.org/collection/object/E_2010-2004-1)
+
+
+
 
 <br>
 
