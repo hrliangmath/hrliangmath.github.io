@@ -116,7 +116,7 @@ Ashmolean Museum, visited in Aug 2024; picture borrowed from museum website
 <br>
 
 <figure align="center">
-  <img src="/assets/img/Girl.jpg" alt="陶俑女像" width="200">
+  <img src="/assets/img/Girl.jpg" alt="陶俑女像" width="240">
   <figcaption>陶俑女像</figcaption>
 </figure>
 
@@ -125,7 +125,7 @@ Ashmolean Museum, visited in Aug 2024; picture borrowed from museum website
 <br>
 
 <figure align="center">
-  <img src="/assets/img/Dancing.jpg" alt="Dancing Girl" width="240">
+  <img src="/assets/img/Dancing.jpg" alt="Dancing Girl" width="200">
   <figcaption>Dancing girl</figcaption>
 </figure>
 
@@ -134,7 +134,7 @@ Ashmolean Museum, visited in Aug 2024; picture borrowed from museum website
 <br>
 
 <figure align="center">
-  <img src="/assets/img/Buddha.jpg" alt="佛像" width="200">
+  <img src="/assets/img/Buddha.jpg" alt="佛像" width="220">
   <figcaption>佛像</figcaption>
 </figure>
 
@@ -143,7 +143,7 @@ Ashmolean Museum, visited in Aug 2024; picture borrowed from museum website
 <br>
 
 <figure align="center">
-  <img src="/assets/img/chuanshi.jpg" alt="松石珊瑚银链玉串饰" width="200">
+  <img src="/assets/img/chuanshi.jpg" alt="松石珊瑚银链玉串饰" width="300">
   <figcaption>松石珊瑚银链玉串饰</figcaption>
 </figure>
 
