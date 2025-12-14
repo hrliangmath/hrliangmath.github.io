@@ -23,16 +23,19 @@ horizontal: false
 ## Write-ups
 
 - Theta operators on Shimura varieties and applications (first two chapters of my upgrade report)
-- Local geometry of the eigencurve
+- Local geometry of the eigencurve 
 - The Ax—-Grothendieck Theorem
-- Geomtery and Algebra of (B, N)-pairs
+- O-minimality and Diophantine applications
+- Geomtery and algebra of (B, N)-pairs
+- Automorphic forms on adele groups (my Master's thesis)
 - The class number formula and beyond
-- Modular Curves and Dimension Formulae for Certain Spaces of Modular Forms
+- Modular curves and dimension formulae for certain spaces of modular forms
 - Schoof's algorithm
 - The BSD conjecture
 - Basics of hyperbolic geometry
 - A journey through combinatorics
 
+<dr>
 
 ## Notes
 
@@ -50,3 +53,10 @@ Some of my notes are available below (upon request, as the handwritten ones are 
 - Riemannian Geometry: Chapter 0 Spring 2021 by Prof. 王立周 (Lizhou Wang)
 - Notes on Complex Analysis (MATH 205B) Spring 2020 by Prof. Dan-Virgil Voiculescu
 - Functional Analysis Fall 2019 by Prof. 杨家青 (Jiaqing Yang)
+
+<dr>
+
+## Other documents
+
+- LaTeX version of ``Modular curves and modular forms'' by Fred Diamond and John Im
+- LaTeX version of Serre's 2001 letter to Carole Hamer
