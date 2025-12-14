@@ -31,7 +31,7 @@ If you’re also a fellow art & history enthusiast, I’d be thrilled to hear ab
   <figcaption>The Goldfinch (1654), Carel Fabritius</figcaption>
 </figure>
 
-Mauritshuis (莫瑞泰斯皇家美术馆), Sep 2022; picture borrowed from museum website
+Mauritshuis (莫瑞泰斯皇家美术馆), visited in Sep 2022; picture borrowed from museum website
 
 <br>
 
@@ -40,7 +40,7 @@ Mauritshuis (莫瑞泰斯皇家美术馆), Sep 2022; picture borrowed from museu
   <figcaption>Sower with Setting Sun (1888), Vincent van Gogh</figcaption>
 </figure>
 
-British National Gallery, Dec 2024; picture borrowed from [here](https://www.artway.eu/posts/vincent-van-gogh-sower-with-setting-sun)
+British National Gallery, visited in Dec 2024; picture borrowed from [here](https://www.artway.eu/posts/vincent-van-gogh-sower-with-setting-sun)
 
 <br>
 
@@ -49,7 +49,7 @@ British National Gallery, Dec 2024; picture borrowed from [here](https://www.art
   <figcaption>Madonna (around 1895-1902), Edvard Munch</figcaption>
 </figure>
 
-Albertina Museum Wien, Feb 2023; picture borrowed from Wikipedia
+Albertina Museum Wien, visited in Feb 2023; picture borrowed from Wikipedia
 
 <br>
 
@@ -67,7 +67,7 @@ Albertina Museum Wien, Feb 2023; picture borrowed from Wikipedia
   <figcaption>Variation on Peggy (1934-5), Walter Sickert</figcaption>
 </figure>
 
-Tate British, Oct 2024; picture borrowed from museum website
+Tate British, visited in Oct 2024; picture borrowed from museum website
 
 <br>
 <br>
@@ -77,7 +77,7 @@ Tate British, Oct 2024; picture borrowed from museum website
   <figcaption>Metamorphosis I (1937), Maurits Escher</figcaption>
 </figure>
 
-Museum Escher in Het Paleis (埃舍尔博物馆), Dec 2022; picture borrowed from museum website
+Museum Escher in Het Paleis (埃舍尔博物馆), visited in Dec 2022; picture borrowed from museum website
 
 <br>
 
@@ -95,7 +95,7 @@ Koninklijke Musea voor Schone Kunsten van België (布鲁塞尔皇家博物馆&�
   <figcaption>照壁 (1997), 吴冠中</figcaption>
 </figure>
 
-中华艺术宫, 2024年4月参观; 图片源自网络
+中华艺术宫, 参观于2024年4月; 图片源自网络
 
 
 ### - Cultural Relic - 
@@ -105,7 +105,7 @@ Koninklijke Musea voor Schone Kunsten van België (布鲁塞尔皇家博物馆&�
   <figcaption>亚醜钺</figcaption>
 </figure>
 
-商代青铜仪仗兵器; 山东博物馆藏, 2025年7月参观; 图片源自网络
+商代青铜仪仗兵器; 山东博物馆藏, 参观于2025年7月; 图片源自网络
 
 <br>
 
@@ -114,7 +114,7 @@ Koninklijke Musea voor Schone Kunsten van België (布鲁塞尔皇家博物馆&�
   <figcaption>双蝙洗</figcaption>
 </figure>
 
-香港故宫文化博物馆藏; 2025年8月参观
+香港故宫文化博物馆藏; 参观于2025年8月
 
 <br>
 
@@ -123,7 +123,7 @@ Koninklijke Musea voor Schone Kunsten van België (布鲁塞尔皇家博物馆&�
   <figcaption>木雕</figcaption>
 </figure>
 
-巴巴多斯总理2007年赠礼; 中央礼品文物管理中心藏; 2025年7月参观
+巴巴多斯总理2007年赠礼; 中央礼品文物管理中心藏, 参观于2025年7月
 
 
 
@@ -197,16 +197,16 @@ Albertina Museum Wien (阿尔贝蒂娜博物馆); Kunsthistorisches Museum Wien 
 - Friends (老友记) 1994-2004
 
 ### - (Rock) Music - 
-- California Dreamin’; The Mamas & the Papas 1965
-- 21st Century Schizoid Man, Epitaph; King Crimson "In the Court of the Crimson King" 1969
-- Candy Says, What Goes On, Pale Blue Eyes...; The Velvet Undergound "The Velvet Underground" 1969
-- Long Long Time; Linda Ronstadt "Silk Purse" 1970
-- Heart Of Gold; Neil Young "Harvest" 1972
-- Hotel California; Eagles "Hotel California" 1976
-- I Want to Break Free; Queen "The Works" 1984
-- With or Without You, I Still Haven't Found What I'm Looking For; U2 "The Joshua Tree" 1987
-- 新长征路上的摇滚 (Rock 'n' Roll on the New Long March); 崔健 《新长征路上的摇滚》 1989
-- Don't Break My Heart, 无地自容 (Shameful); 黑豹乐队 《黑豹》 1991
-- 挪威的森林 (Norwegian Forest); 伍佰 & China Blue 《爱情的尽头》 1996 
-- Viva La Vida; Coldplay "Viva la Vida or Death and All His Friends" 2008 - not a pre-2000 song, but, you know, Coldplay formed in London in 1997...
+- California Dreamin’, The Mamas & the Papas 1965
+- 21st Century Schizoid Man; Epitaph, King Crimson "In the Court of the Crimson King" 1969
+- Candy Says; What Goes On; Pale Blue Eyes...; The Velvet Undergound "The Velvet Underground" 1969
+- Long Long Time, Linda Ronstadt "Silk Purse" 1970
+- Heart Of Gold, Neil Young "Harvest" 1972
+- Hotel California, Eagles "Hotel California" 1976
+- I Want to Break Free, Queen "The Works" 1984
+- With or Without You; I Still Haven't Found What I'm Looking For, U2 "The Joshua Tree" 1987
+- 新长征路上的摇滚 (Rock 'n' Roll on the New Long March), 崔健 《新长征路上的摇滚》 1989
+- Don't Break My Heart; 无地自容 (Shameful), 黑豹乐队 《黑豹》 1991
+- 挪威的森林 (Norwegian Forest), 伍佰 & China Blue 《爱情的尽头》 1996 
+- Viva La Vida, Coldplay "Viva la Vida or Death and All His Friends" 2008 - not a pre-2000 song, but, you know, Coldplay formed in London in 1997...
 
