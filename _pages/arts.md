@@ -170,7 +170,7 @@ Ashmolean Museum, visited in Aug 2024; picture borrowed from museum website
 <br>
 
 <figure align="center">
-  <img src="/assets/img/Huang.jpg" alt="Tapestry" width="400">
+  <img src="/assets/img/Huang.jpg" alt="Tapestry" width="450">
   <figcaption>黄山</figcaption>
 </figure>
 
