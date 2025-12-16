@@ -254,7 +254,7 @@ From Mexico (1400s-1500s), an icon of Aztec art; British National Museum, visite
   <figcaption>落日</figcaption>
 </figure>
 
-抓拍于一次从洛桑回苏黎世的列车上, 2023年6月
+摄于一次从洛桑回苏黎世的列车上, 抬头忽然见日落, 2023年6月
 
 <br>
 
