@@ -45,7 +45,7 @@ British National Gallery, visited in Dec 2024; picture borrowed from [here](http
 <br>
 
 <figure align="center">
-  <img src="/assets/img/Music.png" alt="Music I, by Gustav Klimt" width="200">
+  <img src="/assets/img/Music.png" alt="Music I, by Gustav Klimt" width="300">
   <figcaption>Music I (1895), Gustav Klimt</figcaption>
 </figure>
 
