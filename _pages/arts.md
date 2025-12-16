@@ -162,7 +162,7 @@ Ashmolean Museum, visited in Aug 2024; picture borrowed from museum website
 
 <figure align="center">
   <img src="/assets/img/Huang.jpg" alt="Tapestry" width="400">
-  <figcaption>Tapestry</figcaption>
+  <figcaption>黄山</figcaption>
 </figure>
 
 黄山, 摄于2024年4月
