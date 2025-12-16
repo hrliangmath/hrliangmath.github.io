@@ -236,7 +236,7 @@ From Mexico (1400s-1500s), an icon of Aztec art; British National Museum, visite
   <figcaption>长白山</figcaption>
 </figure>
 
-抓拍于长白山摆渡车上, 2017年7月
+摄于长白山登山的摆渡车上, 道路颠簸, 抓拍实属偶得之, 2017年7月
 
 <br>
 
