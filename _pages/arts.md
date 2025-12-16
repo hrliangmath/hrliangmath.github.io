@@ -192,7 +192,7 @@ Probably made by Sabah Ragab, Rames Wissa Wassef Art Center, Egypt; Bristol City
   <figcaption>Double-headed serpent mosaic</figcaption>
 </figure>
 
-From Mexico (1400s-1500s), an icon of Aztec art; British National Museum, visited in Jul 2025
+From Mexico (1400s-1500s), an icon of Aztec art; British Museum, visited in Jul 2025
 
 <br>
 
