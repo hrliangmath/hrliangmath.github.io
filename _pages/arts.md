@@ -45,6 +45,15 @@ British National Gallery, visited in Dec 2024; picture borrowed from [here](http
 <br>
 
 <figure align="center">
+  <img src="/assets/img/Music.png" alt="Music I, by Gustav Klimt" width="200">
+  <figcaption>Music I (1895), Gustav Klimt</figcaption>
+</figure>
+
+Alte Pinakothek, visited in Dec 2024; picture borrowed from [here](https://www.kingandmcgaw.com/prints/gustav-klimt/the-music-1895-436642#436642::border:50_frame:880603_glass:770007_media:1_mount:108644_mount-width:50_size:618,514)
+
+<br>
+
+<figure align="center">
   <img src="/assets/img/Madonna.jpg" alt="Madonna, by Edvard Munch" width="200">
   <figcaption>Madonna (around 1895-1902), Edvard Munch</figcaption>
 </figure>
@@ -152,11 +161,20 @@ Ashmolean Museum, visited in Aug 2024; picture borrowed from museum website
 <br>
 
 <figure align="center">
+  <img src="/assets/img/Huang.jpg" alt="Tapestry" width="400">
+  <figcaption>Tapestry</figcaption>
+</figure>
+
+黄山, 摄于2024年4月
+
+<br>
+
+<figure align="center">
   <img src="/assets/img/Tapestry.webp" alt="Tapestry" width="200">
   <figcaption>Tapestry</figcaption>
 </figure>
 
-Probably made by Sabah Ragab, Rames Wissa Wassef Art Center, Egypt; Bristol City Museum & Art Gallery, visited in May 2024; picture borrowed from [here](https://www.britishmuseum.org/collection/object/E_2010-2004-1)
+Probably made by Sabah Ragab, Rames Wissa Wassef Art Center, Egypt; Bristol City Museum & Art Gallery, visited in May 2025; picture borrowed from [here](https://www.britishmuseum.org/collection/object/E_2010-2004-1)
 
 <br>
 
@@ -165,7 +183,7 @@ Probably made by Sabah Ragab, Rames Wissa Wassef Art Center, Egypt; Bristol City
   <figcaption>Double-headed serpent mosaic</figcaption>
 </figure>
 
-From Mexico (1400s-1500s), an icon of Aztec art; British National Museum, visited in Jun 2025
+From Mexico (1400s-1500s), an icon of Aztec art; British National Museum, visited in Jul 2025
 
 <br>
 
@@ -302,7 +320,7 @@ Let me also list below the museums I've enjoyed so far
 
 香港故宫文化博物馆
 
-Ashmolean Museum; British Museum; Bristol City Museum & Art Gallery; Tate Britain; The National Gallery; Victoria and Albert Museum
+Ashmolean Museum; British Museum; Bristol City Museum & Art Gallery; Courtauld Gallery; Tate Britain; The National Gallery; Victoria and Albert Museum
 
 Landesmuseum Zürich (瑞士国立博物馆); Kunsthaus Zürich (苏黎世美术馆); Zoologisches Museum (苏黎世动物标本博物馆); Opernhaus Zürich (苏黎世歌剧院);
 
