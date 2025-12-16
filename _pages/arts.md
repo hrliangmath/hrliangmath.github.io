@@ -90,6 +90,15 @@ Museum Escher in Het Paleis (埃舍尔博物馆), visited in Dec 2022; picture b
 <br>
 
 <figure align="center">
+  <img src="/assets/img/War.png" alt="Metamorphosis I, by Maurits Escher" width="600">
+  <figcaption>从城市撤退(1939-1941), 关山月</figcaption>
+</figure>
+
+《从城市撤退》作品局部; 天府美术馆藏, 参观于2024年1月
+
+<br>
+
+<figure align="center">
   <img src="/assets/img/L'ellipse.jpg" alt="The Ellipsis, by René Magritte" width="300">
   <figcaption>The Ellipsis (1948), René Magritte</figcaption>
 </figure>
