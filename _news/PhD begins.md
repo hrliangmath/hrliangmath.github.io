@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Starting my PhD, finally -- Like a dormant seed stirring to life after a long winter. 
+Started my PhD, finally -- like a dormant seed stirring to life after a long winter. 
