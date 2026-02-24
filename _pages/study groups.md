@@ -18,13 +18,10 @@ nav_order: 5
 
 [Automorphic forms](https://axhou.github.io/gel2025.html)
 
-Fargues--Fontaine Curve [Postponed till summer 2026]
+Fargues--Fontaine Curve [Postponed till April 2026]
 
 [Higher Coleman theory](/study-groups/higher-Coleman/)
 
-I have a rough idea of organizing a one-year long study group "Ribet, Mazur, and Wiles" aiming at understanding three interrelated classic articles: 
-- Ribet "A modular construction of unramified p-extensions of Q(µ_p)", where he establishes the converse theorem to Herbrand;
-- Mazur’s "Modular curves and the Eisenstein ideal", where all possibilities of torsion subgroups of elliptic curves over Q are determined;
-- Mazur—Wiles’ "Class fields of abelian extensions over Q", where the authors prove the Iwasawa Main Conjecture over Q. Feel free to talk to me if you are interested or have any comments.
+Modular Curves and the Eisenstein Ideal [Coming summer 2026]
 
 To be continued. 

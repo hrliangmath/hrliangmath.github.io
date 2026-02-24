@@ -376,16 +376,19 @@ Albertina Museum Wien (阿尔贝蒂娜博物馆); Kunsthistorisches Museum Wien 
 <br>
 
 ### - (Rock) Music - 
-- California Dreamin’, The Mamas & the Papas 1965
-- 21st Century Schizoid Man; Epitaph, King Crimson "In the Court of the Crimson King" 1969
-- Candy Says; What Goes On; Pale Blue Eyes...; The Velvet Undergound "The Velvet Underground" 1969
-- Long Long Time, Linda Ronstadt "Silk Purse" 1970
-- Heart Of Gold, Neil Young "Harvest" 1972
-- Hotel California, Eagles "Hotel California" 1976
-- I Want to Break Free, Queen "The Works" 1984
-- With or Without You; I Still Haven't Found What I'm Looking For, U2 "The Joshua Tree" 1987
-- 新长征路上的摇滚 (Rock 'n' Roll on the New Long March), 崔健 《新长征路上的摇滚》 1989
-- Don't Break My Heart; 无地自容 (Shameful), 黑豹乐队 《黑豹》 1991
-- 挪威的森林 (Norwegian Forest), 伍佰 & China Blue 《爱情的尽头》 1996 
-- Viva La Vida, Coldplay "Viva la Vida or Death and All His Friends" 2008 - not a pre-2000 song, but, you know, Coldplay formed in London in 1997...
+- <b> Beatles Beatles Beatles </b>
+- <b> The Mamas & the Papas 1965 </b> "California Dreamin’"
+- <b> King Crimson </b> "In the Court of the Crimson King" 1969, "In the Wake of Poseidon" 1970, "Red" 1974, ...
+- <b> Genesis </b> "Selling England by the Pound" 1973
+- <b> Pink Floyd </b> "The Dark Side of the Moon" 1973, "Wish You Were Here" 1975, ...
+- <b> YES </b> "Close to the Edge" 1972
+- <b> The Velvet Undergound </b> "The Velvet Underground" 1969
+- <b> Led Zeppelin </b> "Led Zeppelin IV" 1971, 
+- <b> Camel </b> "Camel" 1973, "Mirage" 1974, "The Snow Goose" 1975
+- <b> Eagles </b> "Hotel California" 1976
+- <b> U2 </b> "The Joshua Tree" 1987
+- <b> 崔健 </b> 《新长征路上的摇滚》 1989
+- <b> 黑豹乐队 </b> 《黑豹》 1991
+- <b> Radiohead </b> "OK Computer" 1997
+- <b> Depeche Mode </b> "The Best of Depeche Mode, vol 1." 2006 (the songs are mostly from 1980-1990)
 
