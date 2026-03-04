@@ -37,16 +37,6 @@ When not struggling with mathematics, he can usually be found reading, playing b
 
 Let me also post here two lovely maps of provinces in China (resp. countries all over the world) I’ve been to, generated from [神奇海螺试验场](https://lab.magiconch.com) (which contains a lot of fun stuff):
 
-<figure align="center">
-  <img src="/assets/img/China.png" alt="My China footprint" width="450">
-  <figcaption>My China footprint map</figcaption>
-</figure>
-
-<figure align="center">
-  <img src="/assets/img/World.png" alt="My international footprint" width="450">
-  <figcaption>My international footprint map</figcaption>
-</figure>
-
 <div style="display: flex; justify-content: center; gap: 20px;">
 
   <figure style="text-align: center;">
