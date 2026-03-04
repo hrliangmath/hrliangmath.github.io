@@ -22,8 +22,8 @@ horizontal: false
 
 ## Write-ups
 
-- Theta operators on Shimura varieties and applications (first two chapters of my upgrade report)
-- Local geometry of the eigencurve 
+- Theta operators on Shimura varieties and applications (the first two chapters of my upgrade report)
+- Local geometry of the eigencurve (joint with Lucie Gatzmaga)
 - The Ax—-Grothendieck Theorem
 - O-minimality and Diophantine applications
 - Geomtery and algebra of (B, N)-pairs
@@ -39,7 +39,7 @@ horizontal: false
 
 ## Notes
 
-Some of my notes are available below (upon request, as the handwritten ones are too large to host here). They come from the wonderful courses I attended and enjoyed in London (LSGNT / LTCC / TCC), ETH Zürich, UC Berkeley, Xi’an Jiaotong University, and various other places. All errors are my own.
+Some of my notes are available below (upon request, as the handwritten ones are too large to be stored here). They come from the wonderful courses I enjoyed in London (LSGNT / LTCC / TCC), ETH Zürich, UC Berkeley, Xi’an Jiaotong University, and various other places. All errors are mine.
 
 - Topics in Number Theory: L-Functions and Modular Forms Spring 2022 by Prof. Claire Burrin
 - Computations in Algebra and Number Theory Spring 2022 by Prof. David Loeffler

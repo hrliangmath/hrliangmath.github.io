@@ -15,9 +15,9 @@ toc: true
 
 Welcome to this little “e-museum” — a personal gallery of snapshots featuring artistic wonders and cultural relics!
 
-The “exhibits” here range from paintings and ceramics to sculptures and beyond — basically, anything that blew my mind during visits to museums. You might also stumble upon some of my own photography, when I felt inspired (or just lucky with the lighting 😎).
+The “exhibits” here range from paintings and ceramics to sculptures and beyond — basically, anything that blew my mind during visits to museums. You might also stumble upon some of my own photography.
 
-If you’re also a fellow art & history enthusiast, I’d be thrilled to hear about what’s captivated you too — feel free to share!
+If you’re also a fellow art & history enthusiast, I’d be thrilled to hear about what's captivated you too — feel free to share!
 
 `展厅布置中 / Exhibition Hall Under Preparation`
 
@@ -355,6 +355,7 @@ Albertina Museum Wien (阿尔贝蒂娜博物馆); Kunsthistorisches Museum Wien 
 - Scent of a Woman (闻香识女人) 1992
 - 霸王别姬 (Farewell My Concubine) 1993
 - 重庆森林 (Chungking Express) 1994
+- 饮食男女 (Eat Drink Man Woman) 1994
 - Pulp Fiction (低俗小说) 1994
 - Mission: Impossible (碟中谍) 1996
 - もののけ姫 (幽灵公主) 1997

@@ -16,27 +16,27 @@
       year: 2023
       description:
         - "discovered that mathematics and mountatins have something in common: they're both easier to admire than to conquer"
-        - "thesis: automorphic forms on adele groups, advisor: Professor Emmanuel Kowalski"
+        - "thesis: automorphic forms on adele groups, advisor: Prof. Emmanuel Kowalski"
     - title: BSc in Mathematics (Honours)
       institution: Xi'an Jiaotong University, China
       year: 2021
       description:
-        - chasing equations, shuttlecocks, and way too much biangbiang noodles
-        - "thesis: (Algebraic) number fields and special cases of Fermat’s last theorem, advisor: Ping Xi"
+        - chasing equations, shuttlecocks, and way too much biangbiang noodle
+        - "thesis: (Algebraic) number fields and special cases of Fermat’s last theorem, advisor: 郗平 教授 / Prof. Ping Xi"
 
 - title: Experience
   type: time_table
   contents:
-    - title: Visiting student (Professor Ye Tian)
+    - title: Visiting student (田野 院士 / Prof. Ye Tian)
       institution: Morningside Center of Mathematics
       year: 2023.10 - 2023.12
       description:
-        - drifting through courses, seminars, and museums like a ghost, mostly to distract myself from anxiously checking my visa status every five minutes
+        - drifting through courses, seminars, and museums like a ghost, mostly to distract myself from anxiously checking my UK visa status every five minutes
     - title: Visiting student
       institution: University of California, Berkeley
       year: 2020.01 - 2020.05
       description:
-        - fell in love with mathematics - thank you Professor Dan-Virgil Voiculescu!
+        - fell in love with mathematics - thank you so much Professor Dan-Virgil Voiculescu!
         - slightly absent from the era of the pandemic
 
     - title: Visiting student
@@ -67,7 +67,7 @@
   contents:
     - year: 2023
       items: 
-        - title: 2nd All-Swiss ACSSZ Student Badmintion Tournament 
+        - title: 2nd All-Swiss ACSSZ (瑞士学联) Student Badmintion Tournament 
           contents: 
           - "Men's Singles -- Runner-up"
           - "Men's Doubles -- Champion"
@@ -87,5 +87,5 @@
   contents:
     - (2020-2021) Cultural Relics Enthusiasts Association
     - (2017-2021) Phoenix Student Book Club
-    - (2017-2018) Go Team at Xi'an Jiaotong University
+    - (2017-2018) Go Team of Xi'an Jiaotong University
     - (2019) Badminton Team of Peng Kang College

@@ -20,9 +20,9 @@ social: false  # includes social icons at the bottom of the page
 
 Hi! welcome to Haoran <b> Liang</b>'s (<b> 梁 </b> 浩然) home page. 
 
-As the name suggests, this website aims to document some of the beautiful scenery along Haoran's journey through mathematics, literature, and the arts. His old webpage can be found [here](https://hrliangmath.wordpress.com).
+As its name suggests, this website aims to document some of the beautiful scenery along Haoran's journey through mathematics, literature, and arts.
 
-He jointed King’s College London in Summer 2024 as a PhD student under the supervision of [Payman Kassaei](https://www.mathgenealogy.org/id.php?id=37022) and [Fred Diamond](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=49401). He is also fortunate to be aligned with the LSGNT program. Previously, he completed his Master’s at ETH Zürich and Bachelor‘s at Xi’an Jiaotong University. 
+Haoran joined King’s College London in Summer 2024 as a PhD student, under the supervision of Prof. [Payman Kassaei](https://www.mathgenealogy.org/id.php?id=37022) and Prof. [Fred Diamond](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=49401). He is also fortunate to be aligned with the LSGNT program. Previously, he completed his Master’s at ETH Zürich and Bachelor‘s at Xi’an Jiaotong University. 
 
 He is a big fan of number theory with broad interests in its intersecting areas. He considers himself as an apprentice in the art of ``applying mathematics'' -- that is, borrowing any tools available to tackle number-theoretical problems. Currently, he is particularly drawn to the following topics
 
@@ -36,6 +36,16 @@ He is a big fan of number theory with broad interests in its intersecting areas.
 When not struggling with mathematics, he can usually be found reading, playing badminton, or exploring museum exhibits (ideally with a good audioguide). Before the rise of AI, he greatly enjoyed playing Go; nowadays, he is learning to appreciate its artistry in the post-AI era.
 
 
+<figure align="center">
+  <img src="/assets/img/World.png" alt="My international footprint" width="450">
+  <figcaption>My international footprint map</figcaption>
+</figure>
+
+
+<figure align="center">
+  <img src="/assets/img/China.png" alt="My China footprint" width="450">
+  <figcaption>My China footprint map</figcaption>
+</figure>
 
 
 <form method="post" action="https://forms.un-static.com/forms/90aa8fa89b2329b6d6676144e37688c2ef689cf1">
