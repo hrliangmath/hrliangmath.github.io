@@ -47,6 +47,20 @@ Let me also post here two lovely maps of provinces in China (resp. countries all
   <figcaption>My international footprint map</figcaption>
 </figure>
 
+<div style="display: flex; justify-content: center; gap: 20px;">
+
+  <figure style="text-align: center;">
+    <img src="/assets/img/China.png" alt="My China footprint" width="300">
+    <figcaption>My China footprint map</figcaption>
+  </figure>
+
+  <figure style="text-align: center;">
+    <img src="/assets/img/World.png" alt="My international footprint" width="300">
+    <figcaption>My international footprint map</figcaption>
+  </figure>
+
+</div>
+
 Where, I get 
 - 5 pts (red) for long stays (at least 1 year);
 - 4 pts (orange ) for short stays (at least 1 month);
