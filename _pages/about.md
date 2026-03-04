@@ -35,17 +35,18 @@ He is a big fan of number theory with broad interests in its intersecting areas.
 
 When not struggling with mathematics, he can usually be found reading, playing badminton, or exploring museum exhibits (ideally with a good audioguide). Before the rise of AI, he greatly enjoyed playing Go; nowadays, he is learning to appreciate its artistry in the post-AI era.
 
+Let me also post here two lovely maps of provinces in China (resp. countries all over the world) I’ve been to, generated from [神奇海螺试验场](https://lab.magiconch.com) (which contains a lot of fun stuff):
+
+<figure align="center">
+  <img src="/assets/img/China.png" alt="My China footprint" width="450">
+  <figcaption>My China footprint map</figcaption>
+</figure>
 
 <figure align="center">
   <img src="/assets/img/World.png" alt="My international footprint" width="450">
   <figcaption>My international footprint map</figcaption>
 </figure>
 
-
-<figure align="center">
-  <img src="/assets/img/China.png" alt="My China footprint" width="450">
-  <figcaption>My China footprint map</figcaption>
-</figure>
 
 
 <form method="post" action="https://forms.un-static.com/forms/90aa8fa89b2329b6d6676144e37688c2ef689cf1">
