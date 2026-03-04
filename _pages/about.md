@@ -47,6 +47,14 @@ Let me also post here two lovely maps of provinces in China (resp. countries all
   <figcaption>My international footprint map</figcaption>
 </figure>
 
+Where, I get 
+- 5 pts (red) for long stays (at least 1 year);
+- 4 pts (orange ) for short stays (at least 1 month);
+- 3 pts (yellow) for trips;
+- 2 pts (green) for business;
+- 1 pt (blue) for passing by;
+- 0 pt (purple) for planned trips;
+- 0 pt (white) if I’ve never been there before.
 
 
 <form method="post" action="https://forms.un-static.com/forms/90aa8fa89b2329b6d6676144e37688c2ef689cf1">
