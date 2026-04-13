@@ -20,7 +20,7 @@ social: false  # includes social icons at the bottom of the page
 
 Hi! welcome to Haoran <b> Liang</b>'s (<b> 梁 </b> 浩然) home page. 
 
-As its name suggests, this website aims to document some of the beautiful scenery along Haoran's journey through mathematics, literature, and arts.
+As the name suggests, this website aims to document some of the beautiful scenery along Haoran's journey through mathematics, literature, and arts.
 
 Haoran joined King’s College London in Summer 2024 as a PhD student, under the supervision of Prof. [Payman Kassaei](https://www.mathgenealogy.org/id.php?id=37022) and Prof. [Fred Diamond](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=49401). He is also fortunate to be aligned with the LSGNT program. Previously, he completed his Master’s at ETH Zürich and Bachelor‘s at Xi’an Jiaotong University. 
 
