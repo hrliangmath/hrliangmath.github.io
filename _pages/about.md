@@ -35,7 +35,7 @@ He is a big fan of number theory with broad interests in its intersecting areas.
 
 When not struggling with mathematics, he can usually be found reading, playing badminton, or exploring museum exhibits (ideally with a good audioguide). Before the rise of AI, he greatly enjoyed playing Go; nowadays, he is learning to appreciate its artistry in the post-AI era.
 
-Let me also post here two lovely maps of provinces in China (resp. countries all over the world) I’ve been to, generated from [神奇海螺试验场](https://lab.magiconch.com) (which contains a lot of fun stuff):
+Let him also post here two lovely maps of provinces in China (resp. countries all over the world) he’s been to, generated from [神奇海螺试验场](https://lab.magiconch.com) (which contains a lot of fun stuff):
 
 <div style="display: flex; justify-content: center; gap: 20px;">
 
@@ -51,14 +51,14 @@ Let me also post here two lovely maps of provinces in China (resp. countries all
 
 </div>
 
-Where, I get 
+Where, he gets
 - 5 pts (red) for long stays (at least 1 year);
 - 4 pts (orange ) for short stays (at least 1 month);
 - 3 pts (yellow) for trips;
 - 2 pts (green) for business;
 - 1 pt (blue) for passing by;
 - 0 pt (purple) for planned trips;
-- 0 pt (white) if I’ve never been there before.
+- 0 pt (white) if he's never been there before.
 
 
 <form method="post" action="https://forms.un-static.com/forms/90aa8fa89b2329b6d6676144e37688c2ef689cf1">
