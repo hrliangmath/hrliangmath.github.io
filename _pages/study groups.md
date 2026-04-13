@@ -12,15 +12,15 @@ nav_order: 5
 
 </blockquote>
 
-<a href="/assets/pdf/Iwasawa.pdf" target="_blank"> Iwasawa theory </a> (so far, we've only managed to achieve the first goal of the study group, namely, to understand the proof of the Main Conjecture using Euler systems.)
+<!-- <a href="/assets/pdf/Iwasawa.pdf" target="_blank"> Iwasawa theory </a> (so far, we've only managed to achieve the first goal of the study group, namely, to understand the proof of the Main Conjecture using Euler systems. -->
 
 [Eigenvarieties](/study-groups/eigenvarieties/)
 
-[Automorphic forms](https://axhou.github.io/gel2025.html)
+<!-- [Automorphic forms](https://axhou.github.io/gel2025.html) -->
 
 [Higher Coleman theory](/study-groups/higher-Coleman/)
 
-[Modular Curves and the Eisenstein Ideal](/study-groups/eisenstein/)
+[Modular curves and the Eisenstein ideal](/study-groups/eisenstein/)
 
 The Fargues--Fontaine Curve
 
