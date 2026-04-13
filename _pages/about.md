@@ -27,7 +27,7 @@ Haoran joined King’s College London in Summer 2024 as a PhD student, under the
 He is a big fan of number theory with broad interests in its intersecting areas. He considers himself as an apprentice in the art of ``applying mathematics'' -- that is, borrowing any tools available to tackle number-theoretical problems. Currently, he is particularly drawn to the following topics
 
 <ul>
-    <li> <i>p</i>-adic automorphic forms, (families of) Galois representations, and eiegnvarieties;</li>
+    <li> <i>p</i>-adic automorphic forms, (families of) Galois representations, and eigenvarieties;</li>
     <li>Iwasawa theory, especially <i> p</i>-adic <i>L</i>-functions;</li>
     <li>geometry of Shimura varieties;</li>
     <li>······</li>
