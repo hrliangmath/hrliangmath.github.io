@@ -41,68 +41,62 @@ Main reference: [[HLV24](https://ems.press/books/mlm/297)] E. Hellmann, J. Ludwi
   </thead>
   <tbody>
     <tr>
-      <td>Jul. 21 </td>
+      <td>21 Jul </td>
       <td>From congruences between modular forms to eigenvarieties </td>
       <td>Haoran</td>
       <td><a href="/assets/pdf/Talk 0, Haoran Liang.pdf" target="_blank"> pdf </a>  </td>
     </tr>
     <tr>
-      <td>Jul. 29</td>
+      <td>29 Jul </td>
       <td>Adic Spaces I
       </td>
       <td>Lichang</td>
       <td><a href="/assets/pdf/Talk 1, Lichang Zhang.pdf" target="_blank"> pdf </a> </td>
     </tr>
     <tr>
-      <td>Aug. 04</td>
+      <td>04 Aug </td>
       <td>Adic Spaces II</td>
       <td>Julia</td>
       <td><a href="/assets/pdf/Talk 2, Julia Meng.pdf" target="_blank"> pdf </a> </td>
     </tr>
     <tr>
-      <td>Aug. 11</td>
+      <td>11 Aug </td>
       <td>Digression: perfectoid spaces</td>
       <td>Ho Leung</td>
       <td><a href="/assets/pdf/Talk 3, Ho Leung Fong.pdf" target="_blank"> pdf </a> </td>
     </tr>
     <tr>
-      <td>Aug. 27 </td>
+      <td>27 Aug </td>
       <td>The eigenvariety machine I: toolkit from functional analysis. </td>
       <td>Zhenghang </td>
       <td><a href="/assets/pdf/Talk 4, Zhenghang Du.pdf" target="_blank"> pdf </a> </td>
     </tr>
     <tr>
-      <td>Sep. 03 </td>
+      <td>03 Sep </td>
       <td>Adic Spaces III </td>
       <td>Julia </td>
       <td><a href="/assets/pdf/Talk 5, Julia Meng.pdf" target="_blank"> pdf </a> </td>
     </tr>
     <tr>
-      <td>Sep. 10 </td>
+      <td>10 Sep </td>
       <td>The eigenvariety machine II: construction and geometric properties </td>
       <td>Haoran </td>
       <td><a href="/assets/pdf/Talk 6, Haoran Liang.pdf" target="_blank"> pdf </a> </td>
     </tr>
     <tr>
-      <td>Sep. 18 </td>
+      <td>18 Sep </td>
       <td>The Coleman--Mazur eigencurve I: automorphic side </td>
       <td>Haoran </td>
       <td><a href="/assets/pdf/Talk 7, Haoran Liang.pdf" target="_blank"> pdf </a> </td>
     </tr>
     <tr>
-      <td>Sep. 18 </td>
-      <td>The Coleman--Mazur eigencurve I: automorphic side </td>
-      <td>Haoran </td>
-      <td><a href="/assets/pdf/Talk 7, Haoran Liang.pdf" target="_blank"> pdf </a> </td>
-    </tr>
-    <tr>
-      <td>Sep. 29 </td>
+      <td>29 Sep </td>
       <td>The Coleman--Mazur eigencurve II: Galois side </td>
       <td>Yicheng </td>
       <td> On request  </td>
     </tr>
       <tr>
-      <td>Oct. 12 </td>
+      <td>21 Oct </td>
       <td>Eigencurves for definite quaternion algebras </td>
       <td>Benchao </td>
       <td> On request </td>

@@ -15,7 +15,7 @@ There will be a coffee break from 15:30 to 16:00, followed by the Number Theory 
 
 
 Main references:
-- Barry Mazur. <i> Modular curves and the Eisenstein ideal </i>. Publ. Math. Inst. Hautes Études Sci. 47.1 (1977): 33-186.
+- Barry Mazur. <i> [Modular curves and the Eisenstein ideal](https://www.numdam.org/article/PMIHES_1977__47__33_0.pdf) </i>. Publ. Math. Inst. Hautes Études Sci. 47.1 (1977): 33-186.
 - Andrew Snowden's [lecture notes](https://websites.umich.edu/~asnowden/teaching/2013/679/)
 
 <style>
