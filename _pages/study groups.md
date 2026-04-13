@@ -24,8 +24,6 @@ nav_order: 5
 
 The Fargues--Fontaine Curve
 
-Online Junior Seminar [In prepration :)]
-
-Completed Cohomology and Eigenvarieties [Future Plan]
+Online Junior Number Theory Seminar 
 
 To be continued...
