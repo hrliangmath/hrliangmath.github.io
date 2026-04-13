@@ -18,14 +18,14 @@ nav_order: 5
 
 [Automorphic forms](https://axhou.github.io/gel2025.html)
 
-Fargues--Fontaine Curve [Coming April 2026!]
-
 [Higher Coleman theory](/study-groups/higher-Coleman/)
 
-Modular Curves and the Eisenstein Ideal [Coming Summer 2026!]
+[Modular Curves and the Eisenstein Ideal](/study-groups/eisenstein/)
+
+The Fargues--Fontaine Curve
 
 Online Junior Seminar [In prepration :)]
 
 Completed Cohomology and Eigenvarieties [Future Plan]
 
-To be continued. 
+To be continued...
