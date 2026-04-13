@@ -24,7 +24,7 @@ As the name suggests, this website aims to document some of the beautiful scener
 
 Haoran joined King’s College London in Summer 2024 as a PhD student, under the supervision of Prof. [Payman Kassaei](https://www.mathgenealogy.org/id.php?id=37022) and Prof. [Fred Diamond](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=49401). He is also fortunate to be aligned with the LSGNT program. Previously, he completed his Master’s at ETH Zürich and Bachelor‘s at Xi’an Jiaotong University. 
 
-He is a big fan of number theory with broad interests in its intersecting areas. He considers himself as an apprentice in the art of ``applying mathematics'' -- that is, borrowing any tools available to tackle number-theoretical problems. Currently, he is particularly drawn to the following topics
+He is a big fan of number theory with broad interests in its intersecting areas. He considers himself as an apprentice in the art of "applying mathematics" -- that is, borrowing any tools available to tackle number-theoretical problems. Currently, he is particularly drawn to the following topics
 
 <ul>
     <li> <i>p</i>-adic automorphic forms, (families of) Galois representations, and eigenvarieties;</li>
