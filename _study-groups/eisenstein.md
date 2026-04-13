@@ -52,9 +52,9 @@ Main references:
   <tbody>
     <tr>
       <td> 29 Apr </td>
+      <td> Overview </td>
+      <td> Netan </td>
       <td> TBC </td>
-      <td> TBD </td>
-      <td> Notes </td>
     </tr>
   </tbody>
 </table>
