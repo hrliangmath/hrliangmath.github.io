@@ -14,7 +14,7 @@ In this sense, the present seminar is a continuation of those earlier, informal 
 
 More than anything, it is a chance for us to get together, chat a bit, and enjoy some mathematics.
 
-<div style="margin-bottom:25px;"> &nbsp </div>
+<br>
 
 ---
 
@@ -25,7 +25,7 @@ More than anything, it is a chance for us to get together, chat a bit, and enjoy
 
 We are quite flexible when it comes to scheduling, and speakers are free to design their talks as they wish :)
 
-<div style="margin-bottom:25px;"> &nbsp </div>
+<br>
 
 ---
 
