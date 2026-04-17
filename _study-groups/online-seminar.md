@@ -4,7 +4,7 @@ title: Online Junior Number Theory Seminar
 permalink: /study-groups/online-seminar/
 ---
 
-## Motivation
+## - Motivation -
 
 A few years ago, a rather naive idea came to my mind: As graduate students, we spend a lot of time working on mini-projects, Master’s and PhD theses, or simply following our noses and exploring whatever catches our interest -- so why not share these with each other?
 
@@ -14,11 +14,11 @@ In this sense, the present seminar is a continuation of those earlier, informal 
 
 More than anything, it is a chance for us to get together, chat a bit, and enjoy some mathematics.
 
-<div style="margin-bottom:25px;">
+<div style="margin-bottom:25px;"></div>
 
 ---
 
-</div>
+
 
 ## Logistics
 
@@ -27,9 +27,8 @@ More than anything, it is a chance for us to get together, chat a bit, and enjoy
 
 We are quite flexible when it comes to scheduling, and speakers are free to design their talks as they wish :)
 
-<div style="margin-bottom:25px;">
+<div style="margin-bottom:25px;"></div>
 
-</div>
 
 ---
 
