@@ -23,6 +23,8 @@ If you’re also a fellow art & history enthusiast, I’d be thrilled to hear ab
 
 ## Arts in Stillness - Adrift in Time and Land 
 
+<br>
+
 ### - Fine Art - 
 
 
