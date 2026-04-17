@@ -22,7 +22,7 @@ nav_order: 5
 
 [Modular curves and the Eisenstein ideal](/study-groups/eisenstein/)
 
-The Fargues--Fontaine Curve
+The Fargues--Fontaine curve
 
 [Online Junior Number Theory Seminar](study-groups/online-seminar)
 

@@ -21,7 +21,7 @@ We are quite flexible when it comes to scheduling, and speakers are free to desi
 
 ### Upcoming Talks
 
-TBD
+#### TBD
 
 24 April 2026, Moqing Chen (Strasbourg)
 
