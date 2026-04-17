@@ -50,7 +50,21 @@ In this talk, I will introduce the Mumford–Tate conjecture and the geometry of
 
 <br>
 
-## Past Talks
+## - Past Talks -
 
 <br>
 
+### 2026 Edition
+
+---
+
+#### Some Recent Progress of the Arithmetic Inner Product Formula
+
+17 April 2026, Zhuoni Chi (Zhejiang University)
+
+<b> Abstract </b>: This talk briefly introduces the arithmetic inner product formula for unitary groups and explains how it connects theta lifting, automorphic L-functions, and arithmetic cycles on Shimura varieties. After reviewing the classical picture and method, I will focus on the new difficulties that arise at ramified places with local root number -1.
+
+
+<br> 
+
+### Previous Edition
