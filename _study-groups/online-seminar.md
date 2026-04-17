@@ -14,10 +14,6 @@ In this sense, the present seminar is a continuation of those earlier, informal 
 
 More than anything, it is a chance for us to get together, chat a bit, and enjoy some mathematics.
 
-<br>
-
----
-
 #### Logistics
 
 - Time: Fridays 9am EST, 2pm GMT, 3pm CET, and 9pm CST
@@ -27,32 +23,34 @@ We are quite flexible when it comes to scheduling, and speakers are free to desi
 
 <br>
 
----
 
 ## - Upcoming Talks -
 
 <br>
 
+---
 
-### TBD
+#### TBD
 
 24 April 2026, Moqing Chen (Strasbourg)  
 
-Abstract: TBA
-
-<br>
-
-### Mumford--Tate Conjecture for Hyper-Kähler Varieties
-
-01 May 2026, Haitao Zou (Bielefeld)
-
-Abstract: The Mumford--Tate conjecture serves as a bridge between the analytic world of Hodge theory and the arithmetic world of Galois representations. While the conjecture is difficult even for abelian varieties, hyper-Kähler varieties offer a promising testing ground due to their similarity to K3 surfaces.
-
-In this talk, I will introduce the Mumford–Tate conjecture and the geometry of hyper-Kähler varieties. I will then present recent results (joint with Zhichao Tang) showing that the conjecture holds after taking semisimplification. This generalizes previous results known only for specific deformation types.
+<b> Abstract </b>: TBA
 
 <br>
 
 ---
 
+#### Mumford--Tate Conjecture for Hyper-Kähler Varieties
+
+01 May 2026, Haitao Zou (Bielefeld)
+
+<b> Abstract </b>: The Mumford--Tate conjecture serves as a bridge between the analytic world of Hodge theory and the arithmetic world of Galois representations. While the conjecture is difficult even for abelian varieties, hyper-Kähler varieties offer a promising testing ground due to their similarity to K3 surfaces.
+
+In this talk, I will introduce the Mumford–Tate conjecture and the geometry of hyper-Kähler varieties. I will then present recent results (joint with Zhichao Tang) showing that the conjecture holds after taking semisimplification. This generalizes previous results known only for specific deformation types.
+
+<br>
+
 ## Past Talks
+
+<br>
 
