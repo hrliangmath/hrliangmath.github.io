@@ -24,6 +24,6 @@ nav_order: 5
 
 The Fargues--Fontaine Curve
 
-Online Junior Number Theory Seminar 
+[Online Junior Number Theory Seminar](study-groups/online-seminar)
 
 To be continued...

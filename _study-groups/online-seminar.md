@@ -16,13 +16,22 @@ More than anything, it is a chance for us to get together, chat a bit, and enjoy
 ### Logistics
 - Time: Fridays 9am EST, 2pm GMT, 3pm CET, and 9pm CST
 - Zoom id: 949 924 7490
-- 
+
+We are quite flexible when it comes to scheduling, and speakers are free to design their talks as they wish :)
 
 ### Upcoming Talks
 
+TBD
 
+24 April 2026, Moqing Chen (Strasbourg)
 
+Abstract:
 
+#### Mumford--Tate Conjecture for Hyper-Kähler Varieties
+
+01 May 2026, Haitao Zou (Bielefeld)
+
+Abstract: The Mumford--Tate conjecture serves as a bridge between the analytic world of Hodge theory and the arithmetic world of Galois representations. While the conjecture is difficult even for abelian varieties, hyper-Kähler varieties offer a promising testing ground due to their similarity to K3 surfaces. In this talk, I will introduce the Mumford-Tate conjecture and the geometry of hyper-Kähler varieties. I will then present recent results (joint with Zhichao Tang) showing that the conjecture holds for after taking semisimplification. This generalizes previous results known only for specific deformation types.
 
 ### Past Talks
 
