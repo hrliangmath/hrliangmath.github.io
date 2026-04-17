@@ -14,25 +14,22 @@ In this sense, the present seminar is a continuation of those earlier, informal 
 
 More than anything, it is a chance for us to get together, chat a bit, and enjoy some mathematics.
 
-<div style="margin-bottom:25px;"></div>
+<div style="margin-bottom:25px;"> &nbsp </div>
 
 ---
 
-
-
-## Logistics
+#### Logistics
 
 - Time: Fridays 9am EST, 2pm GMT, 3pm CET, and 9pm CST
 - Zoom id: 949 924 7490
 
 We are quite flexible when it comes to scheduling, and speakers are free to design their talks as they wish :)
 
-<div style="margin-bottom:25px;"></div>
-
+<div style="margin-bottom:25px;"> &nbsp </div>
 
 ---
 
-## Upcoming Talks
+## - Upcoming Talks -
 
 <br>
 
