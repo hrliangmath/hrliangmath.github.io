@@ -29,9 +29,9 @@ We are quite flexible when it comes to scheduling, and speakers are free to desi
 
 <div style="margin-bottom:25px;">
 
----
-
 </div>
+
+---
 
 ## Upcoming Talks
 
