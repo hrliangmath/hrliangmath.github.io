@@ -14,6 +14,9 @@ In this sense, the present seminar is a continuation of those earlier, informal 
 
 More than anything, it is a chance for us to get together, chat a bit, and enjoy some mathematics.
 
+<div style="margin-bottom:25px;">
+</div>
+
 ---
 
 ## Logistics
@@ -22,6 +25,9 @@ More than anything, it is a chance for us to get together, chat a bit, and enjoy
 - Zoom id: 949 924 7490
 
 We are quite flexible when it comes to scheduling, and speakers are free to design their talks as they wish :)
+
+<div style="margin-bottom:25px;">
+</div>
 
 ---
 
