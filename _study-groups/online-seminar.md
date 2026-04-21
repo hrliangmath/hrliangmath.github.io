@@ -30,23 +30,23 @@ We are quite flexible when it comes to scheduling, and speakers are free to desi
 
 ---
 
-#### Mumford--Tate Conjecture for Hyper-Kähler Varieties
+#### TBD
 
-01 May 2026, Haitao Zou (Bielefeld)
+01 May 2026, Moqing Chen (Strasbourg)  
 
-<b> Abstract</b>: The Mumford--Tate conjecture serves as a bridge between the analytic world of Hodge theory and the arithmetic world of Galois representations. While the conjecture is difficult even for abelian varieties, hyper-Kähler varieties offer a promising testing ground due to their similarity to K3 surfaces.
-
-In this talk, I will introduce the Mumford–Tate conjecture and the geometry of hyper-Kähler varieties. I will then present recent results (joint with Zhichao Tang) showing that the conjecture holds after taking semisimplification. This generalizes previous results known only for specific deformation types.
+<b> Abstract</b>: TBA
 
 <br>
 
 ---
 
-#### TBD
+#### Mumford--Tate Conjecture for Hyper-Kähler Varieties
 
-24 April 2026, Moqing Chen (Strasbourg)  
+24 April 2026, Haitao Zou (Bielefeld)
 
-<b> Abstract</b>: TBA
+<b> Abstract</b>: The Mumford--Tate conjecture serves as a bridge between the analytic world of Hodge theory and the arithmetic world of Galois representations. While the conjecture is difficult even for abelian varieties, hyper-Kähler varieties offer a promising testing ground due to their similarity to K3 surfaces.
+
+In this talk, I will introduce the Mumford–Tate conjecture and the geometry of hyper-Kähler varieties. I will then present recent results (joint with Zhichao Tang) showing that the conjecture holds after taking semisimplification. This generalizes previous results known only for specific deformation types.
 
 <br>
 
