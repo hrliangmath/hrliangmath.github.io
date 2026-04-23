@@ -1,0 +1,89 @@
+---
+layout: page
+title: The Fargues--Fontaine Curve
+permalink: /study-groups/curve/
+---
+
+The program is divided into five parts:
+
+1. Background on Perfectoid Spaces (2 talks: 22/04, 27/04)
+We will introduce basic objects in p-adic Hodge theory, including perfectoid fields, Witt vectors, tilting and untilts, Fontaine’s theta map, etc., with an emphasis on explicit examples.
+
+References: [Sch], [Lur] §2–4, [Ans] §3–5
+
+2. Schematic Construction of the Curve (2 talks: 04/05, 11/05)
+We will present two constructions of the schematic Fargues–Fontaine curve: one via holomorphic functions in p, and the other via period rings. The goal is to introduce the necessary p-adic Hodge theoretic tools, prove the equivalence of the constructions, and show that the resulting scheme is Dedekind.
+
+References: [Lur] §6–8, [Ans] §7–10, [Mor] §2,5
+
+3. Vector Bundles on the Fargues–Fontaine Curve (2 talks: 18/05, 29/05)
+Topics include coverings of the curve, the Harder–Narasimhan filtration, and the classification of vector bundles via isocrystals. In particular, we will show that the étale fundamental group of the curve is the absolute Galois group of Qp.
+
+References: [Lur] §19–22, [Ans] §11,13, [Mor] §3, [Padova] §7–9
+
+4. Applications to Galois Representations (2 talks: 01/06, 08/06)
+We will discuss two key applications of the Fargues–Fontaine curve in Galois representations:
+weakly admissible implies admissible
+de Rham implies potentially semistable
+
+References: To be added.
+
+5. Adic and Relative Fargues–Fontaine Curve (2 talks: 15/06, 22/06)
+We introduce background material on adic spaces and diamonds, including Spd(Qp), and diamond associated with adic spaces. Explain the construction of the diamond and relative versions of the curve, as well as their relation to the schematic construction.
+References: [Wei] §3–4, [Berkeley] §8–10, [Mor] §4
+
+References:
+[Sch] Scholze — Perfectoid Spaces
+[Lur] Lurie — The Fargues-Fontaine Curve (Math 205)
+[Ans] Anschütz — vorlesung_the_curve.pdf
+[Mor] Morrow — Exp-1150-Morrow, La Courbe de FF.pdf
+[Padova] Study Group on the Fargues–Fontaine Curve
+[Wei] Weinstein — 2017WeinsteinNotes.pdf
+[Berkeley] Scholze & Weinstein — Berkeley Lectures on p-adic Geometry
+
+Logistics:
+- Mondays 10:00-11:30
+- Late April - Mid June
+- S2.29 Strand Building, King's College London
+
+
+<style>
+.table-sg {
+  width: auto;
+  border-collapse: collapse;
+  margin: 0.3rem 0;
+  font-size: 0.75rem;
+  border: 1.5px solid #000;
+  max-width: 683px;
+}
+.table-sg th, .table-sg td {
+  border: 1.5px solid #000 !important; /* 粗边框 */
+  padding: 3px 5px;
+  vertical-align: top;
+  line-height: 1.2;
+}
+.table-sg th {
+  font-weight: 750;
+  text-align: left;
+}
+.table-sg .emph { font-weight: 700; } /* 加粗行 */
+</style>
+
+<table class="table-sg">
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Content</th>
+      <th>Speaker</th>
+      <th>Notes </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> 29 Apr </td>
+      <td> Overview </td>
+      <td> Netan </td>
+      <td> TBC </td>
+    </tr>
+  </tbody>
+</table>
