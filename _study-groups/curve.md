@@ -91,7 +91,7 @@ Logistics:
   <tbody>
     <tr>
       <td> 22 Apr </td>
-      <td> Perfectoid fiels </td>
+      <td> Perfectoid fields </td>
       <td> Simon </td>
       <td> TBC </td>
     </tr>
