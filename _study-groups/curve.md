@@ -50,7 +50,7 @@ References:
 Logistics:
 - Mondays 10:00-11:30
 - Late April - Mid June
-- S2.29 Strand Building, King's College London
+- S2.29 Strand, King's
 - [Zoom link](https://ethz.zoom.us/j/9499247490)
 
 ---
