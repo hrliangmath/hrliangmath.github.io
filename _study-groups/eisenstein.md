@@ -4,7 +4,7 @@ title: Modular Curves and the Eisenstein Ideal
 permalink: /study-groups/eisenstein/
 ---
 
-Program: see <a href="/assets/pdf/Eisenstein.pdf" target="_blank"> here</a> (will be available soon).
+Draft program: see <a href="/assets/pdf/Eisenstein.pdf" target="_blank"> here</a> (to be updated).
 
 Logistics:
 - Wednesdays 14:00-15:30
