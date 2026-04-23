@@ -33,6 +33,7 @@ de Rham implies potentially semistable
 References: To be added.
 
 5) <b> Adic and Relative Fargues–Fontaine Curve (2 talks: 15/06, 22/06) </b>
+
 We introduce background material on adic spaces and diamonds, including Spd(Qp), and diamond associated with adic spaces. Explain the construction of the diamond and relative versions of the curve, as well as their relation to the schematic construction.
 References: [Wei] §3–4, [Berkeley] §8–10, [Mor] §4
 
@@ -89,9 +90,9 @@ Logistics:
   </thead>
   <tbody>
     <tr>
-      <td> 29 Apr </td>
-      <td> Overview </td>
-      <td> Netan </td>
+      <td> 22 Apr </td>
+      <td> Perfectoid fiels </td>
+      <td> Simon </td>
       <td> TBC </td>
     </tr>
   </tbody>
