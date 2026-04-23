@@ -33,13 +33,13 @@ We introduce background material on adic spaces and diamonds, including Spd(Qp),
 References: [Wei] §3–4, [Berkeley] §8–10, [Mor] §4
 
 References:
-[Sch] Scholze — Perfectoid Spaces
-[Lur] Lurie — The Fargues-Fontaine Curve (Math 205)
-[Ans] Anschütz — vorlesung_the_curve.pdf
-[Mor] Morrow — Exp-1150-Morrow, La Courbe de FF.pdf
-[Padova] Study Group on the Fargues–Fontaine Curve
-[Wei] Weinstein — 2017WeinsteinNotes.pdf
-[Berkeley] Scholze & Weinstein — Berkeley Lectures on p-adic Geometry
+- [Sch] Scholze — Perfectoid Spaces
+- [Lur] Lurie — The Fargues-Fontaine Curve (Math 205)
+- [Ans] Anschütz — vorlesung_the_curve.pdf
+- [Mor] Morrow — Exp-1150-Morrow, La Courbe de FF.pdf
+- [Padova] Study Group on the Fargues–Fontaine Curve
+- [Wei] Weinstein — 2017WeinsteinNotes.pdf
+- [Berkeley] Scholze & Weinstein — Berkeley Lectures on p-adic Geometry
 
 Logistics:
 - Mondays 10:00-11:30
