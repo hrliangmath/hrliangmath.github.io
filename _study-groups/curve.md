@@ -13,16 +13,19 @@ We will introduce basic objects in p-adic Hodge theory, including perfectoid fie
 References: [Sch], [Lur] §2–4, [Ans] §3–5
 
 2) <b> Schematic Construction of the Curve (2 talks: 04/05, 11/05) </b>
+
 We will present two constructions of the schematic Fargues–Fontaine curve: one via holomorphic functions in p, and the other via period rings. The goal is to introduce the necessary p-adic Hodge theoretic tools, prove the equivalence of the constructions, and show that the resulting scheme is Dedekind.
 
 References: [Lur] §6–8, [Ans] §7–10, [Mor] §2,5
 
 3) <b> Vector Bundles on the Fargues–Fontaine Curve (2 talks: 18/05, 29/05) </b>
+
 Topics include coverings of the curve, the Harder–Narasimhan filtration, and the classification of vector bundles via isocrystals. In particular, we will show that the étale fundamental group of the curve is the absolute Galois group of Qp.
 
 References: [Lur] §19–22, [Ans] §11,13, [Mor] §3, [Padova] §7–9
 
 4) <b> Applications to Galois Representations (2 talks: 01/06, 08/06) </b>
+
 We will discuss two key applications of the Fargues–Fontaine curve in Galois representations:
 weakly admissible implies admissible
 de Rham implies potentially semistable
