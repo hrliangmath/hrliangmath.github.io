@@ -4,7 +4,7 @@ title: The Fargues--Fontaine Curve
 permalink: /study-groups/curve/
 ---
 
-Welcome to the webpage of a study group on the Fargues--Fontaine curve! This study group is co-organized with Simon Alonso, Calle Sönne, and Yicheng Yang. Our program is divided into five parts:
+Welcome to the webpage of a study group on the Fargues--Fontaine curve! This lovely study group is co-organized with Simon Alonso, Calle Sönne, and Yicheng Yang. Our program is divided into five parts:
 
 1) <b> Background on Perfectoid Spaces (2 talks: 22/04, 27/04) </b>
 
@@ -45,12 +45,15 @@ References:
 - [Wei] Weinstein's [notes](https://swc-math.github.io/aws/2017/2017WeinsteinNotes.pdf) at Arizona Winter School 2017
 - [Berkeley] Scholze & Weinstein — Berkeley Lectures on p-adic Geometry
 
+--- 
+
 Logistics:
 - Mondays 10:00-11:30
 - Late April - Mid June
 - S2.29 Strand Building, King's College London
 - [Zoom link](https://ethz.zoom.us/j/9499247490)
 
+---
 
 
 <style>
