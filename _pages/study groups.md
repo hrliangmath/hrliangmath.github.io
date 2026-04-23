@@ -16,7 +16,7 @@ nav_order: 5
 
 [Eigenvarieties](/study-groups/eigenvarieties/)
 
-<!-- [Automorphic forms](https://axhou.github.io/gel2025.html) -->
+[Automorphic Representations on GL(2)](https://axhou.github.io/gel2025.html)
 
 [Higher Coleman theory](/study-groups/higher-Coleman/)
 
