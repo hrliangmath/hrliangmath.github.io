@@ -4,7 +4,7 @@ title: The Fargues--Fontaine Curve
 permalink: /study-groups/curve/
 ---
 
-The program is divided into five parts:
+Welcome to the webpage of a study group on the Fargues--Fontaine curve! This study group is co-organized with Simon Alonso, Calle Sönne, and Yicheng Yang. Our program is divided into five parts:
 
 1) Background on Perfectoid Spaces (2 talks: 22/04, 27/04)
 We will introduce basic objects in p-adic Hodge theory, including perfectoid fields, Witt vectors, tilting and untilts, Fontaine’s theta map, etc., with an emphasis on explicit examples.
