@@ -30,11 +30,23 @@ We are quite flexible when it comes to scheduling, and speakers are free to desi
 
 ---
 
-#### TBD
+#### TBC
+
+08 May 2026, Haocheng Fan (Peking University)  
+
+<b> Abstract</b>: TBC
+
+<br>
+
+---
+
+#### Explicit p-adic Hodge theory and p-adic monodromy group
 
 01 May 2026, Moqing Chen (Strasbourg)  
 
-<b> Abstract</b>: TBA
+<b> Abstract</b>: Over a p-adic field, the p-adic Tate module of an abelian variety carries a natural Galois representation. The associated p-adic monodromy group, defined as the Zariski closure of its image, provides an important invariant along Hecke orbits on Shimura varieties of Hodge type.
+
+In this talk, I will give several families of Galois representations arising from abelian surfaces with supersingular good reduction over Q_p, then classify the p-adic monodromy groups associated with them. I will then introduce a coarse moduli space parameterizing the corresponding p-adic Galois representations and describe how the p-adic monodromy groups distribute on this space.
 
 <br>
 
