@@ -30,11 +30,11 @@ We are quite flexible when it comes to scheduling, and speakers are free to desi
 
 ---
 
-#### TBC
+#### TBD
 
 08 May 2026, Haocheng Fan (Peking University)  
 
-<b> Abstract</b>: TBC
+<b> Abstract</b>: TBD
 
 <br>
 
