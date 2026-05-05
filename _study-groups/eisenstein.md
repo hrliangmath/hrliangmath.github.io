@@ -97,16 +97,19 @@ The following resources might be helpful as well:
       <td>  </td>
       <td>  </td>
     </tr>
+    <tr>
       <td> 17 June </td>
       <td> Finishing up I </td>
       <td>  </td>
       <td>  </td>
     </tr>
+    <tr>
       <td> 24 June </td>
       <td> Finishing up II </td>
       <td>  </td>
       <td>  </td>
     </tr>
+    <tr>
       <td> 01 July </td>
       <td> ??? </td>
       <td>  </td>
