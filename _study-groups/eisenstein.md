@@ -87,7 +87,7 @@ The following resources might be helpful as well:
     </tr>
     <tr>
       <td> 03 June </td>
-      <td> Hecke algebras and the Eichler–-Shimura relation </td>
+      <td> Hecke algebras and the Eichler–Shimura relation </td>
       <td>  </td>
       <td>  </td>
     </tr>
