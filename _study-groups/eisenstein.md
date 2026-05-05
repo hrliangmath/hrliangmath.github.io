@@ -81,7 +81,7 @@ The following resources might be helpful as well:
     </tr>
     <tr>
       <td> 27 May </td>
-      <td> The proof of Theorem B and Toric Reduction </td>
+      <td> The proof of Theorem B and toric reduction </td>
       <td>  </td>
       <td>  </td>
     </tr>
