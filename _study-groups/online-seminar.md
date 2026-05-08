@@ -34,7 +34,9 @@ We are quite flexible when it comes to scheduling, and speakers are free to desi
 
 08 May 2026, Haocheng Fan (Peking University)  
 
-<b> Abstract</b>: TBD
+<b> Abstract</b>: Companion Forms of Picard Modular Forms and Split Local Galois Representations
+
+We show that for a Picard modular form, the existence of the companion form is equivalent to a splitting property of the associated local Galois representation. This result is obtained by computing the monodromy group of the closure of the non-ordinary Newton stratum in the special fiber of the Picard modular surface at a split prime, and then using this computation in a cohomological argument. It can be used to detect the ramification of the associated eigenvariety.
 
 <br>
 
