@@ -26,6 +26,8 @@ We are quite flexible when it comes to scheduling, and speakers are free to desi
 
 ## - Upcoming Talks -
 
+<br>
+
 ---
 
 #### TBD
@@ -38,9 +40,9 @@ We are quite flexible when it comes to scheduling, and speakers are free to desi
 
 ## - Past Talks -
 
---- 
-
 <br>
+
+--- 
 
 ### Companion Forms of Picard Modular Forms and Split Local Galois Representations
 
