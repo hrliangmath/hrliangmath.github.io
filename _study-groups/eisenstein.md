@@ -59,13 +59,13 @@ The following resources might be helpful as well:
       <td> 29 Apr </td>
       <td> Overview </td>
       <td> Netan </td>
-      <td> Notes <a href="/assets/pdf/Talk 1 - Overview.pdf" target="_blank"> </td>
+      <td> § 3.5 [Maz77], <a href="/assets/pdf/Talk 1 - Overview.pdf" target="_blank"> Notes </a> </td>
     </tr>
     <tr>
       <td> 06 May </td>
       <td> Admissible group schemes </td>
       <td> Shin Thant </td>
-      <td> <a href="/assets/pdf/Talk 2 - Group Schemes.pdf" target="_blank"> </td>
+      <td> <a href="/assets/pdf/Talk 2 - Group Schemes.pdf" target="_blank"> pdf </a> </td>
     </tr>
     <tr>
       <td> 13 May </td>
@@ -95,7 +95,7 @@ The following resources might be helpful as well:
       <td> 10 June </td>
       <td> The Eisenstein ideal </td>
       <td> Andrew </td>
-      <td>  pdf </a> </td>
+      <td>   </td>
     </tr>
     <tr>
       <td> 17 June </td>
