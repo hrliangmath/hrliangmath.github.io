@@ -26,17 +26,27 @@ We are quite flexible when it comes to scheduling, and speakers are free to desi
 
 ## - Upcoming Talks -
 
-<br>
-
 ---
 
 #### TBD
 
+??? Deding Yang (Chicago)
+
+<b> Abstract</b>: 
+
+<br>
+
+## - Past Talks -
+
+--- 
+
+<br>
+
+### Companion Forms of Picard Modular Forms and Split Local Galois Representations
+
 08 May 2026, Haocheng Fan (Peking University)  
 
-<b> Abstract</b>: Companion Forms of Picard Modular Forms and Split Local Galois Representations
-
-We show that for a Picard modular form, the existence of the companion form is equivalent to a splitting property of the associated local Galois representation. This result is obtained by computing the monodromy group of the closure of the non-ordinary Newton stratum in the special fiber of the Picard modular surface at a split prime, and then using this computation in a cohomological argument. It can be used to detect the ramification of the associated eigenvariety.
+<b> Abstract</b>: We show that for a Picard modular form, the existence of the companion form is equivalent to a splitting property of the associated local Galois representation. This result is obtained by computing the monodromy group of the closure of the non-ordinary Newton stratum in the special fiber of the Picard modular surface at a split prime, and then using this computation in a cohomological argument. It can be used to detect the ramification of the associated eigenvariety.
 
 <br>
 
@@ -61,10 +71,6 @@ In this talk, I will give several families of Galois representations arising fro
 <b> Abstract</b>: The Mumford--Tate conjecture serves as a bridge between the analytic world of Hodge theory and the arithmetic world of Galois representations. While the conjecture is difficult even for abelian varieties, hyper-Kähler varieties offer a promising testing ground due to their similarity to K3 surfaces.
 
 In this talk, I will introduce the Mumford–Tate conjecture and the geometry of hyper-Kähler varieties. I will then present recent results (joint with Zhichao Tang) showing that the conjecture holds after taking semisimplification. This generalizes previous results known only for specific deformation types.
-
-<br>
-
-## - Past Talks -
 
 <br>
 
