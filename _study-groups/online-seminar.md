@@ -18,6 +18,7 @@ More than anything, it is a chance for us to get together, chat a bit, and enjoy
 
 - Time: Fridays 9am EST, 2pm GMT, 3pm CET, and 9pm CST
 - Zoom id: 949 924 7490
+- Recording: available on request
 
 We are quite flexible when it comes to scheduling, and speakers are free to design their talks as they wish :)
 
