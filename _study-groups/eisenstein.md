@@ -65,7 +65,7 @@ The following resources might be helpful as well:
       <td> 06 May </td>
       <td> Admissible group schemes </td>
       <td> Shin Thant </td>
-      <td> <a href="/assets/pdf/Talk 2 - Group Schemes.pdf" target="_blank"> pdf </a> </td>
+      <td> <a href="/assets/pdf/Talk 2 - Group Schemes.pdf" target="_blank"> Notes </a> </td>
     </tr>
     <tr>
       <td> 13 May </td>
@@ -82,7 +82,7 @@ The following resources might be helpful as well:
     <tr>
       <td> 27 May </td>
       <td> The proof of Theorem B and toric reduction </td>
-      <td> Yicheng </td>
+      <td> Jed & Yicheng </td>
       <td>  </td>
     </tr>
     <tr>
