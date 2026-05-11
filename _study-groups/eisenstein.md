@@ -59,13 +59,13 @@ The following resources might be helpful as well:
       <td> 29 Apr </td>
       <td> Overview </td>
       <td> Netan </td>
-      <td> § 3.5 [Maz77], <a href="/assets/pdf/Talk 1 - Overview.pdf" target="_blank"> Notes </a> </td>
+      <td> <a href="/assets/pdf/EI/Talk 1 - Overview.pdf" target="_blank"> notes </a>, § 3.5 [Maz77] </td>
     </tr>
     <tr>
       <td> 06 May </td>
       <td> Admissible group schemes </td>
       <td> Shin Thant </td>
-      <td> <a href="/assets/pdf/Talk 2 - Group Schemes.pdf" target="_blank"> Notes </a> </td>
+      <td> <a href="/assets/pdf/EI/Talk 2 - Group Schemes.pdf" target="_blank"> notes </a>, <a href="/assets/pdf/EI/mazur-group-schemes.pdf" target="_blank"> hand-out </a> </td>
     </tr>
     <tr>
       <td> 13 May </td>

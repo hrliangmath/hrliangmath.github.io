@@ -94,25 +94,25 @@ Logistics:
       <td> 22 Apr </td>
       <td> Perfectoid fields </td>
       <td> Simon </td>
-      <td> <a href="/assets/pdf/FF/Talk 1 - Perfectiod Fields.pdf" target="_blank"> Notes </a> </td>
+      <td> <a href="/assets/pdf/FF/Talk 1 - Perfectiod Fields.pdf" target="_blank"> notes </a> </td>
     </tr>
     <tr>
       <td> 27 Apr </td>
       <td> Untilts </td>
       <td> Simon </td>
-      <td> <a href="/assets/pdf/FF/Talk 2 - Untilts.pdf" target="_blank"> Notes </a> </td>
+      <td> <a href="/assets/pdf/FF/Talk 2 - Untilts.pdf" target="_blank"> notes </a> </td>
     </tr>
     <tr>
       <td> 05 May </td>
       <td> Schematic Construction of the Fargues--Fontaine Curve I </td>
       <td> Yiannis </td>
-      <td> <a href="/assets/pdf/FF/Talk 3 - Schemetic Construction of the Fargues--Fontaine Curve I.pdf" target="_blank"> Notes </a> </td>
+      <td> <a href="/assets/pdf/FF/Talk 3 - Schemetic Construction of the Fargues--Fontaine Curve I.pdf" target="_blank"> notes </a> </td>
     </tr>
     <tr>
       <td> 11 May </td>
       <td> Schematic Construction of the Fargues--Fontaine Curve II </td>
       <td> Yicheng </td>
-      <td> <a href="/assets/pdf/FF/Talk 4 - Schemetic Construction of the Fargues--Fontaine Curve II.pdf" target="_blank"> Notes </a> </td>
+      <td> <a href="/assets/pdf/FF/Talk 4 - Schemetic Construction of the Fargues--Fontaine Curve II.pdf" target="_blank"> notes </a> </td>
     </tr>
     <tr>
       <td> 18 May </td>
