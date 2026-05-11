@@ -22,24 +22,19 @@ horizontal: false
 
 ## Write-ups
 
-- Theta operators on Shimura varieties and applications (the first two chapters of my upgrade report)
-- Local geometry of the eigencurve (joint with Lucie Gatzmaga)
-- The Ax—-Grothendieck Theorem
-- O-minimality and Diophantine applications
-- Geomtery and algebra of (B, N)-pairs
-- Automorphic forms on adele groups (my Master's thesis)
-- The class number formula and beyond
-- Modular curves and dimension formulae for certain spaces of modular forms
-- Schoof's algorithm
-- The BSD conjecture
-- Basics of hyperbolic geometry
-- A journey through combinatorics
+- Theta operators on (p-adic) automorphic forms and applications (notes of my talk at Oxford Junior Number Theory Seminar May 2026) 
+- <a href="/assets/pdf/WU/The Ax—Grothendieck Theorem.pdf" target="_blank"> The Ax--Grothendieck Theorem </a> (random topic that captivated me)
+- <a href="/assets/pdf/WU/O-minimality and Diophantine applications.pdf" target="_blank"> O-minimality and Diophantine applications </a> (notes of my London Junior Number Theory Seminar talk Jan 2025)
+- <a href="/assets/pdf/WU/Automorphic forms as bridge and gap.pdf" target="_blank"> Automorphic forms as bridge and gap </a> (notes of my London Junior Number Theory Seminar talk March 2026)
+- <a href="/assets/pdf/WU/Geomtery and Algebra of (B, N)-pairs.pdf" target="_blank"> Geomtery and algebra of (B, N)-pairs </a> (notes of my talk at a study group on Bruhat--Tits buildings)
+- Automorphic forms on adele groups (my Master's thesis - still full of errors... so available on request)
+- <a href="/assets/pdf/WU/Geomtery and Algebra of (B, N)-pairs.pdf" target="_blank"> The class number formula and beyond </a> (a semester project supervised by Dr. Claire Burrin)
 
 <br>
 
 ## Notes
 
-Some of my notes are available below (upon request, as the handwritten ones are too large to be stored here). They come from the wonderful courses I enjoyed in London (LSGNT / LTCC / TCC), ETH Zürich, UC Berkeley, Xi’an Jiaotong University, and various other places. All errors are mine.
+My handwritten notes from various lecture series are available upon request, since the files are too large to be stored here. They originate from many wonderful courses I attended in London (LSGNT / LTCC / TCC), ETH Zürich, UC Berkeley, Xi’an Jiaotong University, and elsewhere. I am deeply grateful to all the lecturers; any errors are, of course, my own.
 
 - Topics in Number Theory: L-Functions and Modular Forms Spring 2022 by Prof. Claire Burrin
 - Computations in Algebra and Number Theory Spring 2022 by Prof. David Loeffler
@@ -48,15 +43,15 @@ Some of my notes are available below (upon request, as the handwritten ones are 
 - Modular Forms Spring 2022 by Prof. Sarah Zerbes
 - Elliptic Functions and Elliptic Curves Spring 2022 by Dr. Markus Schwagenscheidt
 - Algebraic Topology Ⅱ Spring 2022 by Prof. Paul Biran
-- Algebraic Topology Ⅰ Fall 2021 by Prof. Will Merry
+- Algebraic Topology Ⅰ Fall 2021 by Dr. Will Merry
 - Commutative Algebra Fall 2021 by Prof. Emmanuel Kowalski
 - Riemannian Geometry: Chapter 0 Spring 2021 by Prof. 王立周 (Lizhou Wang)
-- Notes on Complex Analysis (MATH 205B) Spring 2020 by Prof. Dan-Virgil Voiculescu
+- <a href="/assets/pdf/LN/Notes on Complex Analysis.pdf" target="_blank"> Notes on Complex Analysis (MATH 205B) </a> Spring 2020 by Prof. Dan-Virgil Voiculescu (unfortunately I lost my original codes and cannot update them anymore...)
 - Functional Analysis Fall 2019 by Prof. 杨家青 (Jiaqing Yang)
 
 <br>
 
 ## Other documents
 
-- LaTeX version of ``Modular curves and modular forms'' by Fred Diamond and John Im
-- LaTeX version of Serre's 2001 letter to Carole Hamer
+- <a href="/assets/pdf/Modular forms and modular curves.pdf" target="_blank"> Typeset version </a> of ``Modular curves and modular forms'' by Fred Diamond and John Im
+- <a href="/assets/pdf/Serre Letter to Carol Hamer.pdf" target="_blank"> Typeset version </a> of Serre's 2001 letter to Carole Hamer

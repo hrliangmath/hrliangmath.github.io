@@ -18,12 +18,14 @@ nav_order: 5
 
 [Automorphic Representations on GL(2)](https://axhou.github.io/gel2025.html) (lovely study group with friends met at AWS 2025, co-organized with Xuelun Hou)
 
+[London Junior Number Theory Seminar 2025/2026](https://sites.google.com/view/juniornumbertheory2526/home/) (co-organized with Simon Alonso, Lucie Gatzmaga, and Naina Praveen)
+
 [Higher Coleman theory](/study-groups/higher-Coleman/) (co-organized with Yicheng Yang)
 
 [Modular curves and the Eisenstein ideal](/study-groups/eisenstein/) (co-organized with Lucie Gatzmaga and Jenny Roberts)
 
 [The Fargues--Fontaine curve](/study-groups/curve/) (co-organized with Simon Alonso, Calle Sönne, and Yicheng Yang)
 
-[Online Junior Number Theory Seminar](/study-groups/online-seminar/)
+[Online Junior Number Theory Seminar](/study-groups/online-seminar/) 
 
 To be continued...
