@@ -35,7 +35,7 @@ horizontal: false
 
 ## Notes
 
-My handwritten notes from various lecture series are available upon request, since the files are too large to be stored here. They originate from many wonderful courses I attended in London (LSGNT / LTCC / TCC), ETH Zürich, UC Berkeley, Xi’an Jiaotong University, and elsewhere. I am deeply grateful to all the lecturers; any errors are, of course, my own.
+My handwritten notes from various lecture series are available (for real) upon request, since the files are too large to be stored here. They originate from many wonderful courses I attended in London (LSGNT / LTCC / TCC), ETH Zürich, UC Berkeley, Xi’an Jiaotong University, and elsewhere. I am deeply grateful to all the lecturers; any errors are, of course, my own.
 
 - Topics in Number Theory: L-Functions and Modular Forms Spring 2022 by Prof. Claire Burrin
 - Computations in Algebra and Number Theory Spring 2022 by Prof. David Loeffler
