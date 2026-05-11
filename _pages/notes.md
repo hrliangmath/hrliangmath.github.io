@@ -23,11 +23,12 @@ horizontal: false
 ## Write-ups
 
 - Theta operators on (p-adic) automorphic forms and applications (notes of my talk at Oxford Junior Number Theory Seminar May 2026) 
-- <a href="/assets/pdf/WU/The Ax—Grothendieck Theorem.pdf" target="_blank"> The Ax--Grothendieck Theorem </a> (random topic that captivated me)
-- <a href="/assets/pdf/WU/O-minimality and Diophantine applications.pdf" target="_blank"> O-minimality and Diophantine applications </a> (notes of my London Junior Number Theory Seminar talk Jan 2025)
 - <a href="/assets/pdf/WU/Automorphic forms as bridge and gap.pdf" target="_blank"> Automorphic forms as bridge and gap </a> (notes of my London Junior Number Theory Seminar talk March 2026)
+- <a href="/assets/pdf/WU/Local geometry of the eigencurve.pdf" target="_blank"> Local geometry of the eigencurve </a> (notes of my min talk at [Y-RANT VII](https://y-rant.github.io/historic/YRANT7/) 2025)
+- <a href="/assets/pdf/WU/O-minimality and Diophantine applications.pdf" target="_blank"> O-minimality and Diophantine applications </a> (notes of my London Junior Number Theory Seminar talk Jan 2025)
 - <a href="/assets/pdf/WU/Geomtery and Algebra of (B, N)-pairs.pdf" target="_blank"> Geomtery and algebra of (B, N)-pairs </a> (notes of my talk at a study group on Bruhat--Tits buildings)
 - Automorphic forms on adele groups (my Master's thesis - still full of errors... so available on request)
+- <a href="/assets/pdf/WU/The Ax—Grothendieck Theorem.pdf" target="_blank"> The Ax--Grothendieck Theorem </a> (random topic that captivated me)
 - <a href="/assets/pdf/WU/Geomtery and Algebra of (B, N)-pairs.pdf" target="_blank"> The class number formula and beyond </a> (a semester project supervised by Dr. Claire Burrin)
 
 <br>
