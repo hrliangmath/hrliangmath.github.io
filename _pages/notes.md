@@ -56,3 +56,5 @@ My handwritten notes from various lecture series are available (for real) upon r
 
 - <a href="/assets/pdf/Modular forms and modular curves.pdf" target="_blank"> Typeset version </a> of ``Modular curves and modular forms'' by Fred Diamond and John Im
 - <a href="/assets/pdf/Serre Letter to Carol Hamer.pdf" target="_blank"> Typeset version </a> of Serre's 2001 letter to Carole Hamer
+
+Please don't hesitate let me know if you spot any typos/errors!!
