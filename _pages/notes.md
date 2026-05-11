@@ -29,7 +29,7 @@ horizontal: false
 - <a href="/assets/pdf/WU/Geomtery and Algebra of (B, N)-pairs.pdf" target="_blank"> Geomtery and algebra of (B, N)-pairs </a> (notes of my talk at a study group on Bruhat--Tits buildings)
 - Automorphic forms on adele groups (my Master's thesis - still full of errors... so available on request)
 - <a href="/assets/pdf/WU/The Ax—Grothendieck Theorem.pdf" target="_blank"> The Ax--Grothendieck Theorem </a> (random topic that captivated me)
-- <a href="/assets/pdf/WU/Geomtery and Algebra of (B, N)-pairs.pdf" target="_blank"> The class number formula and beyond </a> (a semester project supervised by Dr. Claire Burrin)
+- <a href="/assets/pdf/WU/The Class Number Formula and Beyond, Haoran Liang.pdf" target="_blank"> The class number formula and beyond </a> (a semester project supervised by Dr. Claire Burrin)
 
 <br>
 
