@@ -31,11 +31,33 @@ We are quite flexible when it comes to scheduling, and speakers are free to desi
 
 ---
 
-#### TBD
+Furture speakers:
+- Jeremy Feusi (ETH)
+- Felix Sefzig (Zürich)
 
-??? Deding Yang (Chicago)
 
-<b> Abstract</b>: 
+
+<br>
+
+---
+
+#### Newton stratifications of integral local Shimura varieties and mod-p representations of p-adic groups
+
+22 May 2026, Xinyu Zhou (Boston)
+
+<b> Abstract</b>: The mod-p fiber of a moduli space of abelian varieties admits the Newton stratification based on the isocrystals of abelian varieties. This stratification is also defined for local Shimura varieties (e.g. Rapoport--Zink spaces). However, in the local case, another stratification, the generic Newton stratification, can be defined via the Fargues--Fontaine curve. I will discuss the interplay between the two stratifications and how to understand the strata via Banach--Colmez spaces. I then show some applications to mod-p representations of p-adic groups. It time permits, I will also discuss applications to chromatic homotopy theory. This is partially based on the joint work with Tobias Barthel, Lucas Mann, Rin Ray, Andrew Senger, Tomer Schlank, Jared Weinstein.
+
+<br>
+
+---
+
+#### On Galois Representations associated with mod p Hilbert eigenforms
+
+16 May 2026, Deding Yang (Chicago)
+
+9:30am Chicago, 10:30am EST, 3:30pm GMT, 4:30pm CET, and 10:30pm CST
+
+<b> Abstract</b>: Given a modular eigenform of weight k, it is well known that there exists an associated l-adic Galois representation satisfying certain compatibility conditions away from l and the level. It is then natural to ask the converse of this problem. In the mod p world, the desired weight k of which \rho is modular is encoded in the weight part of Serre's conjecture (For the Hilbert case, this is the Buzzard-Diamond-Jarvis conjecture), also referred to as "algebraic modularity" by Diamond and Sasaki. They also defined "geometric modularity" for mod p Hilbert eigenforms, and conjectured that the two notions of "modularity" are equivalent when the weight k satisfies certain conditions. In this talk, we prove this conjecture for all quaternionic Shimura varieties. This is a joint work in progress with Siqi Yang.
 
 <br>
 
