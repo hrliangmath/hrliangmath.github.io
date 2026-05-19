@@ -71,7 +71,7 @@ The following resources might be helpful as well:
       <td> 13 May </td>
       <td> Abelian varieties, Jacobians, and their Néron models </td>
       <td> Naina </td>
-      <td>  </td>
+      <td> <a href="/assets/pdf/EI/Talk 3 - Abelian Varieties, Jacobians, and their Néron Models.pdf" target="_blank">notes</a>, <a href="/assets/pdf/EI/Minimal Regular Models, Jacobians and Néron Models.pdf" target="_blank"> hand-out </a> </td>
     </tr>
     <tr>
       <td> 20 May </td>
