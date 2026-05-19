@@ -118,7 +118,7 @@ Logistics:
       <td> 18 May </td>
       <td> Vector Bundles on the Fargues--Fontaine Curve I </td>
       <td> Calle </td>
-      <td>  </td>
+      <td> <a href="/assets/pdf/FF/Talk 5 - Vector Bundles on the Fargues--Fontine Curve I.pdf" target="_blank"> notes </a> </td>
     </tr>
     <tr>
       <td> 26 May </td>
