@@ -77,7 +77,7 @@ The following resources might be helpful as well:
       <td> 20 May </td>
       <td> Modular curves and the proof of Theorem A </td>
       <td> Yiannis </td>
-      <td>  </td>
+      <td> <a href="/assets/pdf/EI/Talk 4 - Modular Curves and Theorem A.pdf" target="_blank">notes</a> </td>
     </tr>
     <tr>
       <td> 27 May </td>
