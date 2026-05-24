@@ -32,11 +32,11 @@ We are quite flexible when it comes to scheduling, and speakers are free to desi
 ---
 
 Furture speakers:
-- Ignacio Muñoz Jiménez (Genova)*  to be confirmed
+- Ignacio Muñoz Jiménez (Genova)
 - Jeremy Feusi (ETH)
+
 - Felix Sefzig (Zürich)
 - Frederick Thøgersen (Warwick)
-- Xinran Qian (Arizona)
 
 <br>
 
