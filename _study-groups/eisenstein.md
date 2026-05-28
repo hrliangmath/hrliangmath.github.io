@@ -106,7 +106,7 @@ The following resources might be helpful as well:
     <tr>
       <td> 24 June </td>
       <td> Finishing up </td>
-      <td>  </td>
+      <td> David and Simon </td>
       <td>  </td>
     </tr>
   </tbody>
