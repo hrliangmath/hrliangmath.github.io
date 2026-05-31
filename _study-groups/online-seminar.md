@@ -36,7 +36,6 @@ Furture speakers:
 - Jeremy Feusi (ETH)
 
 - Felix Sefzig (Zürich)
-- 
 
 <br>
 
