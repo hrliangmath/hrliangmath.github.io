@@ -124,7 +124,13 @@ Logistics:
       <td> 26 May </td>
       <td> Vector Bundles on the Fargues--Fontaine Curve II </td>
       <td> Haoran </td>
-      <td>  </td>
+      <td> <a href="/assets/pdf/FF/Talk 6 - Vector Bundles on the Fargues--Fontaine Curve II.pdf" target="_blank"> notes </a> </td>
+    </tr>
+    <tr>
+      <td> 02 June </td>
+      <td> Vector Bundles on the Fargues--Fontaine Curve II (Ctd) </td>
+      <td> Haoran </td>
+      <td> <a href="/assets/pdf/FF/Talk 7 - Vector Bundles on the Fargues--Fontaine Curve II (Continued).pdf" target="_blank"> notes </a> </td>
     </tr>
   </tbody>
 </table>

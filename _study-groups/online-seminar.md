@@ -36,7 +36,21 @@ Furture speakers:
 - Jeremy Feusi (ETH)
 
 - Felix Sefzig (Zürich)
-- Frederick Thøgersen (Warwick)
+- 
+
+<br>
+
+--- 
+
+#### Title: Anti-Cyclotomic p-adic L-functions
+
+04 June 2026, Frederick Thøgersen (Warwick)
+
+Abstract: p-adic L-functions represent an essential part of the study of critical values of L-functions by creating devices that p-adically interpolate them. Furthermore, they prominently feature in the Iwasawa main conjectures where they control elements of the structure certain ideal class groups and related. A recent project of mine focuses on constructing p-adic L-functions for imaginary quadratic number fields where there are two flavours: the cyclotomic and anti-cyclotomic "directions". In my talk, I will attempt to discuss (i) The motivation, (ii) My recent results for anti-cyclotomic definite unitary U_{2n} and (iii) a bit about the ("overconvergent") method.
+
+<br>
+
+## - Past Talks -
 
 <br>
 
@@ -47,10 +61,6 @@ Furture speakers:
 29 May 2026, Xinran Qian (Arizona)
 
 Abstract: Gross and Prasad formulated a conjecture relating the central value of certain Rankin--Selberg L-function to SO(n) periods of automorphic forms on SO(n)×SO(n + 1), generalising the Waldspurger formula in the case n=2. Their conjecture was further generalized to include all classical groups in the book of Gan--Gross--Prasad. Parallel to the periods of automorphic forms, there is a conjectural generalization of the Gross--Zagier formula to higher-dimensional Shimura varieties, known as the arithmetic GGP conjecture. In my talk, I will present an equational refinement of the arithmetic Gan--Gross--Prasad conjecture for SO(3)×SO(4) in some endoscopic cases using the theory of arithmetic theta lifting, following the work of Xue in the unitary case.
-
-<br>
-
-## - Past Talks -
 
 <br>
 

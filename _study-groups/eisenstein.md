@@ -81,9 +81,9 @@ The following resources might be helpful as well:
     </tr>
     <tr>
       <td> 27 May </td>
-      <td> Toric reduction of Jacobian of modular curves </td>
+      <td> Jacobian of the modular curve X_0(N) has toric reduction at N </td>
       <td> Jed </td>
-      <td>  </td>
+      <td> <a href="/assets/pdf/EI/Talk 5 - Jacobian of Modular Curves Has Toric Reduction.pdf" target="_blank">notes</a>, hand-out </td>
     </tr>
     <tr>
       <td> 03 June </td>
@@ -94,7 +94,7 @@ The following resources might be helpful as well:
     <tr>
       <td> 10 June </td>
       <td> Hecke algebras and the Eichler--Shimura relation </td>
-      <td> Julian </td>
+      <td> Lucie </td>
       <td>   </td>
     </tr>
     <tr>
