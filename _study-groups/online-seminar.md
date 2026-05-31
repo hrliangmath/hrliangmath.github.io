@@ -35,7 +35,7 @@ Furture speakers:
 - Ignacio Muñoz Jiménez (Genova)
 - Jeremy Feusi (ETH)
 - Zhenghang Du (Regensburg)
-- Julia Meng (Harvard)
+- Julia Meng (MIT)
 
 - Felix Sefzig (Zürich)
 
