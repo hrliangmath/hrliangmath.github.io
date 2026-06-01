@@ -31,7 +31,7 @@ We are quite flexible when it comes to scheduling, and speakers are free to desi
 
 ---
 
-Upcoming speakers (Autumn 2026):
+Confirmed speakers Autumn 2026:
 - Ignacio Muñoz Jiménez (Genova)
 - Jeremy Feusi (ETH Zürich)
 - Zhenghang Du (Regensburg)
