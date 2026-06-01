@@ -38,7 +38,16 @@ Upcoming speakers (Autumn 2026):
 - Julia Meng (MIT)
 - Jiahao Niu (Stanford)
 
-- Felix Sefzig (University of Zürich)
+
+<br>
+
+--- 
+
+#### Title: TBC
+
+26 June 2026, Felix Sefzig (University of Zurich)
+
+Abstract: 
 
 <br>
 
