@@ -53,7 +53,7 @@ Abstract:
 
 --- 
 
-#### Title: Anti-Cyclotomic p-adic L-functions
+#### Anti-Cyclotomic p-adic L-functions
 
 04 June 2026, Frederick Thøgersen (Warwick)
 
@@ -67,7 +67,7 @@ Abstract: p-adic L-functions represent an essential part of the study of critica
 
 --- 
 
-#### Title: Arithmetic theta lifts and the Arithmetic Gan--Gross--Prasad conjecture for orthogonal groups
+#### Arithmetic theta lifts and the Arithmetic Gan--Gross--Prasad conjecture for orthogonal groups
 
 29 May 2026, Xinran Qian (Arizona)
 
