@@ -38,7 +38,7 @@ Furture speakers:
 - Julia Meng (MIT)
 - Jiahao Niu (Stanford)
 
-- Felix Sefzig (Zürich)
+- Felix Sefzig (University of Zürich)
 
 <br>
 
