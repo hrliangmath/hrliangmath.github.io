@@ -33,7 +33,7 @@ We are quite flexible when it comes to scheduling, and speakers are free to desi
 
 Furture speakers:
 - Ignacio Muñoz Jiménez (Genova)
-- Jeremy Feusi (ETH)
+- Jeremy Feusi (ETH Zürich)
 - Zhenghang Du (Regensburg)
 - Julia Meng (MIT)
 - Jiahao Niu (Stanford)
