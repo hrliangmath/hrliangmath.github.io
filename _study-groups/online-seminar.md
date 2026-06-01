@@ -36,6 +36,7 @@ Furture speakers:
 - Jeremy Feusi (ETH)
 - Zhenghang Du (Regensburg)
 - Julia Meng (MIT)
+- Jiahao Niu (Stanford)
 
 - Felix Sefzig (Zürich)
 
