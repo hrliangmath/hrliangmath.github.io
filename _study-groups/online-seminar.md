@@ -33,8 +33,9 @@ We are quite flexible when it comes to scheduling, and speakers are free to desi
 
 Confirmed speakers Autumn 2026:
 - Ignacio Muñoz Jiménez (Genova)
-- Jeremy Feusi (ETH Zürich)
-- Zhenghang Du (Regensburg)
+- [Ho Leung Fong](https://sites.google.com/view/holeungfong/home) (Sheffield)
+- [Jeremy Feusi](https://jeremy.feusi.co) (ETH Zürich)
+- [Zhenghang Du](https://sites.google.com/view/zhenghangdu?usp=sharing) (Regensburg)
 - Julia Meng (MIT)
 - Jiahao Niu (Stanford)
 
@@ -55,7 +56,7 @@ Abstract:
 
 #### Anti-Cyclotomic p-adic L-functions
 
-04 June 2026, Frederick Thøgersen (Warwick)
+04 June 2026, [Frederick Thøgersen](https://frederickthogersen.github.io) (Nottingham)
 
 Abstract: p-adic L-functions represent an essential part of the study of critical values of L-functions by creating devices that p-adically interpolate them. Furthermore, they prominently feature in the Iwasawa main conjectures where they control elements of the structure certain ideal class groups and related. A recent project of mine focuses on constructing p-adic L-functions for imaginary quadratic number fields where there are two flavours: the cyclotomic and anti-cyclotomic "directions". In my talk, I will attempt to discuss (i) The motivation, (ii) My recent results for anti-cyclotomic definite unitary U_{2n} and (iii) a bit about the ("overconvergent") method.
 
@@ -79,7 +80,7 @@ Abstract: Gross and Prasad formulated a conjecture relating the central value of
 
 #### Newton stratifications of integral local Shimura varieties and mod-p representations of p-adic groups
 
-23 May 2026, Xinyu Zhou (Boston)
+23 May 2026, [Xinyu Zhou](https://math.bu.edu/people/xyz6/) (Boston)
 
 9:00am Chicago, 10:00am EST, 3:00pm GMT, 4:00pm CET, and 10:00pm CST
 
@@ -125,7 +126,7 @@ In this talk, I will give several families of Galois representations arising fro
 
 #### Mumford--Tate Conjecture for Hyper-Kähler Varieties
 
-24 April 2026, Haitao Zou (Bielefeld)
+24 April 2026, [Haitao Zou](https://www.math.uni-bielefeld.de/~hzou/) (Bielefeld)
 
 <b> Abstract</b>: The Mumford--Tate conjecture serves as a bridge between the analytic world of Hodge theory and the arithmetic world of Galois representations. While the conjecture is difficult even for abelian varieties, hyper-Kähler varieties offer a promising testing ground due to their similarity to K3 surfaces.
 
@@ -146,17 +147,17 @@ In this talk, I will introduce the Mumford–Tate conjecture and the geometry of
 
 ### Previous Edition
 
-- Minhua Cheng (Utah), Introduction to p-adic Hodge theory
-- Zipei Nie (Huawei - Centre de recherche Lagrange), Card Guessing Game with Partial Feedback
+- [Minhua Cheng](https://www.math.utah.edu/~cheng/) (Utah), Introduction to p-adic Hodge theory
+- [Zipei Nie](https://zipei-nie.github.io) (Huawei - Centre de recherche Lagrange), Card Guessing Game with Partial Feedback
 - Huatao Gui (ETH Zürich), An introduction to right-angled Artin groups
 - Markus Schwagenscheidt (ETH Zürich), From generating functions to modular forms
 - Matthias Gröbner (ETH Zürich), The Riemann zeta function from an adelic perspective
-- Raphael Appenzeller (ETH Zürich), Generalized metric spaces and the Lean theorem prover
-- Francesco Naccarato (Scuola Normale Superiore Pisa), Tunnell's Theorem and the analytic rank of elliptic curves
+- [Raphael Appenzeller](https://www.mathi.uni-heidelberg.de/~rappenzeller/) (ETH Zürich), Generalized metric spaces and the Lean theorem prover
+- [Francesco Naccarato](https://people.math.ethz.ch/~fnaccarat/) (Scuola Normale Superiore Pisa), Tunnell's Theorem and the analytic rank of elliptic curves
 - Linpu Gao (Tsinghua) Kac's theorem and quiver representations over finite fields
-- Feusi Jeremy (ETH Zürich), Galois groups and fundamental groups, interesting properties and similarities
+- [Feusi Jeremy](https://jeremy.feusi.co) (ETH Zürich), Galois groups and fundamental groups, interesting properties and similarities
 - Yixuan Li (UC Berkeley), Geometric representation theory
 - Jiahao Niu (UCAS/Stanford University), Six functor formalism
 - Cunyuan Zhao (ETH Zürich), Bounded cohomology and actions on the circle
-- Zhongkai Tao (UC Berkeley), An introduction to Selberg trace formula
+- [Zhongkai Tao](https://sites.google.com/view/zhongkai-tao/) (UC Berkeley), An introduction to Selberg trace formula
 - Xiangyu Pan (Peking University), Introduction to étale cohomology
