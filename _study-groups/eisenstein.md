@@ -89,7 +89,7 @@ The following resources might be helpful as well:
       <td> 03 June </td>
       <td> The proof of Theorem B  </td>
       <td> Yicheng </td>
-      <td>  </td>
+      <td> <a href="/assets/pdf/EI/Talk 4 - Modular Curves and Theorem A.pdf" target="_blank">notes</a>, <a href="/assets/pdf/EI/Modular Curves and Theorem A.pdf" target="_blank"> hand-out </a> </td>
     </tr>
     <tr>
       <td> 10 June </td>
