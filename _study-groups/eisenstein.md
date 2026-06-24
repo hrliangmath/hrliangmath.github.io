@@ -89,25 +89,25 @@ The following resources might be helpful as well:
       <td> 03 June </td>
       <td> The proof of Theorem B  </td>
       <td> Yicheng </td>
-      <td> <a href="/assets/pdf/EI/Talk 6 - Toric Reduction.pdf">notes</a>, <a href="/assets/pdf/EI/Toric Reduction.pdf.pdf" target="_blank"> hand-out </a> </td>
+      <td> <a href="/assets/pdf/EI/Talk 6 - Toric Reduction.pdf">notes</a>, <a href="/assets/pdf/EI/Toric Reduction.pdf" target="_blank"> hand-out </a> </td>
     </tr>
     <tr>
       <td> 10 June </td>
       <td> Hecke algebras and the Eichler--Shimura relation </td>
       <td> Lucie </td>
-      <td>   </td>
+      <td> <a href="/assets/pdf/EI/Hecke Algebras.pdf" target="_blank"> hand-out </a> </td>
     </tr>
     <tr>
       <td> 17 June </td>
       <td> The Eisenstein ideal </td>
       <td> Andrew </td>
-      <td>  </td>
+      <td> notes, hand-out </td>
     </tr>
     <tr>
       <td> 24 June </td>
       <td> Finishing up </td>
-      <td> David and Simon </td>
-      <td>  </td>
+      <td> Simon </td>
+      <td> notes </td>
     </tr>
   </tbody>
 </table>
