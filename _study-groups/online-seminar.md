@@ -44,11 +44,11 @@ Confirmed speakers Autumn 2026:
 
 --- 
 
-#### Title: TBC
+#### Title: p-Adic comparison theorems from a motivic perspective
 
 26 June 2026, Felix Sefzig (University of Zurich)
 
-Abstract: 
+Abstract: This talk will provide a gentle introduction to the theory of motives. We will explain how several classical cohomology theories can be represented within the motivic setting. In particular, we discuss how this perspective leads to effective computations of periods. In the p-adic case, these computations relies on a new formula for the p-adic de Rham comparison isomorphism for 1-motives coming from rigid analytic geometry.
 
 <br>
 
