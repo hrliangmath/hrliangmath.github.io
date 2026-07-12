@@ -101,13 +101,13 @@ The following resources might be helpful as well:
       <td> 17 June </td>
       <td> The Eisenstein ideal </td>
       <td> Andrew </td>
-      <td> notes, hand-out </td>
+      <td> <a href="/assets/pdf/EI/Talk 7 - The Eisenstein Ideal.pdf">notes</a>, hand-out </td>
     </tr>
     <tr>
       <td> 24 June </td>
       <td> Finishing up </td>
       <td> Simon </td>
-      <td> notes </td>
+      <td> <a href="/assets/pdf/EI/Talk 8 - Finishing Up.pdf">notes</a> </td>
     </tr>
   </tbody>
 </table>
