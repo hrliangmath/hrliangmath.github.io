@@ -101,7 +101,7 @@ The following resources might be helpful as well:
       <td> 17 June </td>
       <td> The Eisenstein ideal </td>
       <td> Andrew </td>
-      <td> <a href="/assets/pdf/EI">notes</a>, hand-out </td>
+      <td> <a href="/assets/pdf/EI">notes</a>, <a href="/assets/pdf/EI/The Eisenstein Ideal.pdf" target="_blank"> hand-out </a> </td>
     </tr>
     <tr>
       <td> 24 June </td>
