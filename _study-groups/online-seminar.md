@@ -6,9 +6,9 @@ permalink: /study-groups/online-seminar/
 
 ## - Motivation -
 
-A few years ago, a rather naive idea came to my mind: As graduate students, we spend a lot of time working on mini-projects, Master’s and PhD theses, or simply following our noses and exploring whatever catches our interest -- so why not share these with each other?
+A few years ago, a rather naive idea came to my mind: as graduate students, we spend a lot of time working on mini-projects, master’s and PhD theses, or simply following our noses and exploring whatever catches our interest -- so why not share these with each other?
 
-Motivated by this, I started a small and somewhat irregular colloquium with friends, where we took turns talking about what we had been thinking about. It turned out to be a surpisingly nice and efficient way to get exposed to exciting bits of mathematics.
+Motivated by this, I started a small and somewhat irregular colloquium with friends, where we took turns talking about what we had been thinking about. It turned out to be a surprisingly enjoyable and effective way to discover exciting bits of mathematics.
 
 In this sense, the present seminar is a continuation of those earlier, informal activities. As I’ve grown (hopefully) and changed over time, the focus of the seminar has naturally shifted along with me. Now, the idea is to invite junior researchers in number theory and arithmetic geometry to introduce their research projects. There is absolutely no need to present new results -- the goal is simply to keep things clear, accessible, and enjoyable. 
 
@@ -17,8 +17,8 @@ More than anything, it is a chance for us to get together, chat a bit, and enjoy
 #### Logistics
 
 - Time: Fridays 9am EST, 2pm GMT, 3pm CET, and 9pm CST
-- Zoom id: 949 924 7490
-- Recording: available on request
+- Zoom ID: 949 924 7490
+- Recordings: available on request
 
 We are quite flexible when it comes to scheduling, and speakers are free to design their talks as they wish :)
 
@@ -31,7 +31,7 @@ We are quite flexible when it comes to scheduling, and speakers are free to desi
 
 ---
 
-Confirmed speakers Autumn 2026:
+Confirmed speakers for autumn 2026:
 - Ignacio Muñoz Jiménez (Genova)
 - [Ho Leung Fong](https://sites.google.com/view/holeungfong/home) (Sheffield)
 - [Jeremy Feusi](https://jeremy.feusi.co) (ETH Zürich)
@@ -48,7 +48,7 @@ Confirmed speakers Autumn 2026:
 
 26 June 2026, Felix Sefzig (University of Zurich)
 
-Abstract: This talk will provide a gentle introduction to the theory of motives. We will explain how several classical cohomology theories can be represented within the motivic setting. In particular, we discuss how this perspective leads to effective computations of periods. In the p-adic case, these computations relies on a new formula for the p-adic de Rham comparison isomorphism for 1-motives coming from rigid analytic geometry.
+Abstract: This talk will provide a gentle introduction to the theory of motives. We will explain how several classical cohomology theories can be represented within the motivic setting. In particular, we discuss how this perspective leads to effective computations of periods. In the p-adic case, these computations rely on a new formula for the p-adic de Rham comparison isomorphism for 1-motives coming from rigid analytic geometry.
 
 <br>
 
@@ -58,7 +58,7 @@ Abstract: This talk will provide a gentle introduction to the theory of motives.
 
 04 June 2026, [Frederick Thøgersen](https://frederickthogersen.github.io) (Nottingham)
 
-Abstract: p-adic L-functions represent an essential part of the study of critical values of L-functions by creating devices that p-adically interpolate them. Furthermore, they prominently feature in the Iwasawa main conjectures where they control elements of the structure certain ideal class groups and related. A recent project of mine focuses on constructing p-adic L-functions for imaginary quadratic number fields where there are two flavours: the cyclotomic and anti-cyclotomic "directions". In my talk, I will attempt to discuss (i) The motivation, (ii) My recent results for anti-cyclotomic definite unitary U_{2n} and (iii) a bit about the ("overconvergent") method.
+Abstract: p-adic L-functions represent an essential part of the study of critical values of L-functions by creating devices that p-adically interpolate them. Furthermore, they prominently feature in the Iwasawa main conjectures where they control elements of the structure of certain ideal class groups and related objects. A recent project of mine focuses on constructing p-adic L-functions for imaginary quadratic number fields where there are two flavours: the cyclotomic and anti-cyclotomic "directions". In my talk, I will attempt to discuss (i) The motivation, (ii) My recent results for anti-cyclotomic definite unitary U_{2n} and (iii) a bit about the ("overconvergent") method.
 
 <br>
 
@@ -72,7 +72,7 @@ Abstract: p-adic L-functions represent an essential part of the study of critica
 
 29 May 2026, Xinran Qian (Arizona)
 
-Abstract: Gross and Prasad formulated a conjecture relating the central value of certain Rankin--Selberg L-function to SO(n) periods of automorphic forms on SO(n)×SO(n + 1), generalising the Waldspurger formula in the case n=2. Their conjecture was further generalized to include all classical groups in the book of Gan--Gross--Prasad. Parallel to the periods of automorphic forms, there is a conjectural generalization of the Gross--Zagier formula to higher-dimensional Shimura varieties, known as the arithmetic GGP conjecture. In my talk, I will present an equational refinement of the arithmetic Gan--Gross--Prasad conjecture for SO(3)×SO(4) in some endoscopic cases using the theory of arithmetic theta lifting, following the work of Xue in the unitary case.
+Abstract: Gross and Prasad formulated a conjecture relating the central value of a certain Rankin--Selberg L-function to SO(n) periods of automorphic forms on SO(n)×SO(n + 1), generalising the Waldspurger formula in the case n=2. Their conjecture was further generalized to include all classical groups in the book of Gan--Gross--Prasad. Parallel to the periods of automorphic forms, there is a conjectural generalization of the Gross--Zagier formula to higher-dimensional Shimura varieties, known as the arithmetic GGP conjecture. In my talk, I will present an equational refinement of the arithmetic Gan--Gross--Prasad conjecture for SO(3)×SO(4) in some endoscopic cases using the theory of arithmetic theta lifting, following the work of Xue in the unitary case.
 
 <br>
 
@@ -84,7 +84,7 @@ Abstract: Gross and Prasad formulated a conjecture relating the central value of
 
 9:00am Chicago, 10:00am EST, 3:00pm GMT, 4:00pm CET, and 10:00pm CST
 
-<b> Abstract</b>: The mod-p fiber of a moduli space of abelian varieties admits the Newton stratification based on the isocrystals of abelian varieties. This stratification is also defined for local Shimura varieties (e.g. Rapoport--Zink spaces). However, in the local case, another stratification, the generic Newton stratification, can be defined via the Fargues--Fontaine curve. I will discuss the interplay between the two stratifications and how to understand the strata via Banach--Colmez spaces. I then show some applications to mod-p representations of p-adic groups. It time permits, I will also discuss applications to chromatic homotopy theory. This is partially based on the joint work with Tobias Barthel, Lucas Mann, Rin Ray, Andrew Senger, Tomer Schlank, Jared Weinstein.
+<b> Abstract</b>: The mod-p fiber of a moduli space of abelian varieties admits the Newton stratification based on the isocrystals of abelian varieties. This stratification is also defined for local Shimura varieties (e.g. Rapoport--Zink spaces). However, in the local case, another stratification, the generic Newton stratification, can be defined via the Fargues--Fontaine curve. I will discuss the interplay between the two stratifications and how to understand the strata via Banach--Colmez spaces. I then show some applications to mod-p representations of p-adic groups. If time permits, I will also discuss applications to chromatic homotopy theory. This is partially based on the joint work with Tobias Barthel, Lucas Mann, Rin Ray, Andrew Senger, Tomer Schlank, Jared Weinstein.
 
 <br>
 
@@ -96,7 +96,7 @@ Abstract: Gross and Prasad formulated a conjecture relating the central value of
 
 9:30am Chicago, 10:30am EST, 3:30pm GMT, 4:30pm CET, and 10:30pm CST
 
-<b> Abstract</b>: Given a modular eigenform of weight k, it is well known that there exists an associated l-adic Galois representation satisfying certain compatibility conditions away from l and the level. It is then natural to ask the converse of this problem. In the mod p world, the desired weight k of which \rho is modular is encoded in the weight part of Serre's conjecture (For the Hilbert case, this is the Buzzard-Diamond-Jarvis conjecture), also referred to as "algebraic modularity" by Diamond and Sasaki. They also defined "geometric modularity" for mod p Hilbert eigenforms, and conjectured that the two notions of "modularity" are equivalent when the weight k satisfies certain conditions. In this talk, we prove this conjecture for all quaternionic Shimura varieties. This is a joint work in progress with Siqi Yang.
+<b> Abstract</b>: Given a modular eigenform of weight k, it is well known that there exists an associated l-adic Galois representation satisfying certain compatibility conditions away from l and the level. It is then natural to ask the converse of this problem. In the mod p world, the desired weight k for which \rho is modular is encoded in the weight part of Serre's conjecture (For the Hilbert case, this is the Buzzard-Diamond-Jarvis conjecture), also referred to as "algebraic modularity" by Diamond and Sasaki. They also defined "geometric modularity" for mod p Hilbert eigenforms, and conjectured that the two notions of "modularity" are equivalent when the weight k satisfies certain conditions. In this talk, we prove this conjecture for all quaternionic Shimura varieties. This is joint work in progress with Siqi Yang.
 
 <br>
 
@@ -155,7 +155,7 @@ In this talk, I will introduce the Mumford–Tate conjecture and the geometry of
 - [Raphael Appenzeller](https://www.mathi.uni-heidelberg.de/~rappenzeller/) (ETH Zürich), Generalized metric spaces and the Lean theorem prover
 - [Francesco Naccarato](https://people.math.ethz.ch/~fnaccarat/) (Scuola Normale Superiore Pisa), Tunnell's Theorem and the analytic rank of elliptic curves
 - Linpu Gao (Tsinghua) Kac's theorem and quiver representations over finite fields
-- [Feusi Jeremy](https://jeremy.feusi.co) (ETH Zürich), Galois groups and fundamental groups, interesting properties and similarities
+- [Jeremy Feusi](https://jeremy.feusi.co) (ETH Zürich), Galois groups and fundamental groups, interesting properties and similarities
 - Yixuan Li (UC Berkeley), Geometric representation theory
 - Jiahao Niu (UCAS/Stanford University), Six functor formalism
 - Cunyuan Zhao (ETH Zürich), Bounded cohomology and actions on the circle

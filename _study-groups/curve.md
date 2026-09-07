@@ -4,7 +4,7 @@ title: The Fargues--Fontaine Curve
 permalink: /study-groups/curve/
 ---
 
-Welcome to the webpage of a study group on the Fargues--Fontaine curve! This lovely study group is co-organized with Simon Alonso, Calle Sönne, and Yicheng Yang. Our program is divided into five parts:
+Welcome to the webpage of a study group on the Fargues--Fontaine curve! This lovely study group is co-organized with Simon Alonso, Calle Sönne, and Yicheng Yang. Our programme is divided into five parts:
 
 1) <b> Background on Perfectoid Spaces (2 talks: 22/04, 27/04) </b>
 
@@ -14,7 +14,7 @@ References: [Sch], [Lur] §2–4, [Ans] §3–5
 
 2) <b> Schematic Construction of the Curve (2 talks: 05/05, 11/05) </b>
 
-We will present two constructions of the schematic Fargues–Fontaine curve: one via holomorphic functions in p, and the other via period rings. The goal is to introduce the necessary p-adic Hodge theoretic tools, prove the equivalence of the constructions, and show that the resulting scheme is Dedekind.
+We will present two constructions of the schematic Fargues–Fontaine curve: one via holomorphic functions in p, and the other via period rings. The goal is to introduce the necessary tools from p-adic Hodge theory, prove the equivalence of the constructions, and show that the resulting scheme is Dedekind.
 
 References: [Lur] §6–8, [Ans] §7–10, [Mor] §2,5
 
@@ -27,14 +27,15 @@ References: [Lur] §19–22, [Ans] §11,13, [Mor] §3, [Padova] §7–9
 4) <b> Applications to Galois Representations (2 talks: 01/06, 08/06) </b>
 
 We will discuss two key applications of the Fargues–Fontaine curve in Galois representations:
-weakly admissible implies admissible
-de Rham implies potentially semistable
+
+- weakly admissible implies admissible;
+- de Rham implies potentially semistable.
 
 References: To be added.
 
 5) <b> Adic and Relative Fargues–Fontaine Curve (2 talks: 15/06, 22/06) </b>
 
-We introduce background material on adic spaces and diamonds, including Spd(Qp), and diamond associated with adic spaces. Explain the construction of the diamond and relative versions of the curve, as well as their relation to the schematic construction.
+We will introduce background material on adic spaces and diamonds, including Spd(Qp) and the diamonds associated with adic spaces. We will then explain the construction of the diamond and relative versions of the curve, as well as their relation to the schematic construction.
 References: [Wei] §3–4, [Berkeley] §8–10, [Mor] §4
 
 References:
@@ -53,7 +54,7 @@ Logistics:
 - Late April - Mid June
 - S2.29 Strand, King's
 - [Zoom link](https://ethz.zoom.us/j/9499247490)
-- Recording: available on request
+- Recordings: available on request
 
 ---
 
@@ -128,7 +129,7 @@ Logistics:
     </tr>
     <tr>
       <td> 02 June </td>
-      <td> Vector Bundles on the Fargues--Fontaine Curve II (Ctd) </td>
+      <td> Vector Bundles on the Fargues--Fontaine Curve II (continued) </td>
       <td> Haoran </td>
       <td> <a href="/assets/pdf/FF/Talk 7 - Vector Bundles on the Fargues--Fontaine Curve II (Continued).pdf" target="_blank"> notes </a> </td>
     </tr>

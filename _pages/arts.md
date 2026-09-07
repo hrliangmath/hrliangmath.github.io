@@ -7,19 +7,18 @@ nav_order: 8
 toc: true
 ---
 
-<blockquote> <p> Poetry, beauty, romance, love, these are what we stay alive for.
-
-<div style="text-align:right"> — John Keating </div> </p>
-
+<blockquote>
+  <p>Poetry, beauty, romance, love, these are what we stay alive for.</p>
+  <div style="text-align:right">— John Keating</div>
 </blockquote>
 
 Welcome to this little “e-museum” — a personal gallery of snapshots featuring artistic wonders and cultural relics!
 
 The “exhibits” here range from paintings and ceramics to sculptures and beyond — basically, anything that blew my mind during visits to museums. You might also stumble upon some of my own photography.
 
-If you’re also a fellow art & history enthusiast, I’d be thrilled to hear about what's captivated you too — feel free to share!
+If you’re a fellow art and history enthusiast, I’d be thrilled to hear about what's captivated you too — feel free to share!
 
-`展厅布置中 / Exhibition Hall Under Preparation`
+`展厅布置中 / Exhibition in Progress`
 
 ## Arts in Stillness - Adrift in Time and Land 
 
@@ -33,16 +32,16 @@ If you’re also a fellow art & history enthusiast, I’d be thrilled to hear ab
   <figcaption>The Goldfinch (1654), Carel Fabritius</figcaption>
 </figure>
 
-Mauritshuis (莫瑞泰斯皇家美术馆), visited in Sep 2022; picture borrowed from museum website
+Mauritshuis (莫瑞泰斯皇家美术馆), visited in Sep 2022; image from the museum’s website
 
 <br>
 
 <figure align="center">
-  <img src="/assets/img/sower.jpeg" alt="Sower with Setting Sun, by Vincent von Gogh" width="300">
+  <img src="/assets/img/sower.jpeg" alt="Sower with Setting Sun, by Vincent van Gogh" width="300">
   <figcaption>Sower with Setting Sun (1888), Vincent van Gogh</figcaption>
 </figure>
 
-British National Gallery, visited in Dec 2024; picture borrowed from [here](https://www.artway.eu/posts/vincent-van-gogh-sower-with-setting-sun)
+The National Gallery, London, visited in Dec 2024; image from [here](https://www.artway.eu/posts/vincent-van-gogh-sower-with-setting-sun)
 
 <br>
 
@@ -51,16 +50,16 @@ British National Gallery, visited in Dec 2024; picture borrowed from [here](http
   <figcaption>Music I (1895), Gustav Klimt</figcaption>
 </figure>
 
-Alte Pinakothek, visited in Dec 2024; picture borrowed from [here](https://www.kingandmcgaw.com/prints/gustav-klimt/the-music-1895-436642#436642::border:50_frame:880603_glass:770007_media:1_mount:108644_mount-width:50_size:618,514)
+Alte Pinakothek, visited in Dec 2024; image from [here](https://www.kingandmcgaw.com/prints/gustav-klimt/the-music-1895-436642#436642::border:50_frame:880603_glass:770007_media:1_mount:108644_mount-width:50_size:618,514)
 
 <br>
 
 <figure align="center">
   <img src="/assets/img/Madonna.jpg" alt="Madonna, by Edvard Munch" width="200">
-  <figcaption>Madonna (around 1895-1902), Edvard Munch</figcaption>
+  <figcaption>Madonna (c. 1895–1902), Edvard Munch</figcaption>
 </figure>
 
-Albertina Museum Wien, visited in Feb 2023; picture borrowed from Wikipedia
+Albertina Museum Wien, visited in Feb 2023; image from Wikipedia
 
 <br>
 
@@ -69,16 +68,16 @@ Albertina Museum Wien, visited in Feb 2023; picture borrowed from Wikipedia
   <figcaption>The Absinthe Drinker (1901), Pablo Picasso</figcaption>
 </figure>
 
-*Госуда́рственный Эрмита́ж (圣彼得堡冬宫博物馆), Dec 2025; picture borrowed from [here](https://www.pablo-ruiz-picasso.net/work-2.php)
+*Госуда́рственный Эрмита́ж (圣彼得堡冬宫博物馆), Dec 2025; image from [here](https://www.pablo-ruiz-picasso.net/work-2.php)
 
 <br>
 
 <figure align="center">
   <img src="/assets/img/Peggy.jpg" alt="Variation on Peggy, by Walter Sickert" width="300">
-  <figcaption>Variation on Peggy (1934-5), Walter Sickert</figcaption>
+  <figcaption>Variation on Peggy (1934–35), Walter Sickert</figcaption>
 </figure>
 
-Tate Britain, visited in Oct 2024; picture borrowed from museum website
+Tate Britain, visited in Oct 2024; image from the museum’s website
 
 <br>
 
@@ -87,12 +86,12 @@ Tate Britain, visited in Oct 2024; picture borrowed from museum website
   <figcaption>Metamorphosis I (1937), Maurits Escher</figcaption>
 </figure>
 
-Museum Escher in Het Paleis (埃舍尔博物馆), visited in Dec 2022; picture borrowed from museum website
+Museum Escher in Het Paleis (埃舍尔博物馆), visited in Dec 2022; image from the museum’s website
 
 <br>
 
 <figure align="center">
-  <img src="/assets/img/War.png" alt="Metamorphosis I, by Maurits Escher" width="600">
+  <img src="/assets/img/War.png" alt="从城市撤退, 关山月" width="600">
   <figcaption>从城市撤退(1939-1941), 关山月</figcaption>
 </figure>
 
@@ -105,7 +104,7 @@ Museum Escher in Het Paleis (埃舍尔博物馆), visited in Dec 2022; picture b
   <figcaption>The Ellipsis (1948), René Magritte</figcaption>
 </figure>
 
-Koninklijke Musea voor Schone Kunsten van België (布鲁塞尔皇家博物馆&美术馆), visited in May 2024; picture borrowed from [here](https://www.theguardian.com/artanddesign/gallery/2011/jun/19/magritte-tate-liverpool-in-pictures)
+Koninklijke Musea voor Schone Kunsten van België (布鲁塞尔皇家博物馆&美术馆), visited in May 2024; image from [here](https://www.theguardian.com/artanddesign/gallery/2011/jun/19/magritte-tate-liverpool-in-pictures)
 
 <br>
 
@@ -123,13 +122,49 @@ Koninklijke Musea voor Schone Kunsten van België (布鲁塞尔皇家博物馆&�
   <figcaption>看万山红遍 (2001), 李津</figcaption>
 </figure>
 
-Ashmolean Museum, visited in Aug 2024; picture borrowed from museum website
+Ashmolean Museum, visited in Aug 2024; image from the museum’s website
 
 <br>
 
 
 
-### - Cultural Relic - 
+<figure align="center">
+  <img src="/assets/img/chicks.jpeg" alt="水墨雏鸡图 — Chicks" width="200" height="803" loading="lazy" decoding="async" style="max-width: 100%; height: auto;">
+  <figcaption>Chicks / 雏鸡</figcaption>
+</figure>
+
+参观信息：【TBC】
+
+<br>
+
+<figure align="center">
+  <img src="/assets/img/empire-of-light.jpg" alt="L’Empire des lumières, by René Magritte" width="300" height="389" loading="lazy" decoding="async" style="max-width: 100%; height: auto;">
+  <figcaption>L’Empire des lumières, René Magritte</figcaption>
+</figure>
+
+参观信息：【TBC】
+
+<br>
+
+<figure align="center">
+  <img src="/assets/img/crawling-insects.jpg" alt="遍地爬虫, 吴冠中" width="450" height="338" loading="lazy" decoding="async" style="max-width: 100%; height: auto;">
+  <figcaption>遍地爬虫 (2008), 吴冠中</figcaption>
+</figure>
+
+参观信息：【TBC】
+
+<br>
+
+<figure align="center">
+  <img src="/assets/img/longjing-flowers.jpg" alt="龙井写生花卉轴, 乾隆" width="240" height="325" loading="lazy" decoding="async" style="max-width: 100%; height: auto;">
+  <figcaption>龙井写生花卉轴, 乾隆</figcaption>
+</figure>
+
+参观信息：【TBC】
+
+<br>
+
+### - Cultural Relics -
 
 
 
@@ -176,7 +211,7 @@ Ashmolean Museum, visited in Aug 2024; picture borrowed from museum website
   <figcaption>Tapestry</figcaption>
 </figure>
 
-Probably made by Sabah Ragab, Rames Wissa Wassef Art Center, Egypt; Bristol City Museum & Art Gallery, visited in May 2025; picture borrowed from [here](https://www.britishmuseum.org/collection/object/E_2010-2004-1)
+Probably made by Sabah Ragab, Rames Wissa Wassef Art Center, Egypt; Bristol City Museum & Art Gallery, visited in May 2025; image from [here](https://www.britishmuseum.org/collection/object/E_2010-2004-1)
 
 <br>
 
@@ -217,6 +252,33 @@ From Mexico (1400s-1500s), an icon of Aztec art; British Museum, visited in Jul 
 <br>
 
 
+
+<figure align="center">
+  <img src="/assets/img/jade-carving.jpg" alt="玉雕 — Jade carving" width="400" height="300" loading="lazy" decoding="async" style="max-width: 100%; height: auto;">
+  <figcaption>玉雕</figcaption>
+</figure>
+
+参观信息：【TBC】
+
+<br>
+
+<figure align="center">
+  <img src="/assets/img/bronze-object.jpg" alt="青铜器 — Bronze object" width="220" height="330" loading="lazy" decoding="async" style="max-width: 100%; height: auto;">
+  <figcaption>青铜器</figcaption>
+</figure>
+
+参观信息：【TBC】
+
+<br>
+
+<figure align="center">
+  <img src="/assets/img/rider.jpg" alt="骑士 — Sculpture of a rider on a camel" width="300" height="400" loading="lazy" decoding="async" style="max-width: 100%; height: auto;">
+  <figcaption>骑士</figcaption>
+</figure>
+
+参观信息：【TBC】
+
+<br>
 
 ### - Miscellany - 
 
@@ -261,7 +323,7 @@ From Mexico (1400s-1500s), an icon of Aztec art; British Museum, visited in Jul 
 <br>
 
 <figure align="center">
-  <img src="/assets/img/Huang.jpg" alt="Tapestry" width="450">
+  <img src="/assets/img/Huang.jpg" alt="黄山 — Huangshan" width="450">
   <figcaption>黄山</figcaption>
 </figure>
 
@@ -280,7 +342,7 @@ King's College London, Jul 2024
 
 <figure align="center">
   <img src="/assets/img/Minicity.jpg" alt="Mini model of the industrial heritage site" width="300">
-  <figcaption>Mini Model of The Ruhr Industrial Heritage Site</figcaption>
+  <figcaption>Miniature Model of the Ruhr Industrial Heritage Site</figcaption>
 </figure>
 
 Zollverein, visited during a conference at Universität Duisburg-Essen in Sep 2024; photo by Benchao Su
@@ -289,7 +351,7 @@ Zollverein, visited during a conference at Universität Duisburg-Essen in Sep 20
 
 <figure align="center">
   <img src="/assets/img/Arizona.jpg" alt="Saguaro National Park" width="200">
-  <figcaption>The Saguaro National Park</figcaption>
+  <figcaption>Saguaro National Park</figcaption>
 </figure>
 
 Tucson, Arizona, visited during the Arizona Winter School 2025 in March 2025
@@ -297,15 +359,15 @@ Tucson, Arizona, visited during the Arizona Winter School 2025 in March 2025
 <br>
 
 <figure align="center">
-  <img src="/assets/img/Grothendieck.jpg" alt="The Mathematician as Shepherds" width="200">
-  <figcaption>The Mathematician as Shepherds</figcaption>
+  <img src="/assets/img/Grothendieck.jpg" alt="The Mathematician as a Shepherd" width="200">
+  <figcaption>The Mathematician as a Shepherd</figcaption>
 </figure>
 
 IHES, visited during a conference in Oct 2025
 
 <br>
 
-Let me also list below the museums I've enjoyed so far
+Here are some museums and cultural venues I’ve enjoyed visiting:
 
 碑林博物馆；秦兵马俑博物馆；陕西省历史博物馆；西安博物院；西安事变纪念馆
 
@@ -339,7 +401,7 @@ Museum Sammlung Rosengart (罗森加特收藏馆); Gletschergarten Luzern (冰�
 
 Rijksmuseum Amsterdam (荷兰国立博物馆); Van Gogh Museum (梵高博物馆); Mauritshuis (莫瑞泰斯皇家美术馆); Escher in Het Paleis (埃舍尔宫殿博物馆); *Louwman Museum (洛曼汽车博物馆) 
 
-Museo Nazionale Scienzae Tecnologia Leonardo da Vinci (达·芬奇国家科学技术博物馆)
+Museo Nazionale Scienza e Tecnologia Leonardo da Vinci (达·芬奇国家科学技术博物馆)
 
 Musées Royaux des Beaux-Arts de Belgique (比利时皇家美术馆); Museum voor Schone Kunsten Gent (根特美术馆)
 
@@ -347,7 +409,7 @@ Albertina Museum Wien (阿尔贝蒂娜博物馆); Kunsthistorisches Museum Wien 
 
 <br>
 
-## Arts in Motion - My Post-memories of the 1990's
+## Arts in Motion - My Post-memories of the 1990s
 
 <br>
 
@@ -385,13 +447,12 @@ Albertina Museum Wien (阿尔贝蒂娜博物馆); Kunsthistorisches Museum Wien 
 - <b> Genesis </b> "Selling England by the Pound" 1973
 - <b> Pink Floyd </b> "The Dark Side of the Moon" 1973, "Wish You Were Here" 1975, ...
 - <b> YES </b> "Close to the Edge" 1972
-- <b> The Velvet Undergound </b> "The Velvet Underground" 1969
-- <b> Led Zeppelin </b> "Led Zeppelin IV" 1971, 
+- <b> The Velvet Underground </b> "The Velvet Underground" 1969
+- <b> Led Zeppelin </b> "Led Zeppelin IV" 1971
 - <b> Camel </b> "Camel" 1973, "Mirage" 1974, "The Snow Goose" 1975
 - <b> Eagles </b> "Hotel California" 1976
 - <b> U2 </b> "The Joshua Tree" 1987
 - <b> 崔健 </b> 《新长征路上的摇滚》 1989
 - <b> 黑豹乐队 </b> 《黑豹》 1991
 - <b> Radiohead </b> "OK Computer" 1997
-- <b> Depeche Mode </b> "The Best of Depeche Mode, vol 1." 2006 (the songs are mostly from 1980-1990)
-
+- <b> Depeche Mode </b> "The Best of Depeche Mode, Vol. 1" 2006 (the songs are mostly from 1980-1990)

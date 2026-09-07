@@ -4,7 +4,7 @@ title: Modular Curves and the Eisenstein Ideal
 permalink: /study-groups/eisenstein/
 ---
 
-Draft program: see <a href="/assets/pdf/EI/Eisenstein.pdf" target="_blank"> here</a> (to be updated).
+Draft programme: see <a href="/assets/pdf/EI/Eisenstein.pdf" target="_blank"> here</a> (to be updated).
 
 Logistics:
 - Wednesdays 14:00-15:30
@@ -14,11 +14,11 @@ Logistics:
 There will be a coffee break from 15:30 to 16:00, followed by the Number Theory Seminar from 16:00 to 17:00 (the NT seminar starts on 6th May).
 
 Main references:
-- [Mar77] Barry Mazur. <i>[Modular curves and the Eisenstein ideal](https://www.numdam.org/article/PMIHES_1977__47__33_0.pdf)</i>. Publ. Math. Inst. Hautes Études Sci. 47.1 (1977): 33-186.
+- [Maz77] Barry Mazur. <i>[Modular curves and the Eisenstein ideal](https://www.numdam.org/article/PMIHES_1977__47__33_0.pdf)</i>. Publ. Math. Inst. Hautes Études Sci. 47.1 (1977): 33-186.
 - [Sno13] Andrew Snowden's [lecture notes](https://websites.umich.edu/~asnowden/teaching/2013/679/).
 
 The following resources might be helpful as well:
-- [Seminar notes on Mazur's theorem](https://math.stanford.edu/~conrad/vigregroup/vigre03.html) at Michigan, which contains some more detailed expositions of Mazur's theorem and related topics
+- [Seminar notes on Mazur's theorem](https://math.stanford.edu/~conrad/vigregroup/vigre03.html) at Michigan, which contain more detailed expositions of Mazur's theorem and related topics
 - Niven Achenjang's [notes](https://people.math.harvard.edu/~achenjang/assets/pdf/UMich_679_Notes.pdf) from Snowden's course
 - Jan Vonk's [Séminaire Mazur](https://pub.math.leidenuniv.nl/~vonkjb/other/mazur/mazur.html), which contains some references for background material
 - [Study group notes](https://www.math.univ-paris13.fr/~lagarde/mazur.html) on Mazur's Torsion Theorem at Paris 13
@@ -65,43 +65,43 @@ The following resources might be helpful as well:
       <td> 06 May </td>
       <td> Admissible group schemes </td>
       <td> Shin Thant </td>
-      <td> <a href="/assets/pdf/EI/Talk 2 - Group Schemes.pdf" target="_blank">notes</a>, <a href="/assets/pdf/EI/mazur-group-schemes.pdf" target="_blank"> hand-out </a> </td>
+      <td> <a href="/assets/pdf/EI/Talk 2 - Group Schemes.pdf" target="_blank">notes</a>, <a href="/assets/pdf/EI/mazur-group-schemes.pdf" target="_blank"> handout </a> </td>
     </tr>
     <tr>
       <td> 13 May </td>
       <td> Abelian varieties, Jacobians, and their Néron models </td>
       <td> Naina </td>
-      <td> <a href="/assets/pdf/EI/Talk 3 - Abelian Varieties, Jacobians, and their Néron Models.pdf" target="_blank">notes</a>, <a href="/assets/pdf/EI/Minimal Regular Models, Jacobians and Néron Models.pdf" target="_blank"> hand-out </a> </td>
+      <td> <a href="/assets/pdf/EI/Talk 3 - Abelian Varieties, Jacobians, and their Néron Models.pdf" target="_blank">notes</a>, <a href="/assets/pdf/EI/Minimal Regular Models, Jacobians and Néron Models.pdf" target="_blank"> handout </a> </td>
     </tr>
     <tr>
       <td> 20 May </td>
       <td> Modular curves and the proof of Theorem A </td>
       <td> Yiannis </td>
-      <td> <a href="/assets/pdf/EI/Talk 4 - Modular Curves and Theorem A.pdf" target="_blank">notes</a>, <a href="/assets/pdf/EI/Modular Curves and Theorem A.pdf" target="_blank"> hand-out </a> </td>
+      <td> <a href="/assets/pdf/EI/Talk 4 - Modular Curves and Theorem A.pdf" target="_blank">notes</a>, <a href="/assets/pdf/EI/Modular Curves and Theorem A.pdf" target="_blank"> handout </a> </td>
     </tr>
     <tr>
       <td> 27 May </td>
       <td> Jacobian of the modular curve X_0(N) has toric reduction at N </td>
       <td> Jed </td>
-      <td> <a href="/assets/pdf/EI/Talk 5 - Jacobian of Modular Curves Has Toric Reduction.pdf" target="_blank">notes</a>, hand-out </td>
+      <td> <a href="/assets/pdf/EI/Talk 5 - Jacobian of Modular Curves Has Toric Reduction.pdf" target="_blank">notes</a>, handout </td>
     </tr>
     <tr>
       <td> 03 June </td>
       <td> The proof of Theorem B  </td>
       <td> Yicheng </td>
-      <td> <a href="/assets/pdf/EI/Talk 6 - Toric Reduction.pdf">notes</a>, <a href="/assets/pdf/EI/Toric Reduction.pdf" target="_blank"> hand-out </a> </td>
+      <td> <a href="/assets/pdf/EI/Talk 6 - Toric Reduction.pdf">notes</a>, <a href="/assets/pdf/EI/Toric Reduction.pdf" target="_blank"> handout </a> </td>
     </tr>
     <tr>
       <td> 10 June </td>
       <td> Hecke algebras and the Eichler--Shimura relation </td>
       <td> Lucie </td>
-      <td> <a href="/assets/pdf/EI/Hecke Algebras.pdf" target="_blank"> hand-out </a> </td>
+      <td> <a href="/assets/pdf/EI/Hecke Algebras.pdf" target="_blank"> handout </a> </td>
     </tr>
     <tr>
       <td> 17 June </td>
       <td> The Eisenstein ideal </td>
       <td> Andrew </td>
-      <td> <a href="/assets/pdf/EI">notes</a>, <a href="/assets/pdf/EI/The Eisenstein Ideal.pdf" target="_blank"> hand-out </a> </td>
+      <td> notes (link to be added), <a href="/assets/pdf/EI/The Eisenstein Ideal.pdf" target="_blank"> handout </a> </td>
     </tr>
     <tr>
       <td> 24 June </td>
