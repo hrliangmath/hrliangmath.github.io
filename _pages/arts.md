@@ -129,8 +129,8 @@ Ashmolean Museum, visited in Aug 2024; image from the museum’s website
 
 
 <figure align="center">
-  <img src="/assets/img/chicks.jpeg" alt="水墨雏鸡图 — Chicks" width="200" height="803" loading="lazy" decoding="async" style="max-width: 100%; height: auto;">
-  <figcaption>Chicks / 雏鸡</figcaption>
+  <img src="/assets/img/chicks.jpeg" alt="雏鸡图，齐白石 — Chicks, by Qi Baishi" width="200" height="803" loading="lazy" decoding="async" style="max-width: 100%; height: auto;">
+  <figcaption>雏鸡图（创作年代待考），齐白石</figcaption>
 </figure>
 
 参观信息：【TBC】
@@ -139,7 +139,7 @@ Ashmolean Museum, visited in Aug 2024; image from the museum’s website
 
 <figure align="center">
   <img src="/assets/img/empire-of-light.jpg" alt="L’Empire des lumières, by René Magritte" width="300" height="389" loading="lazy" decoding="async" style="max-width: 100%; height: auto;">
-  <figcaption>L’Empire des lumières, René Magritte</figcaption>
+  <figcaption>L’Empire des lumières (1954), René Magritte</figcaption>
 </figure>
 
 参观信息：【TBC】
@@ -147,8 +147,8 @@ Ashmolean Museum, visited in Aug 2024; image from the museum’s website
 <br>
 
 <figure align="center">
-  <img src="/assets/img/crawling-insects.jpg" alt="遍地爬虫, 吴冠中" width="450" height="338" loading="lazy" decoding="async" style="max-width: 100%; height: auto;">
-  <figcaption>遍地爬虫 (2008), 吴冠中</figcaption>
+  <img src="/assets/img/crawling-insects.jpg" alt="满地爬虫, 吴冠中" width="450" height="338" loading="lazy" decoding="async" style="max-width: 100%; height: auto;">
+  <figcaption>满地爬虫 (2008), 吴冠中</figcaption>
 </figure>
 
 参观信息：【TBC】
@@ -157,7 +157,7 @@ Ashmolean Museum, visited in Aug 2024; image from the museum’s website
 
 <figure align="center">
   <img src="/assets/img/longjing-flowers.jpg" alt="龙井写生花卉轴, 乾隆" width="240" height="325" loading="lazy" decoding="async" style="max-width: 100%; height: auto;">
-  <figcaption>龙井写生花卉轴, 乾隆</figcaption>
+  <figcaption>龙井写生花卉轴（1762），弘历（乾隆帝）</figcaption>
 </figure>
 
 参观信息：【TBC】
@@ -263,8 +263,8 @@ From Mexico (1400s-1500s), an icon of Aztec art; British Museum, visited in Jul 
 <br>
 
 <figure align="center">
-  <img src="/assets/img/bronze-object.jpg" alt="青铜器 — Bronze object" width="220" height="330" loading="lazy" decoding="async" style="max-width: 100%; height: auto;">
-  <figcaption>青铜器</figcaption>
+  <img src="/assets/img/bronze-object.jpg" alt="吊人青铜矛 — Bronze spearhead with hanging figures" width="220" height="330" loading="lazy" decoding="async" style="max-width: 100%; height: auto;">
+  <figcaption>吊人青铜矛（西汉）</figcaption>
 </figure>
 
 参观信息：【TBC】
