@@ -118,6 +118,15 @@ Koninklijke Musea voor Schone Kunsten van België (布鲁塞尔皇家博物馆&�
 <br>
 
 <figure align="center">
+  <img src="/assets/img/crawling-insects.jpg" alt="满地爬虫, 吴冠中" width="450" height="338" loading="lazy" decoding="async" style="max-width: 100%; height: auto;">
+  <figcaption>满地爬虫 (2008), 吴冠中</figcaption>
+</figure>
+
+中华艺术宫, 参观于2024年4月; 图片源自网络
+
+<br>
+
+<figure align="center">
   <img src="/assets/img/look.jpg" alt="看万山红遍, 李津" width="360">
   <figcaption>看万山红遍 (2001), 李津</figcaption>
 </figure>
@@ -129,38 +138,29 @@ Ashmolean Museum, visited in Aug 2024; image from the museum’s website
 
 
 <figure align="center">
-  <img src="/assets/img/chicks.jpeg" alt="雏鸡图，齐白石 — Chicks, by Qi Baishi" width="200" height="803" loading="lazy" decoding="async" style="max-width: 100%; height: auto;">
-  <figcaption>雏鸡图（创作年代待考），齐白石</figcaption>
+  <img src="/assets/img/chicks.jpeg" alt="水墨雏鸡图 — Chicks" width="200" height="803" loading="lazy" decoding="async" style="max-width: 100%; height: auto;">
+  <figcaption>雏鸡图（1960s）, 齐白石</figcaption>
 </figure>
 
-参观信息：【TBC】
+天府美术馆, 参观于2024年1月; 图片源自网络
 
 <br>
 
 <figure align="center">
   <img src="/assets/img/empire-of-light.jpg" alt="L’Empire des lumières, by René Magritte" width="300" height="389" loading="lazy" decoding="async" style="max-width: 100%; height: auto;">
-  <figcaption>L’Empire des lumières (1954), René Magritte</figcaption>
+  <figcaption>L’Empire des lumières, René Magritte</figcaption>
 </figure>
 
-参观信息：【TBC】
-
-<br>
-
-<figure align="center">
-  <img src="/assets/img/crawling-insects.jpg" alt="满地爬虫, 吴冠中" width="450" height="338" loading="lazy" decoding="async" style="max-width: 100%; height: auto;">
-  <figcaption>满地爬虫 (2008), 吴冠中</figcaption>
-</figure>
-
-参观信息：【TBC】
+Koninklijke Musea voor Schone Kunsten van België, visited in May 2023; image from [here](https://www.christies.com/en/lot/lot-6508394)
 
 <br>
 
 <figure align="center">
   <img src="/assets/img/longjing-flowers.jpg" alt="龙井写生花卉轴, 乾隆" width="240" height="325" loading="lazy" decoding="async" style="max-width: 100%; height: auto;">
-  <figcaption>龙井写生花卉轴（1762），弘历（乾隆帝）</figcaption>
+  <figcaption>龙井写生花卉轴, 乾隆</figcaption>
 </figure>
 
-参观信息：【TBC】
+香港故宮文化博物館, 参观于2025年8月
 
 <br>
 
@@ -194,6 +194,15 @@ Ashmolean Museum, visited in Aug 2024; image from the museum’s website
 </figure>
 
 苏州博物馆, 参观于2023年10月
+
+<br>
+
+<figure align="center">
+  <img src="/assets/img/jade-carving.jpg" alt="玉雕 — Jade carving" width="400" height="300" loading="lazy" decoding="async" style="max-width: 100%; height: auto;">
+  <figcaption>《速写江南》系列玉雕之一, 杨曦</figcaption>
+</figure>
+
+苏州博物馆（西馆）藏, 参观于2023年10月
 
 <br>
 
@@ -251,32 +260,21 @@ From Mexico (1400s-1500s), an icon of Aztec art; British Museum, visited in Jul 
 
 <br>
 
-
-
 <figure align="center">
-  <img src="/assets/img/jade-carving.jpg" alt="玉雕 — Jade carving" width="400" height="300" loading="lazy" decoding="async" style="max-width: 100%; height: auto;">
-  <figcaption>玉雕</figcaption>
+  <img src="/assets/img/bronze-object.jpg" alt="青铜器 — Bronze object" width="220" height="330" loading="lazy" decoding="async" style="max-width: 100%; height: auto;">
+  <figcaption>吊人青铜矛</figcaption>
 </figure>
 
-参观信息：【TBC】
-
-<br>
-
-<figure align="center">
-  <img src="/assets/img/bronze-object.jpg" alt="吊人青铜矛 — Bronze spearhead with hanging figures" width="220" height="330" loading="lazy" decoding="async" style="max-width: 100%; height: auto;">
-  <figcaption>吊人青铜矛（西汉）</figcaption>
-</figure>
-
-参观信息：【TBC】
+西汉仪仗兵器; 中国国家博物馆藏, 参观于2021年4月
 
 <br>
 
 <figure align="center">
   <img src="/assets/img/rider.jpg" alt="骑士 — Sculpture of a rider on a camel" width="300" height="400" loading="lazy" decoding="async" style="max-width: 100%; height: auto;">
-  <figcaption>骑士</figcaption>
+  <figcaption>银雕骑骆驼武士</figcaption>
 </figure>
 
-参观信息：【TBC】
+尼日尔元首1984年赠礼; 中央礼品文物管理中心藏, 参观于2025年7月
 
 <br>
 
