@@ -21,9 +21,10 @@ horizontal: false
 
 ## Write-ups
 
+- <a href="/assets/pdf/WU/p-Adic families of automorphic forms.pdf" target="_blank"> p-Adic families of automorphic forms </a> (notes from my talk at the [Y-RANT VIII](https://y-rant.github.io), September 2026)
 - <a href="/assets/pdf/WU/Theta operators on (p-adic) automorphic forms and applications.pdf" target="_blank"> Theta operators on (p-adic) automorphic forms and applications </a> (notes from my talk at the Oxford Junior Number Theory Seminar, May 2026)
 - <a href="/assets/pdf/WU/Automorphic forms as bridge and gap.pdf" target="_blank"> Automorphic forms as bridge and gap </a> (notes from my talk at the London Junior Number Theory Seminar, March 2026)
-- <a href="/assets/pdf/WU/Local geometry of the eigencurve.pdf" target="_blank"> Local geometry of the eigencurve </a> (notes from my short talk at [Y-RANT VII](https://y-rant.github.io/historic/YRANT7/) 2025)
+- <a href="/assets/pdf/WU/Local geometry of the eigencurve.pdf" target="_blank"> Local geometry of the eigencurve </a> (notes from my short talk at [Y-RANT VII](https://y-rant.github.io/historic/YRANT7/), August 2025)
 - <a href="/assets/pdf/WU/O-minimality and Diophantine applications.pdf" target="_blank"> O-minimality and Diophantine applications </a> (notes from my talk at the London Junior Number Theory Seminar, January 2025)
 - <a href="/assets/pdf/WU/Geomtery and Algebra of (B, N)-pairs.pdf" target="_blank"> Geometry and algebra of (B, N)-pairs </a> (notes from my talk at a study group on Bruhat–Tits buildings)
 - Automorphic forms on adele groups (my master’s thesis — still full of errors, so available on request)
