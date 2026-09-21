@@ -31,14 +31,23 @@ We are quite flexible when it comes to scheduling, and speakers are free to desi
 
 ---
 
-Confirmed speakers for autumn 2026:
+Further confirmed speakers:
 - Ignacio Muñoz Jiménez (Genova)
 - [Ho Leung Fong](https://sites.google.com/view/holeungfong/home) (Sheffield)
 - [Jeremy Feusi](https://jeremy.feusi.co) (ETH Zürich)
-- [Zhenghang Du](https://sites.google.com/view/zhenghangdu?usp=sharing) (Regensburg)
 - Julia Meng (MIT)
 - Jiahao Niu (Stanford)
 
+<br>
+
+--- 
+
+#### Title: An algebraic construction of equivariant Eisenstein--Kronecker classes
+
+25 September 2026, [Zhenghang Du](https://sites.google.com/view/zhenghangdu?usp=sharing) (Regensburg)
+
+Abstract: Eisenstein--Kronecker classes are cohomology classes that provide a geometric counterpart to Eisenstein series. In this talk I will explain an algebraic construction of equivariant Eisenstein--Kronecker classes for abelian schemes equipped with a group of automorphisms. The construction is based on the Poincaré bundle and a residue condition along torsion sections, and it continues to work when the acting group is noncommutative. This makes it applicable, in particular, to the matrix-group actions arising from CM abelian varieties. I will explain the main ideas behind the construction and, if time permits, indicate how its complex realization leads to formulas related to special values
+of Hecke L-functions.
 
 <br>
 
