@@ -40,11 +40,15 @@ Further confirmed speakers:
 
 <br>
 
+## - Past Talks -
+
+<br>
+
 --- 
 
 #### Title: An algebraic construction of equivariant Eisenstein--Kronecker classes
 
-25 September 2026, [Zhenghang Du](https://sites.google.com/view/zhenghangdu?usp=sharing) (Regensburg)
+02 Octomber 2026, [Zhenghang Du](https://sites.google.com/view/zhenghangdu?usp=sharing) (Regensburg)
 
 Abstract: Eisenstein--Kronecker classes are cohomology classes that provide a geometric counterpart to Eisenstein series. In this talk I will explain an algebraic construction of equivariant Eisenstein--Kronecker classes for abelian schemes equipped with a group of automorphisms. The construction is based on the Poincaré bundle and a residue condition along torsion sections, and it continues to work when the acting group is noncommutative. This makes it applicable, in particular, to the matrix-group actions arising from CM abelian varieties. I will explain the main ideas behind the construction and, if time permits, indicate how its complex realization leads to formulas related to special values
 of Hecke L-functions.
@@ -68,10 +72,6 @@ Abstract: This talk will provide a gentle introduction to the theory of motives.
 04 June 2026, [Frederick Thøgersen](https://frederickthogersen.github.io) (Nottingham)
 
 Abstract: p-adic L-functions represent an essential part of the study of critical values of L-functions by creating devices that p-adically interpolate them. Furthermore, they prominently feature in the Iwasawa main conjectures where they control elements of the structure of certain ideal class groups and related objects. A recent project of mine focuses on constructing p-adic L-functions for imaginary quadratic number fields where there are two flavours: the cyclotomic and anti-cyclotomic "directions". In my talk, I will attempt to discuss (i) The motivation, (ii) My recent results for anti-cyclotomic definite unitary U_{2n} and (iii) a bit about the ("overconvergent") method.
-
-<br>
-
-## - Past Talks -
 
 <br>
 
