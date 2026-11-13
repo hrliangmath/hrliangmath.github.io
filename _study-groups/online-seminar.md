@@ -36,7 +36,14 @@ Further confirmed speakers:
 - [Ho Leung Fong](https://sites.google.com/view/holeungfong/home) (Sheffield)
 - [Jeremy Feusi](https://jeremy.feusi.co) (ETH Zürich)
 - Julia Meng (MIT)
-- Jiahao Niu (Stanford)
+
+<br>
+
+#### Title: The Geometry of Symmetry 
+
+13 November 2026, Jiahao Niu (Stanford)
+
+Abstract: This talk is a short tour of geometric representation theory. Representation theory studies symmetries through group actions on vector spaces. Its subjects range from finite and algebraic groups to Lie algebras and real or p-adic Lie groups. Through concrete examples such as G_m, G_a, and SL_2, we will go through some basic results and see how geometry connects these settings. Along the way, we will encounter geometric Satake and the Arkhipov–-Bezrukavnikov equivalence. We will conclude with a special case of recent joint work with Xinyu Li on the Arkhipov–-Bezrukavnikov equivalence with modular coefficients.
 
 <br>
 
